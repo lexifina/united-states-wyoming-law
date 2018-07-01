@@ -1,0 +1,30 @@
+Chapter 67
+MUNICIPAL COURT AUTHORITY-CONDITIONAL SUSPENSION OF
+FINES
+Original House Bill No. 106
+AN ACT relating to municipal courts; providing for conditional suspension of fines; specifying requirements;
+providing applicability; and providing for an effective date.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 5-6-116 is created to read:
+5-6-116. Suspension of fines on conditions.
+(a) Notwithstanding W.S. 7-13-302 through 7-13-305, when imposing a fine
+for breach of an ordinance that is punishable by fine only, a municipal judge
+may suspend all or part of the fine for a specified period, not to exceed six
+(6) months, during which the defendant must meet specified conditions. The
+conditions imposed shall only require the defendant to conform his conduct to
+the requirements of the ordinance and shall not prohibit lawful conduct. When
+suspending a fine, a municipal judge must:
+(i) Specify the amount of the fine to be suspended; and
+(ii) Specify the conditions the defendant must meet to avoid imposition
+of the suspended portion of the fine, including the date by which the conditions
+must be met.
+(b) If a defendant fails to comply with the conditions specified, the
+municipality may commence proceedings to impose the suspended portion of
+the fine during the period of suspension or within thirty (30) days thereafter. If
+after notice and a hearing the court determines the defendant failed to comply
+with the conditions of the suspended fine, the court may proceed to deal with
+the case as if no suspension of fine had been ordered.
+Section 2. This act applies only to violations of ordinances that occur on or
+after the effective date of this act.
+Section 3. This act is effective July 1, 2018.
+Approved March 12, 2018.
