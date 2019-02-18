@@ -1,0 +1,34 @@
+Chapter 50
+WYOMING COWBOY CHALLENGE ACADEMY ENDOWMENT
+Original Senate File No. 54
+AN ACT relating to the administration of defense forces and affairs; creating the Wyoming national guard
+youth challenge program endowment account to be administered by the state treasurer; authorizing the
+receipt of donations and gifts as specified; authorizing distribution of investment earnings as specified;
+specifying an alternate designation; and providing for an effective date.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 19-7-207 is created to read:
+19-7-207. Wyoming national guard youth challenge program endowment
+account; administration; distributions; purposes.
+(a) The Wyoming national guard youth challenge program endowment
+account is created. The state treasurer is authorized to accept cash gifts for
+the account. Funds within the account including all funds deposited to
+the account from any source are intended to be inviolate and constitute a
+permanent or perpetual trust fund. The state treasurer shall invest funds
+within the endowment account in accordance with law. Fifty percent (50%) of
+investment earnings from funds in the endowment account shall be credited
+to the endowment account. Fifty percent (50%) of investment earnings shall be
+distributed in accordance with subsection (b) of this section.
+(b) The state treasurer shall semiannually distribute fifty percent (50%)
+of investment earnings from the Wyoming national guard youth challenge
+program endowment account to the Wyoming military department. Funds
+distributed under this subsection shall only be expended for the operation
+and facility needs of the Wyoming national guard youth challenge program
+established under W.S. 19-9-701. Funds distributed under this subsection shall
+be expended pursuant to W.S. 19-9-702.
+(c) The Wyoming national guard youth challenge program endowment
+account created in subsection (a) of this section may be known as the “Wyoming
+cowboy challenge academy endowment account.”
+Section 2. This act is effective immediately upon completion of all acts
+necessary for a bill to become law as provided by Article 4, Section 8 of the
+Wyoming Constitution.
+Approved February 18, 2019.
