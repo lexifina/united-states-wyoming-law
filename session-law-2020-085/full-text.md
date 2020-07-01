@@ -1,0 +1,69 @@
+Chapter 85
+MUNICIPAL RIGHT-OF-WAY FRANCHISE FEES
+Original House Bill No. 19
+AN ACT relating to cities and towns; authorizing franchise fee agreements for access to public rights-of-way;
+providing limitations on franchise fee agreements as specified; providing exceptions; and providing for an
+effective date.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 15-1-131 is created to read:
+15-1-131. Communications companies franchise agreements authorized;
+limitations; procedure; exceptions.
+(a) The governing body of a city or town may enter into a franchise agreement
+with a communications company, as defined by W.S. 1-26-813(b), for access to
+its public rights-of-way if the governing body deems the franchise agreement
+to be proper and the agreement meets the requirements of this section.
+(b) All franchise agreements entered into by a governing body with a
+communications company under this section or with a cable company pursuant
+to 47 U.S.C. § 541 et seq. shall:
+(i) Be fair and reasonable;
+(ii) Be competitively neutral and nondiscriminatory;
+(iii) Comply with all requirements of applicable federal and state laws and
+ordinance;
+(iv) Not unreasonably impair or inhibit the deployment of communications
+services;
+(v) To the extent practical encourage the deployment of communications
+services to serve consumers.
+(c) Franchise fees assessed under a franchise agreement entered into pursuant
+to this section shall:
+(i) Be passed through to customers unless otherwise agreed;
+(ii) Not be assessed on revenues from internet access service.
+(d) A communications company assessed a franchise fee on local exchange
+services by a governing body may not be assessed any additional franchise fees
+by that governing body, including an assessment on any other communications
+services.
+(e) A communications company proposing to enter into a franchise
+agreement shall provide to the governing body of the city or town a request
+for negotiations. Negotiations between the governing body and a proposed
+franchisee shall not exceed one hundred eighty (180) days unless agreed to by
+the parties in writing. A request made under this subsection shall include, at
+a minimum, the date of the request for negotiations, the proposed date for the
+start of negotiations, the date by which negotiations shall terminate and the
+contact information for the proposed franchisee.
+(f) Any holder of a cable franchise pursuant to 47 U.S.C. § 541 et seq. shall be
+exempt from subsections (a), (c) and (e) of this section. Subject to federal law
+and the provisions of this subsection, a governing body may assess a franchise
+fee on gross revenues as determined in accordance with generally accepted
+accounting principles for the provision of cable service over a cable system
+operated by a holder of a cable franchise pursuant to 47 U.S.C. § 541 et seq.
+As used in this subsection, “gross revenues” shall not include any taxes, fees
+or assessments collected by a holder of a cable franchise from subscribers that
+are passed through to a government agency, including the user fee assessed by
+the federal communications commission, franchise fees, sales taxes and utility
+taxes. Nothing in this subsection shall be construed to prohibit or alter any
+decision by a governing body to not impose the franchise fee authorized by
+this section or any decision by a governing body to enter into an agreement
+with a holder of a cable franchise to impose a franchise fee on only a portion of
+the gross revenues from the provision of cable service subject to franchise fees
+under federal law and the provisions of this subsection.
+Section 2. W.S. 15-1-103(a)(xxxiii)(intro) is amended to read:
+15-1-103. General powers of governing bodies.
+(a) The governing bodies of all cities and towns may:
+(xxxiii) Grant franchises for such terms as the governing body deems
+proper to any utility company, <ins>and, for communication companies, in</ins>
+<ins>accordance with W.S. 15-1-131,</ins> provided no franchise may be entered into with
+any person in which that person is given an exclusive right for any purpose
+whatsoever and:
+Section 3. Any existing franchises on the effective date of this act may
+continue until termination.
+Section 4. This act is effective July 1, 2020.
+Approved March 13, 2020.
