@@ -1,0 +1,22 @@
+Chapter 92
+MOON LANDING DAY
+Original Senate File No. 95
+AN ACT relating to legal time and holidays; designating Moon Landing Day as a state recognized
+commemorative day to be observed as specified; and providing for an effective date.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 8-4-116 is created to read:
+8-4-116. Moon Landing Day.
+(a) In recognition of American astronauts Neil Armstrong and Edwin “Buzz”
+Aldrin becoming the first humans to land and walk on the moon on July 20,
+1969 and the men and women who aided the astronauts in landing on the
+moon and returning home safely, including Michael Collins who piloted the
+command module, July 20 of each year is designated as “Moon Landing Day.”
+The day shall be appropriately observed by state and local government and by
+organizations within the state.
+(b) The governor may, in advance of July 20 of each year, issue a proclamation
+requesting proper observance of “Moon Landing Day.”
+(c) This section shall not affect commercial paper, the making or execution
+of agreements or judicial proceedings, or authorize public schools, businesses
+or state and local government offices to close.
+Section 2. This act is effective July 1, 2023.
+Approved February 24, 2023.
