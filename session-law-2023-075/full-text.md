@@ -1,0 +1,58 @@
+Chapter 75
+PURPLE STAR SCHOOLS
+Original House Bill No. 56
+AN ACT relating to education; providing for the designation of purple star schools that take specific actions
+to assist military connected students; specifying requirements for purple star schools; providing rulemak-
+ing authority; and providing for an effective date.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 21-3-134 is created to read:
+21-3-134. Purple star schools.
+(a) As used in this section, “military connected student” means a student
+who is a dependent of a current or former member of the uniformed services
+of the United States including members of the national guard and reserve or
+who was a dependent of a member of the uniformed services of the United
+States, including a member of the national guard or reserve, who was killed in
+the line of duty.
+(b) The department shall designate a school as a purple star school if the
+school applies to the department and qualifies as a purple star school under
+this section.
+(c) To qualify as a purple star school under this section the school shall:
+(i) Have a staff member designated as a military liaison who shall:
+(A) Identify military connected students enrolled at the school;
+(B) Serve as the point of contact between the school and military
+connected students and their families or guardians;
+(C) Assist in developing and coordinating appropriate services and
+programs relevant to military connected students.
+(ii) Maintain on the school website an easily accessible web page that
+includes resources for military connected students and their families or
+guardians, including information regarding:
+(A) Relocation to, enrollment at, registration at and transferring records
+to and from the school;
+(B) Academic planning, course sequences and advanced classes available
+at the school;
+(C) Counseling and other support services available for military
+connected students enrolled at the campus; and
+(D) The name and contact information of the military liaison designated
+by the school under paragraph (i) of this subsection and the liaison’s duties.
+(iii) Maintain a transition program, which may be led by students if
+appropriate, that assists military connected students in transitioning into the
+school;
+(iv) Offer professional development for staff members on issues related to
+military connected students;
+(v) Do at least one (1) of the following:
+(A) Have a resolution adopted by the board of trustees of the school
+district of the school showing support for military connected students and
+their families;
+(B) Provide recognition of the month of the military child or military
+family month with relevant events hosted by the school;
+(C) Partner with a local military installation that provides opportunities
+for active duty military members to volunteer at the school, speak at a school
+assembly or host a field trip.
+(d) A school may partner with the school district as necessary to comply
+with the requirements of this section including providing for a web page on
+the school district website if the school does not have a website, providing
+for professional development and the adoption of a resolution as provided in
+subparagraph (c)(v)(A) of this section.
+(e) The department shall adopt rules necessary to administer this section.
+Section 2. This act is effective July 1, 2023.
+Approved February 23, 2023.
