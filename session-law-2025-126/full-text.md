@@ -1,0 +1,71 @@
+Chapter 126
+CHEMICAL ABORTIONS-ULTRASOUND REQUIREMENT
+Original House Bill No. 64
+AN ACT relating to abortions; requiring ultrasounds before the procurement of chemical abortions;
+providing verification requirements; providing definitions; providing penalties; specifying applicability;
+providing for the conflict of laws; and providing for an effective date.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 35-6-201 and 35-6-202 are created to read:
+ARTICLE 2
+REGULATION OF ABORTIONS
+35-6-201. Chemical abortions; ultrasound requirement; definitions;
+penalties.
+(a) As used in this article:
+(i) “Abortion” means the act of using or prescribing any instrument,
+medicine, drug or any other substance, device or means with the intent to
+terminate the pregnancy of a woman, including the elimination of one (1)
+or more unborn babies in a multifetal pregnancy, with knowledge that the
+termination by those means will, with reasonable likelihood, cause the death of
+the unborn baby. “Abortion” shall not include any use, prescription or means
+specified in this paragraph if the use, prescription or means are done with the
+intent to:
+(A) Save the life or preserve the health of the unborn baby;
+(B) Remove a dead unborn baby caused by spontaneous abortion or
+intrauterine fetal demise;
+(C) Treat a woman for an ectopic pregnancy; or
+(D) Treat a woman for cancer or another disease that requires medical
+treatment which treatment may be fatal or harmful to the unborn baby.
+(ii) “Chemical abortion” means the use of any medication, drug, substance
+or combination thereof that is prescribed or administered for the purpose
+of terminating a pregnancy once the pregnancy can be confirmed through
+conventional medical testing;
+(iii) “Health care provider” means a person licensed, certified or
+authorized in a health care profession under title 33 of the Wyoming statutes;
+(iv) “Pregnancy” or “pregnant” means the human female reproductive
+condition of having a living unborn baby or human being within a human
+female’s body throughout the entire embryonic and fetal stages of the unborn
+baby or human being from fertilization, when a fertilized egg has implanted in
+the wall of the uterus, to full gestation and childbirth.
+(b) Not less than forty-eight (48) hours before a pregnant woman procures
+the drugs or substances for a chemical abortion or before a health care
+provider dispenses the drugs or substances necessary for a chemical abortion,
+whichever is earlier, the pregnant woman shall receive an ultrasound in order
+to provide the pregnant woman the opportunity to view the active ultrasound
+of the unborn baby and view the fetal heart motion or hear the heartbeat of the
+unborn baby if the heartbeat is audible.
+(c) The ultrasound required under subsection (b) of this section shall be of a
+quality consistent with standard medical practice in the community.
+(d) Upon providing an ultrasound under this section, the provider of the
+ultrasound shall provide the pregnant woman with a document that specifies:
+(i) The date, time and place of the ultrasound;
+(ii) The health care provider who ordered or requested the ultrasound;
+(iii) The health care provider who performed the ultrasound;
+(iv) Confirmation of intrauterine pregnancy and the gestational age of the
+unborn baby.
+(e) Before a health care provider dispenses the drugs or substances necessary
+for a chemical abortion to a pregnant woman, the health care provider shall
+verify that the ultrasound required by this section occurred.
+(f) Except as otherwise provided in this subsection, any person who violates
+this section shall be guilty of a misdemeanor punishable by imprisonment
+for not more than six (6) months, a fine not to exceed nine thousand dollars
+($9,000.00), or both. Nothing in this section shall be construed to subject a
+pregnant woman to any criminal penalty under this subsection.
+35-6-202. Ultrasound requirement; conflict of laws; applicability.
+If any provision of this article conflicts with the Life is a Human Right Act
+or W.S. 35-6-139, the provisions of the Life is a Human Right Act and W.S.
+35-6-139 shall control over this article to the extent that the Life is a Human
+Right Act and W.S. 35-6-139 are enforceable.
+Section 2. This act is effective immediately upon completion of all acts
+necessary for a bill to become law as provided by Article 4, Section 8 of the
+Wyoming Constitution.
+Approved March 6, 2025.
