@@ -1,0 +1,69 @@
+Chapter 144
+FAIRNESS IN SPORTS-INTERCOLLEGIATE ATHLETICS
+Original Senate File No. 44
+AN ACT relating to education; requiring students at the University of Wyoming and Wyoming community
+colleges to compete in intercollegiate athletic competitions based on their biological sex; providing
+definitions; and providing for an effective date.
+Be It Enacted by the Legislature of the State of Wyoming:
+Section 1. W.S. 21-25-301 is created to read:
+ARTICLE 3
+PARTICIPATION IN INTERCOLLEGIATE ATHLETICS
+21-25-301. Intercollegiate athletic competitions based on biological sex.
+(a) As used in this section:
+(i) “Athletic competition” means any intercollegiate athletic display
+between teams or persons, including a contest, exhibition, performance or
+sport;
+(ii) “Educational institution” means the University of Wyoming and each
+Wyoming community college;
+(iii) “Female” means a person who has, had, will have or would have had,
+but for a congenital anomaly or intentional or unintentional disruption, the
+reproductive system that at some point produces, transports and utilizes eggs
+for fertilization;
+(iv) “Individual sport” means an athletic activity where participants
+compete as individuals for a time, score or result, regardless of whether their
+individual time, score or result contributes to an overall team score;
+(v) “Male” means a person who has, had, will have or would have had,
+but for a congenital anomaly or intentional or unintentional disruption, the
+reproductive system that at some point produces, transports and utilizes sperm
+for fertilization.
+(b) Except as provided in subsection (c) of this section, no educational
+institution shall allow:
+(i) A student to compete in an athletic competition sponsored or
+authorized by the educational institution that is designated for the sex opposite
+to the student’s sex;
+(ii) A male student to compete in an athletic competition that is mixed-
+sex in a position that is designated by rule or procedure for female students;
+(iii) Participation in any athletic competition designated for students of
+the female sex with or against a team that the educational institution knows has
+on the team a student of the male sex;
+(iv) Except as provided by subsection (c) of this section, in the case of
+an individual sport, students of the female sex to directly compete against a
+student that the educational institution knows is a student of the male sex if
+the educational institution determines that the competition would be unsafe or
+unfair to the students of the female sex.
+(c) An educational institution may allow a female student to compete in an
+athletic competition that is designated for male students if a corresponding
+athletic competition designated for female students is not offered or available.
+(d) For purposes of this section, a statement of a student’s sex on the student’s
+official birth certificate is considered to have correctly stated the student’s sex
+only if the statement was entered at or near the time of the student’s birth or
+modified to correct a clerical error in the student’s sex.
+(e) No educational institution shall retaliate against a person for reporting a
+violation of this section. An educational institution may discipline a student
+or employee of the institution for making a false report of a violation of this
+section.
+(f) A person shall have a private civil cause of action against an educational
+institution for any violation of this section. An action filed pursuant to this
+section shall be subject to W.S. 1-39-113 and 1-39-114. The liability of an
+educational institution for any violation of this section shall not exceed fifty
+thousand dollars ($50,000.00).
+(g) A person may seek declaratory and injunctive relief against an educational
+institution for any violation of this section. The court may order injunctive
+or other equitable relief. The court may award the prevailing party reasonable
+attorney’s fees and costs.
+(h) The University of Wyoming and the Wyoming community college
+commission shall promulgate rules to implement this section. Rules adopted
+under this subsection shall ensure compliance with state and federal law
+regarding the confidentiality of student medical information.
+Section 2. This act is effective July 1, 2025.
+Approved March 13, 2025.
