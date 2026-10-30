@@ -1,0 +1,9 @@
+{
+  "path": "us-wy",
+  "code": "WY",
+  "name": "Wyoming",
+  "level": "state",
+  "repo": "https://github.com/lexifina/united-states-wyoming-law",
+  "build": "built: Constitution; Wyoming Statutes Titles 6, 17 and 34 (text only)",
+  "register_date": "2026-10-30"
+}

@@ -1,0 +1,61 @@
+{
+ "country": "US-WY",
+ "acts": [
+  {
+   "slug": "constitution",
+   "short": "WY Const.",
+   "title": "Constitution of the State of Wyoming",
+   "url": "https://wyoleg.gov/statutes/compress/Title97.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 316,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title97.pdf",
+     "sha256": "63de540304eb0e4c216bf74958835184e8b1e36c6bb9da70c77edd6c3dd1eda2"
+    }
+   ]
+  },
+  {
+   "slug": "title-06-crimes-and-offenses",
+   "short": "WY Stat. tit. 6",
+   "title": "Wyoming Statutes Title 6: Crimes and Offenses",
+   "url": "https://wyoleg.gov/statutes/compress/Title06.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 296,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title06.pdf",
+     "sha256": "302324beb959ac13d3492d2e28d743b8a77b4c166347dd7f8927419d469b658a"
+    }
+   ]
+  },
+  {
+   "slug": "title-17-corporations",
+   "short": "WY Stat. tit. 17",
+   "title": "Wyoming Statutes Title 17: Corporations, Partnerships and Associations",
+   "url": "https://wyoleg.gov/statutes/compress/Title17.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1420,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title17.pdf",
+     "sha256": "f0fd7eb843b83bb60095bad496330f8dfd46ff7051dff8d1bec822650a3671f6"
+    }
+   ]
+  },
+  {
+   "slug": "title-34-property",
+   "short": "WY Stat. tit. 34",
+   "title": "Wyoming Statutes Title 34: Property, Conveyances and Security Transactions",
+   "url": "https://wyoleg.gov/statutes/compress/Title34.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 958,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title34.pdf",
+     "sha256": "dffab8c62b28f3387dcfdea2e38322cb0fa78d9c7c4ec1499bbf2dcf39a5300b"
+    }
+   ]
+  }
+ ]
+}
