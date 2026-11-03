@@ -56,6 +56,538 @@
      "sha256": "dffab8c62b28f3387dcfdea2e38322cb0fa78d9c7c4ec1499bbf2dcf39a5300b"
     }
    ]
+  },
+  {
+   "slug": "title-01-code-of-civil-procedure",
+   "short": "WY Stat. tit. 1",
+   "title": "Wyoming Statutes Title 1: Code of Civil Procedure",
+   "url": "https://wyoleg.gov/statutes/compress/Title01.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1034,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title01.pdf",
+     "sha256": "44b895e013260515acaedb4ba103fb746bf53e73c973d533ea66a98067433a9f"
+    }
+   ]
+  },
+  {
+   "slug": "title-02-wills-decedents-estates-and-probate-code",
+   "short": "WY Stat. tit. 2",
+   "title": "Wyoming Statutes Title 2: Wills, Decedents' Estates and Probate Code",
+   "url": "https://wyoleg.gov/statutes/compress/Title02.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 465,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title02.pdf",
+     "sha256": "6dc86521a77788589b9c2bdc0f951ff5585d144113e578ad04f4d633033dcee0"
+    }
+   ]
+  },
+  {
+   "slug": "title-03-guardian-and-ward",
+   "short": "WY Stat. tit. 3",
+   "title": "Wyoming Statutes Title 3: Guardian and Ward",
+   "url": "https://wyoleg.gov/statutes/compress/Title03.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 218,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title03.pdf",
+     "sha256": "ab699b070780b1788c0d39a0ea0ab8d3ce78660e3f5391ae580cc4e711565e57"
+    }
+   ]
+  },
+  {
+   "slug": "title-04-trusts",
+   "short": "WY Stat. tit. 4",
+   "title": "Wyoming Statutes Title 4: Trusts",
+   "url": "https://wyoleg.gov/statutes/compress/Title04.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 202,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title04.pdf",
+     "sha256": "79a8211754506b913435690df99899884f3d44df3a2823004bbfe3f51f677f89"
+    }
+   ]
+  },
+  {
+   "slug": "title-05-courts",
+   "short": "WY Stat. tit. 5",
+   "title": "Wyoming Statutes Title 5: Courts",
+   "url": "https://wyoleg.gov/statutes/compress/Title05.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 382,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title05.pdf",
+     "sha256": "0233b45e6ef7b1fe11a6287647d758f3037a8c137cb1d779a20132a52306a87c"
+    }
+   ]
+  },
+  {
+   "slug": "title-07-criminal-procedure",
+   "short": "WY Stat. tit. 7",
+   "title": "Wyoming Statutes Title 7: Criminal Procedure",
+   "url": "https://wyoleg.gov/statutes/compress/Title07.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 512,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title07.pdf",
+     "sha256": "64f12ab93a918810f149f81ed20793157f1c62e6b1501e02f0939cfdfbe09ce5"
+    }
+   ]
+  },
+  {
+   "slug": "title-08-general-provisions",
+   "short": "WY Stat. tit. 8",
+   "title": "Wyoming Statutes Title 8: General Provisions",
+   "url": "https://wyoleg.gov/statutes/compress/Title08.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 63,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title08.pdf",
+     "sha256": "68cf48d5ff452280abd29906e0218a95eab5c48774affca1b89606db2e6acdad"
+    }
+   ]
+  },
+  {
+   "slug": "title-09-administration-of-the-government",
+   "short": "WY Stat. tit. 9",
+   "title": "Wyoming Statutes Title 9: Administration of the Government",
+   "url": "https://wyoleg.gov/statutes/compress/Title09.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1176,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title09.pdf",
+     "sha256": "3c38d489574f877f2841270781cdef29309f801eb6ee234c6085a64fcbba321a"
+    }
+   ]
+  },
+  {
+   "slug": "title-10-aeronautics",
+   "short": "WY Stat. tit. 10",
+   "title": "Wyoming Statutes Title 10: Aeronautics",
+   "url": "https://wyoleg.gov/statutes/compress/Title10.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 47,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title10.pdf",
+     "sha256": "9addc3034b9024a52fff929283be51bedeeb77939ed72261722d2080fb1054ab"
+    }
+   ]
+  },
+  {
+   "slug": "title-11-agriculture-livestock-and-other-animals",
+   "short": "WY Stat. tit. 11",
+   "title": "Wyoming Statutes Title 11: Agriculture, Livestock and Other Animals",
+   "url": "https://wyoleg.gov/statutes/compress/Title11.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 779,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title11.pdf",
+     "sha256": "68f78b4ee97c0320e63f69b4e3e5d45518fd409be70bffda4b6f8e1dcd2fbcf4"
+    }
+   ]
+  },
+  {
+   "slug": "title-12-alcoholic-beverages",
+   "short": "WY Stat. tit. 12",
+   "title": "Wyoming Statutes Title 12: Alcoholic Beverages",
+   "url": "https://wyoleg.gov/statutes/compress/Title12.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 116,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title12.pdf",
+     "sha256": "0e0b5dd9d671df95c9f6d777cc69e3842b930c61a82205261eebde9c063a3aa7"
+    }
+   ]
+  },
+  {
+   "slug": "title-13-banks-banking-and-finance",
+   "short": "WY Stat. tit. 13",
+   "title": "Wyoming Statutes Title 13: Banks, Banking and Finance",
+   "url": "https://wyoleg.gov/statutes/compress/Title13.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 400,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title13.pdf",
+     "sha256": "0090499d238461522ecac90acc2d8af9907ebc933f7fc45bf8df428922ef2149"
+    }
+   ]
+  },
+  {
+   "slug": "title-14-children",
+   "short": "WY Stat. tit. 14",
+   "title": "Wyoming Statutes Title 14: Children",
+   "url": "https://wyoleg.gov/statutes/compress/Title14.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 414,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title14.pdf",
+     "sha256": "e9447d5b6c94c21b040251cf0b024bec652b6860bd5491ab0d643481d1f45d89"
+    }
+   ]
+  },
+  {
+   "slug": "title-15-cities-and-towns",
+   "short": "WY Stat. tit. 15",
+   "title": "Wyoming Statutes Title 15: Cities and Towns",
+   "url": "https://wyoleg.gov/statutes/compress/Title15.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 542,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title15.pdf",
+     "sha256": "77874b3955cac987be7c2ae7d5caaf1cfddf4e367548ce6095874b09ca75d483"
+    }
+   ]
+  },
+  {
+   "slug": "title-16-city-county-state-and-local-powers",
+   "short": "WY Stat. tit. 16",
+   "title": "Wyoming Statutes Title 16: City, County, State and Local Powers",
+   "url": "https://wyoleg.gov/statutes/compress/Title16.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 272,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title16.pdf",
+     "sha256": "a8e337b72c2e9d5d2a12388753e52f63a3852af2a5ab4b572921c526333eaa01"
+    }
+   ]
+  },
+  {
+   "slug": "title-18-counties",
+   "short": "WY Stat. tit. 18",
+   "title": "Wyoming Statutes Title 18: Counties",
+   "url": "https://wyoleg.gov/statutes/compress/Title18.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 372,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title18.pdf",
+     "sha256": "bef4a965da2404493d9e8651aca6bb4590741e736e8ffd546992d11ee65c519c"
+    }
+   ]
+  },
+  {
+   "slug": "title-19-defense-forces-and-affairs",
+   "short": "WY Stat. tit. 19",
+   "title": "Wyoming Statutes Title 19: Defense Forces and Affairs",
+   "url": "https://wyoleg.gov/statutes/compress/Title19.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 269,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title19.pdf",
+     "sha256": "dd75cdc29a6922568c39ffea6cd813350bd47d342c6314beac1e094634b4e324"
+    }
+   ]
+  },
+  {
+   "slug": "title-20-domestic-relations",
+   "short": "WY Stat. tit. 20",
+   "title": "Wyoming Statutes Title 20: Domestic Relations",
+   "url": "https://wyoleg.gov/statutes/compress/Title20.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 298,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title20.pdf",
+     "sha256": "3038820c1835b138b8120db4a570471bd6272bf38e30dd4fd48d24014d8bd5a6"
+    }
+   ]
+  },
+  {
+   "slug": "title-21-education",
+   "short": "WY Stat. tit. 21",
+   "title": "Wyoming Statutes Title 21: Education",
+   "url": "https://wyoleg.gov/statutes/compress/Title21.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 739,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title21.pdf",
+     "sha256": "5f9b70489b5c39f9af21e632d80e24d537cdbdffdb562a7b299db9debb7e0ced"
+    }
+   ]
+  },
+  {
+   "slug": "title-22-elections",
+   "short": "WY Stat. tit. 22",
+   "title": "Wyoming Statutes Title 22: Elections",
+   "url": "https://wyoleg.gov/statutes/compress/Title22.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 588,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title22.pdf",
+     "sha256": "a7d73bc40f51c3f285d0de2477a441730c08662fc842c3fde720d4baa7eb48a9"
+    }
+   ]
+  },
+  {
+   "slug": "title-23-game-and-fish",
+   "short": "WY Stat. tit. 23",
+   "title": "Wyoming Statutes Title 23: Game and Fish",
+   "url": "https://wyoleg.gov/statutes/compress/Title23.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 173,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title23.pdf",
+     "sha256": "0f2fe1b0a3a60063154d7b0d82dd25f7b59537450b7e48de4c354f255ff28942"
+    }
+   ]
+  },
+  {
+   "slug": "title-24-highways",
+   "short": "WY Stat. tit. 24",
+   "title": "Wyoming Statutes Title 24: Highways",
+   "url": "https://wyoleg.gov/statutes/compress/Title24.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 166,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title24.pdf",
+     "sha256": "d53cb9b7fd5b1ef04c03a9cc8d3c0461f3a07d403df24f0e4d2d5c6f8ee2b2fc"
+    }
+   ]
+  },
+  {
+   "slug": "title-25-institutions-of-the-state",
+   "short": "WY Stat. tit. 25",
+   "title": "Wyoming Statutes Title 25: Institutions of the State",
+   "url": "https://wyoleg.gov/statutes/compress/Title25.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 146,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title25.pdf",
+     "sha256": "96e035d416404dcc3f7f50702832034b0522d7c0e6db7678b1df691b78854dbe"
+    }
+   ]
+  },
+  {
+   "slug": "title-26-insurance-code",
+   "short": "WY Stat. tit. 26",
+   "title": "Wyoming Statutes Title 26: Insurance Code",
+   "url": "https://wyoleg.gov/statutes/compress/Title26.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1241,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title26.pdf",
+     "sha256": "c3d0ee12034b57028414d563b46dde51e41ad0ccf48889f1efc0472648dc2eda"
+    }
+   ]
+  },
+  {
+   "slug": "title-27-labor-and-employment",
+   "short": "WY Stat. tit. 27",
+   "title": "Wyoming Statutes Title 27: Labor and Employment",
+   "url": "https://wyoleg.gov/statutes/compress/Title27.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 409,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title27.pdf",
+     "sha256": "c131a406d44bf2e556500c4ca8de7ccc3c6334cdc4d02c5e31ceabc25293b47a"
+    }
+   ]
+  },
+  {
+   "slug": "title-28-legislature",
+   "short": "WY Stat. tit. 28",
+   "title": "Wyoming Statutes Title 28: Legislature",
+   "url": "https://wyoleg.gov/statutes/compress/Title28.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 98,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title28.pdf",
+     "sha256": "93c0510f4ea8b181c345170f6848cfd2c4212365e79a2752b5fb34692692b2a5"
+    }
+   ]
+  },
+  {
+   "slug": "title-29-liens",
+   "short": "WY Stat. tit. 29",
+   "title": "Wyoming Statutes Title 29: Liens",
+   "url": "https://wyoleg.gov/statutes/compress/Title29.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 106,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title29.pdf",
+     "sha256": "e0ffc1c364563141f04c7cf685f8984abe2cd6e5b885f8bf67d03d7f8dbed383"
+    }
+   ]
+  },
+  {
+   "slug": "title-30-mines-and-minerals",
+   "short": "WY Stat. tit. 30",
+   "title": "Wyoming Statutes Title 30: Mines and Minerals",
+   "url": "https://wyoleg.gov/statutes/compress/Title30.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 202,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title30.pdf",
+     "sha256": "3a105e55d45a5ab5942de0ef7dbbfcbec747bf41e2dc71ce29ab425014d98616"
+    }
+   ]
+  },
+  {
+   "slug": "title-31-motor-vehicles",
+   "short": "WY Stat. tit. 31",
+   "title": "Wyoming Statutes Title 31: Motor Vehicles",
+   "url": "https://wyoleg.gov/statutes/compress/Title31.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 620,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title31.pdf",
+     "sha256": "3b4ca3594a5b411bb8d9ebb3202e6ed7211541110e416ff5aca3cab79cb30097"
+    }
+   ]
+  },
+  {
+   "slug": "title-32-notaries-public",
+   "short": "WY Stat. tit. 32",
+   "title": "Wyoming Statutes Title 32: Notaries Public",
+   "url": "https://wyoleg.gov/statutes/compress/Title32.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 50,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title32.pdf",
+     "sha256": "7b7844f9a16eac9163f7f8d9b89c53b3d8b2a61ba219be94cbfd744654460ad4"
+    }
+   ]
+  },
+  {
+   "slug": "title-33-professions-and-occupations",
+   "short": "WY Stat. tit. 33",
+   "title": "Wyoming Statutes Title 33: Professions and Occupations",
+   "url": "https://wyoleg.gov/statutes/compress/Title33.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1125,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title33.pdf",
+     "sha256": "7afd55b8bb0b2c0013bebbb03d6974c203ed1c70f2657dbe40a97cb607fa56ca"
+    }
+   ]
+  },
+  {
+   "slug": "title-35-public-health-and-safety",
+   "short": "WY Stat. tit. 35",
+   "title": "Wyoming Statutes Title 35: Public Health and Safety",
+   "url": "https://wyoleg.gov/statutes/compress/Title35.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 1456,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title35.pdf",
+     "sha256": "1195dea407a948ceb914de6daee6e7d9200427a5949d7aeb2d59f17f4d863e5e"
+    }
+   ]
+  },
+  {
+   "slug": "title-36-state-lands",
+   "short": "WY Stat. tit. 36",
+   "title": "Wyoming Statutes Title 36: State Lands",
+   "url": "https://wyoleg.gov/statutes/compress/Title36.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 290,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title36.pdf",
+     "sha256": "2395855d4dbfe2b97ff43a0dc597cbc58d5e98db1c9022377fddadf24aa679b1"
+    }
+   ]
+  },
+  {
+   "slug": "title-37-public-utilities",
+   "short": "WY Stat. tit. 37",
+   "title": "Wyoming Statutes Title 37: Public Utilities",
+   "url": "https://wyoleg.gov/statutes/compress/Title37.pdf",
+   "versions": [
+    {
+     "from": "2026-07-16",
+     "units": 509,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title37.pdf",
+     "sha256": "3feca4906495491ea1a4179c10e21e5e371d03b63673613bd41df608a82a0cb3"
+    }
+   ]
+  },
+  {
+   "slug": "title-38-sureties",
+   "short": "WY Stat. tit. 38",
+   "title": "Wyoming Statutes Title 38: Sureties",
+   "url": "https://wyoleg.gov/statutes/compress/Title38.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 22,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title38.pdf",
+     "sha256": "b363ffde167146a299d12118c1d6b6f79688500bd14f9715cf826e11a20e160f"
+    }
+   ]
+  },
+  {
+   "slug": "title-39-taxation-and-revenue",
+   "short": "WY Stat. tit. 39",
+   "title": "Wyoming Statutes Title 39: Taxation and Revenue",
+   "url": "https://wyoleg.gov/statutes/compress/Title39.pdf",
+   "versions": [
+    {
+     "from": "2026-10-14",
+     "units": 461,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title39.pdf",
+     "sha256": "f5d0b10433ddd2e7b135e3f53a87496f0bd705dcd1981807a70478a6ce338ede"
+    }
+   ]
+  },
+  {
+   "slug": "title-40-trade-and-commerce",
+   "short": "WY Stat. tit. 40",
+   "title": "Wyoming Statutes Title 40: Trade and Commerce",
+   "url": "https://wyoleg.gov/statutes/compress/Title40.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 686,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title40.pdf",
+     "sha256": "2a7e997e4a18abb2eb8cc0f0a50f2ec030c338d9edbba3e82958399f05c1e301"
+    }
+   ]
+  },
+  {
+   "slug": "title-41-water",
+   "short": "WY Stat. tit. 41",
+   "title": "Wyoming Statutes Title 41: Water",
+   "url": "https://wyoleg.gov/statutes/compress/Title41.pdf",
+   "versions": [
+    {
+     "from": "2026-05-08",
+     "units": 814,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title41.pdf",
+     "sha256": "7d23e54d8a94227974f95660d8ba954130941b6355df27c211abe2ed5fea8215"
+    }
+   ]
   }
  ]
 }
