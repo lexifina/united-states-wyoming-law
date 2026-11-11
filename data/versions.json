@@ -588,6 +588,2806 @@
      "sha256": "7d23e54d8a94227974f95660d8ba954130941b6355df27c211abe2ed5fea8215"
     }
    ]
+  },
+  {
+   "slug": "title-34-1-uniform-commercial-code",
+   "short": "WY Stat. tit. 34.1",
+   "title": "Wyoming Statutes Title 34.1: Uniform Commercial Code",
+   "url": "https://wyoleg.gov/statutes/compress/Title34.1.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title34.1.pdf",
+     "sha256": "6fd5bb045cd623e57eb199fb587d897d8b3a4d01152fb6092e369445ef977344"
+    }
+   ]
+  },
+  {
+   "slug": "title-42-welfare",
+   "short": "WY Stat. tit. 42",
+   "title": "Wyoming Statutes Title 42: Welfare",
+   "url": "https://wyoleg.gov/statutes/compress/Title42.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title42.pdf",
+     "sha256": "16714fed41850ff82fcf9e9e789791894310fe3ade88371b7c7802946982e0b9"
+    }
+   ]
+  },
+  {
+   "slug": "title-99-noncodified-statutes",
+   "short": "WY Stat. tit. 99",
+   "title": "Wyoming Statutes Title 99: Noncodified Statutes",
+   "url": "https://wyoleg.gov/statutes/compress/Title99.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/statutes/compress/Title99.pdf",
+     "sha256": "b6248b12875b4170dd8d4ea8649e3f5fde7a3b6b7a5039627ff54e39cc247549"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-001",
+   "short": "2025 WY ch. 1",
+   "title": "VEHICLE ACCIDENT REPORTING-AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-003",
+   "short": "2025 WY ch. 3",
+   "title": "WYOMING LIVESTOCK BOARD-MEMORANDUMS OF UNDER- STANDING",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-007",
+   "short": "2025 WY ch. 7",
+   "title": "FOREIGN ADVERSARY OWNERSHIP OR CONTROL OF BUSINESS ENTITIES",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-008",
+   "short": "2025 WY ch. 8",
+   "title": "RECREATION SAFETY-ROCK CLIMBING",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-010",
+   "short": "2025 WY ch. 10",
+   "title": "REMOVING OTTERS AS PROTECTED ANIMALS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-011",
+   "short": "2025 WY ch. 11",
+   "title": "CHANCERY COURT JUDGES-DISTRICT AND CIRCUIT COURT ASSISTANCE",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-013",
+   "short": "2025 WY ch. 13",
+   "title": "SALES AND USE TAX REVISIONS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-014",
+   "short": "2025 WY ch. 14",
+   "title": "CAREER TECHNICAL EDUCATION EQUIPMENT GRANTS AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-016",
+   "short": "2025 WY ch. 16",
+   "title": "AD VALOREM TAXATION-PAYMENT AND CREDIT OF PENALTIES",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-017",
+   "short": "2025 WY ch. 17",
+   "title": "OIL AND GAS CONSERVATION COMMISSION-REGULATION OF PITS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-021",
+   "short": "2025 WY ch. 21",
+   "title": "READING ASSESSMENT AND INTERVENTION AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-022",
+   "short": "2025 WY ch. 22",
+   "title": "DISTRIBUTION OF UNSOLICITED ABSENTEE BALLOT REQUEST FORMS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-023",
+   "short": "2025 WY ch. 23",
+   "title": "ABANDONMENT OF WATER RIGHTS-LIMITATIONS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-024",
+   "short": "2025 WY ch. 24",
+   "title": "CHARTER SCHOOL LEASING",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-025",
+   "short": "2025 WY ch. 25",
+   "title": "CHARTER SCHOOL FUNDING-AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-026",
+   "short": "2025 WY ch. 26",
+   "title": "TAX EXEMPTION-PROPERTY OWNED BY THE STATE",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-027",
+   "short": "2025 WY ch. 27",
+   "title": "2025 LARGE PROJECT FUNDING",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-028",
+   "short": "2025 WY ch. 28",
+   "title": "BUSINESS PROPERTY EXEMPTION",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-030",
+   "short": "2025 WY ch. 30",
+   "title": "OIL AND GAS BONDING-OPTIONS AND BONDING POOLS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-031",
+   "short": "2025 WY ch. 31",
+   "title": "COAL SEVERANCE TAX RATE",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-032",
+   "short": "2025 WY ch. 32",
+   "title": "WATER AND WASTEWATER OPERATOR-EMERGENCY RESPONSE",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-033",
+   "short": "2025 WY ch. 33",
+   "title": "STATE AUDITOR PAYMENT TRANSPARENCY",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-034",
+   "short": "2025 WY ch. 34",
+   "title": "LOCAL GOVERNMENT PAYMENTS-ELECTRONIC PAYMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-036",
+   "short": "2025 WY ch. 36",
+   "title": "STATE LAND LEASE PREFERENCE AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-24",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-037",
+   "short": "2025 WY ch. 37",
+   "title": "RESORT HOTEL LIQUOR LICENSES",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-040",
+   "short": "2025 WY ch. 40",
+   "title": "HANDICAP PLACARDS-HEALTH CARE PROVIDERS’ APPROVAL",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-044",
+   "short": "2025 WY ch. 44",
+   "title": "MISSING PERSONS-REPORTING REQUIREMENT",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-045",
+   "short": "2025 WY ch. 45",
+   "title": "LICENSE PLATE-SEARCH AND RESCUE COUNCIL",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-046",
+   "short": "2025 WY ch. 46",
+   "title": "REGULATION OF SURGICAL ABORTIONS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-047",
+   "short": "2025 WY ch. 47",
+   "title": "CENTRAL BANK DIGITAL CURRENCIES-PROHIBITIONS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-049",
+   "short": "2025 WY ch. 49",
+   "title": "HOMESCHOOL FREEDOM ACT",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-050",
+   "short": "2025 WY ch. 50",
+   "title": "FISHING OUTFITTERS AND GUIDES-REGISTRATION OF FISHING BOATS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-052",
+   "short": "2025 WY ch. 52",
+   "title": "PROPERTY CONVEYANCES NEAR CRITICAL INFRASTRUCTURE",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-053",
+   "short": "2025 WY ch. 53",
+   "title": "WYOMING OPPOSES MANDATORY ELECTRONIC ID DEVICES-LIVESTOCK",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-27",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-057",
+   "short": "2025 WY ch. 57",
+   "title": "EMERGENCY ASSISTANCE IMMUNITY-MENTAL HEALTH SERVICES",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-058",
+   "short": "2025 WY ch. 58",
+   "title": "PUBLIC MONIES-DEPOSITS IN CREDIT UNIONS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-059",
+   "short": "2025 WY ch. 59",
+   "title": "MONTHLY AD VALOREM TAX DISTRIBUTION-AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-060",
+   "short": "2025 WY ch. 60",
+   "title": "CORONER INVESTIGATIONS-DISPOSITION OF DECEDENT’S PROPERTY",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-064",
+   "short": "2025 WY ch. 64",
+   "title": "MANUFACTURERS AND DEALERS OF NEW TRAILERS-CHANGES",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-066",
+   "short": "2025 WY ch. 66",
+   "title": "PROTECTION ORDER AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-067",
+   "short": "2025 WY ch. 67",
+   "title": "PROTECTION ORDERS-EFFECTIVE DURING APPEAL OR REVIEW",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-068",
+   "short": "2025 WY ch. 68",
+   "title": "DISTRICT COURTS-CHANGE OF VENUE",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-069",
+   "short": "2025 WY ch. 69",
+   "title": "INCLUSION OF CROSSING GUARDS FOR GOVERNMENTAL CLAIMS ACT",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-070",
+   "short": "2025 WY ch. 70",
+   "title": "SCHOOL FINANCE-CASH RESERVES",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-071",
+   "short": "2025 WY ch. 71",
+   "title": "SAGE GROUSE COMPENSATORY MITIGATION-AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-072",
+   "short": "2025 WY ch. 72",
+   "title": "EMINENT DOMAIN-ENERGY COLLECTION SYSTEMS-2",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-074",
+   "short": "2025 WY ch. 74",
+   "title": "ENERGY IMPACT ON WYOMING ECONOMY-STUDY",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-076",
+   "short": "2025 WY ch. 76",
+   "title": "MOTOR VEHICLE DEALER AND MANUFACTURER WARRANTY RATES",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-077",
+   "short": "2025 WY ch. 77",
+   "title": "SCHOOL DISTRICT VEHICLES-FLASHING LIGHTS AUTHORIZED",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-078",
+   "short": "2025 WY ch. 78",
+   "title": "INDUSTRIAL, WIND AND SOLAR PROJECTS-HEARING DEADLINE",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-01-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-079",
+   "short": "2025 WY ch. 79",
+   "title": "PROVIDING FALSE INFORMATION TO REGISTERED AGENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-080",
+   "short": "2025 WY ch. 80",
+   "title": "BRAIDER OPPORTUNITY ACT",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-081",
+   "short": "2025 WY ch. 81",
+   "title": "EXPEDITED PROFESSIONAL LICENSURE FOR MILITARY MEMBERS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-02-28",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-082",
+   "short": "2025 WY ch. 82",
+   "title": "RODEO LICENSE PLATE",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-085",
+   "short": "2025 WY ch. 85",
+   "title": "HUNTING WILDLIFE FROM VEHICLES",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-086",
+   "short": "2025 WY ch. 86",
+   "title": "SCHOOL FINANCE-DATES FOR FUND TRANSFERS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-087",
+   "short": "2025 WY ch. 87",
+   "title": "TWO FAMILIES-ONE NANNY",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-088",
+   "short": "2025 WY ch. 88",
+   "title": "REPEAL-UNAUTHORIZED USE OF VEHICLE CRIME",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-089",
+   "short": "2025 WY ch. 89",
+   "title": "K-12 SCHOOL FACILITY LEASING",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-090",
+   "short": "2025 WY ch. 90",
+   "title": "COLUMBARIUM REGULATION",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-092",
+   "short": "2025 WY ch. 92",
+   "title": "VEHICLE SALES AND USE TAX DISTRIBUTION-HIGHWAY FUND",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-093",
+   "short": "2025 WY ch. 93",
+   "title": "TREATMENT OF ANIMALS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-094",
+   "short": "2025 WY ch. 94",
+   "title": "PROTECTING PRIVACY IN PUBLIC SPACES ACT",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-095",
+   "short": "2025 WY ch. 95",
+   "title": "MANUFACTURING SALES AND USE TAX EXEMPTION-AMEND- MENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-097",
+   "short": "2025 WY ch. 97",
+   "title": "WATER, IRRIGATION AND SEWER DISTRICTS-BID REQUIREMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-098",
+   "short": "2025 WY ch. 98",
+   "title": "PROTECTION OF MILITARY EQUIPMENT",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-099",
+   "short": "2025 WY ch. 99",
+   "title": "SERVICE DOGS-TRAINING AND CRIMES",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-100",
+   "short": "2025 WY ch. 100",
+   "title": "RESTORATION OF RIGHTS AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-101",
+   "short": "2025 WY ch. 101",
+   "title": "SEX-DESIGNATED FACILITIES AND PUBLIC SCHOOLS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-03",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-102",
+   "short": "2025 WY ch. 102",
+   "title": "CERTIFICATE OF NEED REPEAL-3",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-105",
+   "short": "2025 WY ch. 105",
+   "title": "SENIOR CITIZEN SERVICE DISTRICTS-AUTHORIZATION AND RENEWAL",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-106",
+   "short": "2025 WY ch. 106",
+   "title": "HOMEOWNER PROPERTY TAX EXEMPTION",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-107",
+   "short": "2025 WY ch. 107",
+   "title": "STEAMBOAT LEGACY SCHOLARSHIP ACT",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-111",
+   "short": "2025 WY ch. 111",
+   "title": "OMNIBUS WATER BILL-CONSTRUCTION",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-04",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-112",
+   "short": "2025 WY ch. 112",
+   "title": "PROTECTING CRITICAL INFRASTRUCTURE AND SYSTEMS FROM DRONES",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-05",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-114",
+   "short": "2025 WY ch. 114",
+   "title": "INSURANCE AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-115",
+   "short": "2025 WY ch. 115",
+   "title": "TRUST CODE REVISIONS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-120",
+   "short": "2025 WY ch. 120",
+   "title": "CHILD CUSTODY-SEX OFFENSE CONVICTION PRESUMPTION",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-121",
+   "short": "2025 WY ch. 121",
+   "title": "PROHIBITING FOREIGN FUNDING OF BALLOT MEASURES",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-122",
+   "short": "2025 WY ch. 122",
+   "title": "RELIGIOUS FREEDOM RESTORATION ACT",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-123",
+   "short": "2025 WY ch. 123",
+   "title": "IMMUNITY FOR DRUG OVERDOSE REPORTING",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-124",
+   "short": "2025 WY ch. 124",
+   "title": "CHILD WITNESSES-COURTROOM PROCEDURES",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-125",
+   "short": "2025 WY ch. 125",
+   "title": "HATHAWAY SCHOLARSHIP-AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-126",
+   "short": "2025 WY ch. 126",
+   "title": "CHEMICAL ABORTIONS-ULTRASOUND REQUIREMENT",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-06",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-127",
+   "short": "2025 WY ch. 127",
+   "title": "CHARTER SCHOOL AUTHORIZATIONS-AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-130",
+   "short": "2025 WY ch. 130",
+   "title": "WYOMING WEDNESDAY",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-131",
+   "short": "2025 WY ch. 131",
+   "title": "PETROGLYPH, PICTOGRAPH AND HISTORIC INSCRIPTION PROTECTION",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-132",
+   "short": "2025 WY ch. 132",
+   "title": "COUNTY AND MUNICIPAL ROADS ON STATE LANDS-EASEMENTS GRANTED",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-133",
+   "short": "2025 WY ch. 133",
+   "title": "VOLUNTEER FIRST RESPONDER HEALTH INSURANCE-REVISIONS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-12",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-134",
+   "short": "2025 WY ch. 134",
+   "title": "TEMPORARY WATER USE AGREEMENTS AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-135",
+   "short": "2025 WY ch. 135",
+   "title": "WYOMING TELECOMMUNICATIONS ACT REVISIONS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-136",
+   "short": "2025 WY ch. 136",
+   "title": "RECREATION SAFETY-AGRITOURISM",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-137",
+   "short": "2025 WY ch. 137",
+   "title": "CARBON DIOXIDE-ENHANCED OIL RECOVERY STIMULUS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-138",
+   "short": "2025 WY ch. 138",
+   "title": "GROUND FOR TERMINATION OF PARENTAL RIGHTS- GUARDIANSHIP",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-139",
+   "short": "2025 WY ch. 139",
+   "title": "AGE VERIFICATION FOR WEBSITES WITH HARMFUL MATERIAL",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-140",
+   "short": "2025 WY ch. 140",
+   "title": "SCHOOL FINANCE-MODEL RECALIBRATION-2",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-141",
+   "short": "2025 WY ch. 141",
+   "title": "SEX OFFENDER REGISTRATION",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-142",
+   "short": "2025 WY ch. 142",
+   "title": "SETTLEMENT AGREEMENTS FOR MINORS-PARENTAL AUTHORIZATION",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-143",
+   "short": "2025 WY ch. 143",
+   "title": "ALTERNATIVE TEACHING CERTIFICATE",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-13",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-144",
+   "short": "2025 WY ch. 144",
+   "title": "FAIRNESS IN SPORTS-INTERCOLLEGIATE ATHLETICS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-147",
+   "short": "2025 WY ch. 147",
+   "title": "PROPERTY TAX EXEMPTIONS-ORDER OF APPLICATION",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-17",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-148",
+   "short": "2025 WY ch. 148",
+   "title": "PERFORMANCE COMPENSATION-INVESTMENT PERFORMANCE AMENDMENT",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-149",
+   "short": "2025 WY ch. 149",
+   "title": "INVESTMENT MODERNIZATION-STATE NONPERMANENT FUNDS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-151",
+   "short": "2025 WY ch. 151",
+   "title": "STATE FUNDS-PROXY VOTING AND PECUNIARY INVESTMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-153",
+   "short": "2025 WY ch. 153",
+   "title": "PROHIBITION ON PRIVATE FUNDS FOR CONDUCTING ELEC- TIONS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-154",
+   "short": "2025 WY ch. 154",
+   "title": "RANKED CHOICE VOTING-PROHIBITION",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-156",
+   "short": "2025 WY ch. 156",
+   "title": "CONSTITUTIONAL APPORTIONMENT OF LEGISLATORS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-157",
+   "short": "2025 WY ch. 157",
+   "title": "POLITICAL PARTY FORMATION-AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-159",
+   "short": "2025 WY ch. 159",
+   "title": "911 SERVICE REPORTING",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-160",
+   "short": "2025 WY ch. 160",
+   "title": "TREATMENT COURTS-AMENDMENTS-2",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-18",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-162",
+   "short": "2025 WY ch. 162",
+   "title": "BOUNDARY SURVEY AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-163",
+   "short": "2025 WY ch. 163",
+   "title": "PROSTITUTION AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-03-19",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-164",
+   "short": "2025 WY ch. 164",
+   "title": "MEDICAL PRESCRIPTIONS-OFF-LABEL PURPOSES",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-165",
+   "short": "2025 WY ch. 165",
+   "title": "REVISOR’S BILL",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-166",
+   "short": "2025 WY ch. 166",
+   "title": "CANCELLATION OF REGISTRATION NOTICE-AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-167",
+   "short": "2025 WY ch. 167",
+   "title": "TRADEMARKS AND TRADE NAMES-ADMINISTRATIVE CANCELLATION",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-168",
+   "short": "2025 WY ch. 168",
+   "title": "PROBATE CODE REVISIONS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-170",
+   "short": "2025 WY ch. 170",
+   "title": "NONCOMPETE AGREEMENTS PROHIBITED",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2025-171",
+   "short": "2025 WY ch. 171",
+   "title": "POST-CONVICTION DNA TESTING-PROCEDURE AMENDMENTS",
+   "url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2025-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2025/SessionLaws.pdf",
+     "sha256": "efba057f5f310dd9496bf3ab96de440e4514b0c846368c213adc9dc3691c0c43"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-001",
+   "short": "2026 WY ch. 1",
+   "title": "BIRTHING CENTERS-MEDICAID COVERAGE",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-002",
+   "short": "2026 WY ch. 2",
+   "title": "OIL AND GAS BONDING POOL-INVESTMENT AND EARNINGS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-005",
+   "short": "2026 WY ch. 5",
+   "title": "ATTENDANCE OF STUDENTS IN K-12 SCHOOLS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-006",
+   "short": "2026 WY ch. 6",
+   "title": "UNIFORM MORTGAGE MODIFICATION ACT",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-007",
+   "short": "2026 WY ch. 7",
+   "title": "INCREASE OF HATHAWAY SCHOLARSHIP AWARDS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-008",
+   "short": "2026 WY ch. 8",
+   "title": "LOTTERY TICKETS-ACCEPTANCE OF DEBIT CARD PAYMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-009",
+   "short": "2026 WY ch. 9",
+   "title": "ELECTIONS-VOTER REGISTRATION REVISIONS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-06-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-010",
+   "short": "2026 WY ch. 10",
+   "title": "BURIALS OF INDIGENT VETERANS-AMENDMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-011",
+   "short": "2026 WY ch. 11",
+   "title": "THEFT AMENDMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-012",
+   "short": "2026 WY ch. 12",
+   "title": "ABSCONDING FOR CRIMINAL PURPOSES-CRIMINAL OFFENSE",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-013",
+   "short": "2026 WY ch. 13",
+   "title": "HOSPITAL BANKRUPTCY PROCEEDINGS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-014",
+   "short": "2026 WY ch. 14",
+   "title": "FENTANYL TO MINORS-ENHANCED PENALTY",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-015",
+   "short": "2026 WY ch. 15",
+   "title": "GOOD NEIGHBOR AUTHORITY-AMENDMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-016",
+   "short": "2026 WY ch. 16",
+   "title": "911 FUNDING",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-017",
+   "short": "2026 WY ch. 17",
+   "title": "2026 LARGE PROJECT FUNDING",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-02-27",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-018",
+   "short": "2026 WY ch. 18",
+   "title": "WATER DISTRICTS-FUNDS FOR MAINTENANCE PROJECTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-020",
+   "short": "2026 WY ch. 20",
+   "title": "DEPARTMENT OF REVENUE-ELECTRONIC COMMUNICATION",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-022",
+   "short": "2026 WY ch. 22",
+   "title": "SUBLEASING OF STATE LANDS-EXEMPTIONS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-024",
+   "short": "2026 WY ch. 24",
+   "title": "EPINEPHRINE DELIVERY METHODS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-025",
+   "short": "2026 WY ch. 25",
+   "title": "UNINCORPORATED NONPROFIT ASSOCIATIONS-AMENDMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-027",
+   "short": "2026 WY ch. 27",
+   "title": "WYOMING NATIONAL GUARD MEMBER REFERRAL- AMENDMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-028",
+   "short": "2026 WY ch. 28",
+   "title": "KEEPING AMATEURISM IN HIGH SCHOOL ATHLETICS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-030",
+   "short": "2026 WY ch. 30",
+   "title": "SEXUAL EXPLOITATION OF CHILDREN-AMENDMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-032",
+   "short": "2026 WY ch. 32",
+   "title": "REVIEW OF CHARTER SCHOOL APPLICATIONS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-033",
+   "short": "2026 WY ch. 33",
+   "title": "RIVERTON STATE OFFICE TASK FORCE-SUNSET",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-034",
+   "short": "2026 WY ch. 34",
+   "title": "SMOKEBUSTER MODULE LEADERS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-036",
+   "short": "2026 WY ch. 36",
+   "title": "ENGLISH PROFICIENCY-COMMERCIAL MOTOR VEHICLE DRIVERS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-037",
+   "short": "2026 WY ch. 37",
+   "title": "STALKING OF MINORS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-038",
+   "short": "2026 WY ch. 38",
+   "title": "VEHICLE REGISTRATION FEES-TRIBAL GOVERNMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-040",
+   "short": "2026 WY ch. 40",
+   "title": "LOCAL GOVERNMENT DISTRIBUTIONS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-041",
+   "short": "2026 WY ch. 41",
+   "title": "GROOMING OF CHILDREN-OFFENSES AND AMENDMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-05",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-042",
+   "short": "2026 WY ch. 42",
+   "title": "FAST TRACK PERMITS ACT",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-045",
+   "short": "2026 WY ch. 45",
+   "title": "PARTICIPATION IN SCHOOL ACTIVITIES",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-046",
+   "short": "2026 WY ch. 46",
+   "title": "ENHANCED OIL RECOVERY-SEVERANCE TAX EXEMPTION",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-047",
+   "short": "2026 WY ch. 47",
+   "title": "WYOMING STATE GUARD-AMENDMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-050",
+   "short": "2026 WY ch. 50",
+   "title": "REAL ESTATE BROKERS-DUTIES AND DISCLOSURE AMENDMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-051",
+   "short": "2026 WY ch. 51",
+   "title": "GAMBLING AMENDMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-052",
+   "short": "2026 WY ch. 52",
+   "title": "SKILL BASED AMUSEMENT GAMES-LICENSED LIQUOR ESTABLISHMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-053",
+   "short": "2026 WY ch. 53",
+   "title": "LITERACY POSITION FOR K-3 READING PROGRAM",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-055",
+   "short": "2026 WY ch. 55",
+   "title": "WYOMING STABLE TOKEN-AMENDMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-056",
+   "short": "2026 WY ch. 56",
+   "title": "SCHOOL DISTRICT-CELL PHONE AND SMART WATCH POLICIES",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-057",
+   "short": "2026 WY ch. 57",
+   "title": "WYOMING INDIAN CHILD WELFARE ACT SUNSET REPEAL",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-058",
+   "short": "2026 WY ch. 58",
+   "title": "WYOMING ENERGY TRANSMISSION STUDY",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-059",
+   "short": "2026 WY ch. 59",
+   "title": "SEX OFFENDERS-RESIDENCE NEAR CHILD CARE FACILITIES",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-060",
+   "short": "2026 WY ch. 60",
+   "title": "VIRTUAL CURRENCY KIOSKS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-061",
+   "short": "2026 WY ch. 61",
+   "title": "WYOMING RURAL HEALTH TRANSFORMATION PROGRAM",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-062",
+   "short": "2026 WY ch. 62",
+   "title": "WYOMING PREGNANCY CENTERS-AUTONOMY AND RIGHTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-064",
+   "short": "2026 WY ch. 64",
+   "title": "STEM CELL FREEDOM ACT",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-065",
+   "short": "2026 WY ch. 65",
+   "title": "SCHOOL FACILITIES-USE FEES",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-066",
+   "short": "2026 WY ch. 66",
+   "title": "K-12 LANGUAGE AND LITERACY PROGRAM",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-067",
+   "short": "2026 WY ch. 67",
+   "title": "CONTRACTS FOR HOLDING AND TREATING MENTALLY ILL DETAINEES",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-069",
+   "short": "2026 WY ch. 69",
+   "title": "MEDICAID RATE INCREASE-EMS SERVICES",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-070",
+   "short": "2026 WY ch. 70",
+   "title": "STATE ENGINEER-SURFACE AND GROUND WATER STUDY",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-071",
+   "short": "2026 WY ch. 71",
+   "title": "DRIVER’S AND MOTOR VEHICLE SERVICES-THIRD PARTY PROVIDERS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-072",
+   "short": "2026 WY ch. 72",
+   "title": "LOCAL APPROVAL FOR SIMULCASTING",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-073",
+   "short": "2026 WY ch. 73",
+   "title": "OMNIBUS WATER BILL-CONSTRUCTION",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-06",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-079",
+   "short": "2026 WY ch. 79",
+   "title": "MOTOR VEHICLE SALES TO FAMILY MEMBERS-NOT TAXABLE",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-080",
+   "short": "2026 WY ch. 80",
+   "title": "OUTPATIENT EXAMINATION AND COMMITMENT LENGTH",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-081",
+   "short": "2026 WY ch. 81",
+   "title": "HUMAN HEARTBEAT ACT",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-09",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-082",
+   "short": "2026 WY ch. 82",
+   "title": "K-12 PUBLIC SCHOOL FINANCE-2",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-083",
+   "short": "2026 WY ch. 83",
+   "title": "LONG-TERM HOMEOWNER TAX EXEMPTION-REVISIONS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-084",
+   "short": "2026 WY ch. 84",
+   "title": "FORESTRY DIVISION WILDLAND FIRE MODULES",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-04-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-086",
+   "short": "2026 WY ch. 86",
+   "title": "WHP, DCI AND WARDEN RETIREMENT BENEFITS-AMENDMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-088",
+   "short": "2026 WY ch. 88",
+   "title": "PROHIBIT RED FLAG GUN SEIZURE ACT-PENALTY AMENDMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-089",
+   "short": "2026 WY ch. 89",
+   "title": "ANTI-MONEY LAUNDERING",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-091",
+   "short": "2026 WY ch. 91",
+   "title": "PROTECTING KIDS FROM DEEPFAKES AND EXPLOITATIVE IMAGES",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-092",
+   "short": "2026 WY ch. 92",
+   "title": "REMOVING TRIPLE TAXATION FOR RESIDENT EV DRIVERS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-093",
+   "short": "2026 WY ch. 93",
+   "title": "ENERGY PRODUCT RECLASSIFICATION AND SOVEREIGNTY ACT",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-094",
+   "short": "2026 WY ch. 94",
+   "title": "SECRETARY OF STATE-EXPEDITED FILINGS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-095",
+   "short": "2026 WY ch. 95",
+   "title": "FIREARMS RIGHTS-RESTORATION AMENDMENTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-096",
+   "short": "2026 WY ch. 96",
+   "title": "REGISTERED SEX OFFENDERS PROHIBITED FROM PUBLIC OFFICE",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-097",
+   "short": "2026 WY ch. 97",
+   "title": "DEPARTMENT OF HEALTH-LAND TRANSFERS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-099",
+   "short": "2026 WY ch. 99",
+   "title": "FOREST HEALTH GRANT PROGRAM",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-101",
+   "short": "2026 WY ch. 101",
+   "title": "2026 ELECTION HAND COUNT COMPARISON",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-102",
+   "short": "2026 WY ch. 102",
+   "title": "PRESCRIPTIVE EASEMENTS FOR ELECTRICITY DELIVERY",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-104",
+   "short": "2026 WY ch. 104",
+   "title": "ELECTIONS-VOTING MACHINE AND VOTING SYSTEM TESTS",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-03-07",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-105",
+   "short": "2026 WY ch. 105",
+   "title": "WASTE AND STORM WATER INFRASTRUCTURE STUDY",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2026-107",
+   "short": "2026 WY ch. 107",
+   "title": "WYOMING ENERGY DOMINANCE FUND",
+   "url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+   "versions": [
+    {
+     "from": "2026-07-01",
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2026/SessionLaws.pdf",
+     "sha256": "2b4b6c1250bb5c14d2769e6da59c1379f6fe4f83a0f83f3baa653ce0b7ab293b"
+    }
+   ]
   }
  ]
 }

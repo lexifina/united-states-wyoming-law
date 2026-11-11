@@ -4,6 +4,8 @@
   "name": "Wyoming",
   "level": "state",
   "repo": "https://github.com/lexifina/united-states-wyoming-law",
-  "build": "built: Constitution; Wyoming Statutes Titles 6, 17 and 34 (text only)",
-  "register_date": "2026-10-30"
+  "build": "Constitution and all 44 listed statute titles; 197 as-enacted 2025/2026 session-law chapters; additional history and held chapters remain",
+  "register_date": "2026-10-30",
+  "history": "Mixed: current-text statute-title snapshots and explicitly labelled as-enacted session laws",
+  "checked_on": "2026-11-11"
 }
