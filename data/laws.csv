@@ -1,4 +1,311 @@
 key,label,kind,title,enacted,published,in_force_days,commits,url
+wy-2019-ch-002,"2019 Wyoming General Session Laws, Chapter 2",law,CERTIFIED PUBLIC ACCOUNTANTS ACT-REVISIONS,2019-02-13,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-003,"2019 Wyoming General Session Laws, Chapter 3",law,COUNTY CLERKS-RECORDS,2019-02-13,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-004,"2019 Wyoming General Session Laws, Chapter 4",law,ELECTION FORMS,2019-02-13,,2019-02-13,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-005,"2019 Wyoming General Session Laws, Chapter 5",law,BUDGET SUBMISSION DEADLINE,2019-02-13,,2019-02-13,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-006,"2019 Wyoming General Session Laws, Chapter 6",law,PUBLIC UTILITIES-CERTIFICATES OF CONVENIENCE AND NECESSITY,2019-02-13,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-007,"2019 Wyoming General Session Laws, Chapter 7",law,TELECOMMUNICATIONS ACT-AMENDMENTS,2019-02-13,,2019-02-13,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-008,"2019 Wyoming General Session Laws, Chapter 8",law,NATIONAL GUARD MUSEUM,2019-02-14,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-009,"2019 Wyoming General Session Laws, Chapter 9",law,ELECTION READINESS ACCOUNT,2019-02-14,,2019-02-14,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-011,"2019 Wyoming General Session Laws, Chapter 11",law,CRIME VICTIM COMPENSATION ELIGIBILITY CLARIFICATION,2019-02-14,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-012,"2019 Wyoming General Session Laws, Chapter 12",law,PHYSICAL THERAPY-SCOPE OF PRACTICE REVISIONS,2019-02-14,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-014,"2019 Wyoming General Session Laws, Chapter 14",law,JURY PROCEDURE AMENDMENTS,2019-02-14,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-015,"2019 Wyoming General Session Laws, Chapter 15",law,MEDICAID BENEFIT RECOVERY-ESTATES,2019-02-14,,2019-02-14,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-016,"2019 Wyoming General Session Laws, Chapter 16",law,WYOMING HEALTH INSURANCE POOL AMENDMENTS,2019-02-14,,2019-02-14,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-017,"2019 Wyoming General Session Laws, Chapter 17",law,NUCLEAR REGULATORY AGREEMENT-CONFORMING AMENDMENT,2019-02-14,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-018,"2019 Wyoming General Session Laws, Chapter 18",law,VIRTUAL EDUCATION AMENDMENTS,2019-02-14,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-020,"2019 Wyoming General Session Laws, Chapter 20",law,EQUAL PAY-PENALTIES,2019-02-14,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-021,"2019 Wyoming General Session Laws, Chapter 21",law,CIGARETTE TAX ADMINISTRATION,2019-02-14,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-022,"2019 Wyoming General Session Laws, Chapter 22",law,INTERNATIONALLY ACTIVE INSURANCE GROUPS,2019-02-14,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-023,"2019 Wyoming General Session Laws, Chapter 23",law,TRANSPORTATION ENTERPRISE PROGRAM INVESTMENTS,2019-02-14,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-024,"2019 Wyoming General Session Laws, Chapter 24",law,RECORDATION OF JUDGMENTS AND ORDERS,2019-02-14,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-025,"2019 Wyoming General Session Laws, Chapter 25",law,LIMITED MINING OPERATIONS-AMENDMENTS,2019-02-14,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-027,"2019 Wyoming General Session Laws, Chapter 27",law,GRIZZLY BEAR HUNTS,2019-02-15,,2019-02-15,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-028,"2019 Wyoming General Session Laws, Chapter 28",law,HATHAWAY SCHOLARSHIP ELIGIBILITY,2019-02-15,,2019-02-15,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-029,"2019 Wyoming General Session Laws, Chapter 29",law,EXPUNGEMENT OF JUVENILE COURT RECORDS,2019-02-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-030,"2019 Wyoming General Session Laws, Chapter 30",law,BANKING TECHNOLOGY AND STOCK REVISIONS,2019-02-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-031,"2019 Wyoming General Session Laws, Chapter 31",law,COOPERATIVE UTILITIES-BYLAWS,2019-02-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-032,"2019 Wyoming General Session Laws, Chapter 32",law,SCHOOL DISTRICT PERSONNEL DEFINITIONS,2019-02-15,,2019-02-15,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-033,"2019 Wyoming General Session Laws, Chapter 33",law,LOTTERY REVISIONS,2019-02-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-035,"2019 Wyoming General Session Laws, Chapter 35",law,PUBLIC PURPOSE INVESTMENTS,2019-02-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-036,"2019 Wyoming General Session Laws, Chapter 36",law,TOBACCO TAX EQUIVALENCE,2019-02-15,,2019-02-15,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-037,"2019 Wyoming General Session Laws, Chapter 37",law,MODIFICATION OF PROBATION,2019-02-15,,2019-02-15,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-038,"2019 Wyoming General Session Laws, Chapter 38",law,LSRA INVESTMENTS,2019-02-15,,2019-02-15,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-039,"2019 Wyoming General Session Laws, Chapter 39",law,FEDERAL NATURAL RESOURCE POLICY ACCOUNT- AMENDMENTS,2019-02-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-040,"2019 Wyoming General Session Laws, Chapter 40",law,FAMILY MEDICINE RESIDENCY PROGRAM,2019-02-15,,2019-02-15,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-041,"2019 Wyoming General Session Laws, Chapter 41",law,COLLECTION OF SALES TAX BY MARKETPLACE FACILITATORS,2019-02-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-043,"2019 Wyoming General Session Laws, Chapter 43",law,SCHOOL FINANCE INTERFUND LOANS,2019-02-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-044,"2019 Wyoming General Session Laws, Chapter 44",law,UNIFORM TRUST CODE AMENDMENTS,2019-02-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-045,"2019 Wyoming General Session Laws, Chapter 45",law,PRINCIPAL AND INCOME ACT-PRINCIPAL PLACE OF ADMINISTRATION,2019-02-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-046,"2019 Wyoming General Session Laws, Chapter 46",law,MIDWIFE SERVICES-MEDICAID,2019-02-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-047,"2019 Wyoming General Session Laws, Chapter 47",law,RULE AGAINST PERPETUITY AMENDMENTS,2019-02-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-048,"2019 Wyoming General Session Laws, Chapter 48",law,VETERANS CEMETERY-USE OF FUNDS,2019-02-18,,2019-02-18,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-050,"2019 Wyoming General Session Laws, Chapter 50",law,WYOMING COWBOY CHALLENGE ACADEMY ENDOWMENT,2019-02-18,,2019-02-18,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-051,"2019 Wyoming General Session Laws, Chapter 51",law,DEATH BENEFITS-WYOMING RETIREMENT PLANS,2019-02-18,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-052,"2019 Wyoming General Session Laws, Chapter 52",law,NONVESTED MEMBER ACCOUNTS-WYOMING RETIREMENT PLANS,2019-02-18,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-053,"2019 Wyoming General Session Laws, Chapter 53",law,WILD HORSE HIGHWAY-DESIGNATION,2019-02-18,,2019-02-18,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-054,"2019 Wyoming General Session Laws, Chapter 54",law,COURT PROCEDURE AMENDMENTS,2019-02-18,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-055,"2019 Wyoming General Session Laws, Chapter 55",law,OMNIBUS WATER BILL-CONSTRUCTION,2019-02-18,,2019-02-18,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-056,"2019 Wyoming General Session Laws, Chapter 56",law,ADJUTANT GENERAL DUTIES-ACCESS TO FORMS AND RECORDS,2019-02-18,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-058,"2019 Wyoming General Session Laws, Chapter 58",law,STATE AMPHIBIAN,2019-02-19,,2019-02-19,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-059,"2019 Wyoming General Session Laws, Chapter 59",law,ARCHAEOLOGICAL HUMAN BURIAL SITES,2019-02-19,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-060,"2019 Wyoming General Session Laws, Chapter 60",law,SUNSET DATE-WYOMING INVESTMENT IN NURSING PROGRAM,2019-02-19,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-062,"2019 Wyoming General Session Laws, Chapter 62",law,USE OF DOGS-RECOVERY OF KILLED OR WOUNDED BIG GAME,2019-02-19,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-063,"2019 Wyoming General Session Laws, Chapter 63",law,REAL ESTATE APPRAISERS-LICENSING AMENDMENTS,2019-02-19,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-064,"2019 Wyoming General Session Laws, Chapter 64",law,ROADSIDE GEOLOGY,2019-02-19,,2019-11-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-065,"2019 Wyoming General Session Laws, Chapter 65",law,MALT BEVERAGE AND CATERING PERMITS-FEES,2019-02-19,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-067,"2019 Wyoming General Session Laws, Chapter 67",law,MUNICIPAL SOLID WASTE CEASE AND TRANSFER-APPROPRIA- TION,2019-02-19,,2019-03-31,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-068,"2019 Wyoming General Session Laws, Chapter 68",law,FREESTANDING EMERGENCY CENTER LICENSING-TIME EXTENSION,2019-02-19,,2019-02-19,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-069,"2019 Wyoming General Session Laws, Chapter 69",law,LANDOWNER AND LESSEE LIABILITY LIMITATIONS,2019-02-19,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-070,"2019 Wyoming General Session Laws, Chapter 70",law,WAGE GARNISHMENT,2019-02-19,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-071,"2019 Wyoming General Session Laws, Chapter 71",law,ENVIRONMENTAL QUALITY COUNCIL-AMENDMENTS,2019-02-19,,2019-02-19,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-072,"2019 Wyoming General Session Laws, Chapter 72",law,RETAIL PURCHASES OF ALCOHOLIC LIQUORS FOR RESALE,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-073,"2019 Wyoming General Session Laws, Chapter 73",law,FELONY FLEEING OR ELUDING POLICE,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-074,"2019 Wyoming General Session Laws, Chapter 74",law,PASSING STOPPED SCHOOL BUS-RECORDED IMAGES,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-075,"2019 Wyoming General Session Laws, Chapter 75",law,2019 LARGE PROJECT FUNDING,2019-02-26,,2019-02-26,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-077,"2019 Wyoming General Session Laws, Chapter 77",law,PROTECTION OF CHILDREN-CHILD ENDANGERMENT AMENDMENTS,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-078,"2019 Wyoming General Session Laws, Chapter 78",law,REPEAL-HOSPITAL RECORDS AND INFORMATION STATUTES,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-079,"2019 Wyoming General Session Laws, Chapter 79",law,WYOMING UNDERGROUND FACILITIES NOTIFICATION ACT- AMENDMENTS,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-081,"2019 Wyoming General Session Laws, Chapter 81",law,HATHAWAY EXPAND WYOMING SCHOLARSHIPS,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-082,"2019 Wyoming General Session Laws, Chapter 82",law,SPECIAL PURPOSE TAX-EXCESS FUNDS,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-083,"2019 Wyoming General Session Laws, Chapter 83",law,VOLUNTEER PENSION ACCOUNT-SEARCH AND RESCUE,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-084,"2019 Wyoming General Session Laws, Chapter 84",law,TEACHER ACCOUNTABILITY,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-085,"2019 Wyoming General Session Laws, Chapter 85",law,SUMMARY PROBATE PROCEDURES,2019-02-26,,2019-02-26,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-086,"2019 Wyoming General Session Laws, Chapter 86",law,REGULATION OF SHED ANTLER AND BIG GAME HORN COLLECTION,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-087,"2019 Wyoming General Session Laws, Chapter 87",law,CLUBHOUSE-BASED PSYCHOSOCIAL REHABILITATION PROGRAMS,2019-02-26,,2020-04-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-088,"2019 Wyoming General Session Laws, Chapter 88",law,TERMINATION OF PARENTAL RIGHTS-STANDING,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-089,"2019 Wyoming General Session Laws, Chapter 89",law,NEW VEHICLE DEALER CLAIMS,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-090,"2019 Wyoming General Session Laws, Chapter 90",law,COMMUNITY COLLEGE POLICE OFFICER RETIREMENT,2019-02-26,,2019-02-26,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-091,"2019 Wyoming General Session Laws, Chapter 91",law,DIGITAL ASSETS-EXISTING LAW,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-093,"2019 Wyoming General Session Laws, Chapter 93",law,CORPORATE STOCK-CERTIFICATE TOKENS,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-094,"2019 Wyoming General Session Laws, Chapter 94",law,COMMERCIAL FILING SYSTEM,2019-02-26,,2019-02-26,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-095,"2019 Wyoming General Session Laws, Chapter 95",law,ELECTRIC BICYCLES-REGULATION,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-096,"2019 Wyoming General Session Laws, Chapter 96",law,WYOMING MEDICAID FRAUD CONTROL ACT,2019-02-26,,2019-02-26,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-097,"2019 Wyoming General Session Laws, Chapter 97",law,COUNTY FAIR ENDOWMENT,2019-02-26,,2019-02-26,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-098,"2019 Wyoming General Session Laws, Chapter 98",law,JUDICIAL SALARY INCREASES,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-101,"2019 Wyoming General Session Laws, Chapter 101",law,LIMITATION ON LENGTH OF PROBATION,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-102,"2019 Wyoming General Session Laws, Chapter 102",law,EDUCATION REPORTING REQUIREMENTS,2019-02-26,,2019-02-26,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-103,"2019 Wyoming General Session Laws, Chapter 103",law,EMERGENCY ADMINISTRATION OF OPIATE ANTAGONIST- REVISIONS,2019-02-26,,2019-02-26,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-106,"2019 Wyoming General Session Laws, Chapter 106",law,WRS BOARD MEMBER QUALIFICATIONS,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-107,"2019 Wyoming General Session Laws, Chapter 107",law,CIRCUIT COURT BANK ACCOUNTS,2019-02-26,,2019-02-26,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-108,"2019 Wyoming General Session Laws, Chapter 108",law,WYOMING BEER FREEDOM ACT,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-109,"2019 Wyoming General Session Laws, Chapter 109",law,EDUCATION ACCOUNTABILITY,2019-02-26,,2019-02-26,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-110,"2019 Wyoming General Session Laws, Chapter 110",law,UW BOARD OF TRUSTEES-CHAIRMAN,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-111,"2019 Wyoming General Session Laws, Chapter 111",law,ADVANCED PSYCHIATRIC NURSE PRACTITIONER PROGRAM- AMENDMENT,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-112,"2019 Wyoming General Session Laws, Chapter 112",law,BUILD WYOMING-AMENDMENTS,2019-02-26,,2019-02-26,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-113,"2019 Wyoming General Session Laws, Chapter 113",law,PHARMACY BENEFIT MANAGERS-PRESCRIPTION COST NOTIFICATION,2019-02-26,,2019-02-26,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-114,"2019 Wyoming General Session Laws, Chapter 114",law,WYOMING CHILDREN’S TRUST FUND-AMENDMENTS,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-115,"2019 Wyoming General Session Laws, Chapter 115",law,VOLUNTEER RESERVE OFFICERS-LIABILITY COVERAGE,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-117,"2019 Wyoming General Session Laws, Chapter 117",law,ANTIFREEZE AND PETROLEUM STANDARDS ENFORCEMENT,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-118,"2019 Wyoming General Session Laws, Chapter 118",law,JOINT POWERS BOARDS-NATURAL GAS SERVICE,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-119,"2019 Wyoming General Session Laws, Chapter 119",law,BROADBAND DEVELOPMENT PROGRAM-AMENDMENTS,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-120,"2019 Wyoming General Session Laws, Chapter 120",law,TAXATION OF BROADBAND INTERNET INFRASTRUCTURE,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-121,"2019 Wyoming General Session Laws, Chapter 121",law,ELECTRIC VEHICLE FEE,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-122,"2019 Wyoming General Session Laws, Chapter 122",law,REGULATION OF HUNTING METHODS,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-123,"2019 Wyoming General Session Laws, Chapter 123",law,PATCHING PREXY’S PASTURE PARALLELOGRAM PROBLEM,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-124,"2019 Wyoming General Session Laws, Chapter 124",law,REVERSION OF FUNDS-EMERGENCY FIRE SUPPRESSION ACCOUNT,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-125,"2019 Wyoming General Session Laws, Chapter 125",law,ILLEGITIMATE PERSONS DESCENT-REPEAL,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-126,"2019 Wyoming General Session Laws, Chapter 126",law,ALCOHOLIC BEVERAGES-24 HOUR PERMIT,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-127,"2019 Wyoming General Session Laws, Chapter 127",law,FUNERAL SERVICE PRACTITIONERS,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-128,"2019 Wyoming General Session Laws, Chapter 128",law,WYOMING INSURANCE GUARANTY ASSOCIATION-REVISIONS,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-129,"2019 Wyoming General Session Laws, Chapter 129",law,PUBLIC WORKS AND CONTRACTS,2019-02-26,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-130,"2019 Wyoming General Session Laws, Chapter 130",law,GUARDIANSHIPS-REINTEGRATION PLANNING AUTHORIZED,2019-02-27,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-132,"2019 Wyoming General Session Laws, Chapter 132",law,COURT SUPERVISED TREATMENT PROGRAM ACCOUNT,2019-02-27,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-133,"2019 Wyoming General Session Laws, Chapter 133",law,ENVIRONMENTAL QUALITY COUNCIL-VOTING AMENDMENTS,2019-02-27,,2019-02-27,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-134,"2019 Wyoming General Session Laws, Chapter 134",law,PROCUREMENT AMENDMENTS,2019-02-27,,2019-02-27,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-135,"2019 Wyoming General Session Laws, Chapter 135",law,FAMILY COLLEGE SAVINGS PROGRAM-REPEAL,2019-02-27,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-136,"2019 Wyoming General Session Laws, Chapter 136",law,WILDLIFE AND NATURAL RESOURCE TRUST ACCOUNT BOARD-DUTIES,2019-02-27,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-137,"2019 Wyoming General Session Laws, Chapter 137",law,CHILD LABOR PENALTIES,2019-02-27,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-138,"2019 Wyoming General Session Laws, Chapter 138",law,RIGHTS OF WAY-COMMUNICATIONS SERVICES,2019-02-27,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-139,"2019 Wyoming General Session Laws, Chapter 139",law,DRIVER’S LICENSES-MEDICAL ALERT DESIGNATION,2019-02-27,,2020-01-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-140,"2019 Wyoming General Session Laws, Chapter 140",law,REAL ESTATE BROKERS-RETENTION OF RECORDS,2019-02-27,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-141,"2019 Wyoming General Session Laws, Chapter 141",law,LOCAL REGULATION-SUBDIVISIONS,2019-02-27,,2019-02-27,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-142,"2019 Wyoming General Session Laws, Chapter 142",law,MENTAL HEALTH AND SUBSTANCE USE COVERAGE PARITY,2019-02-27,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-143,"2019 Wyoming General Session Laws, Chapter 143",law,CHILD PROTECTIVE SERVICE WORKERS-TRAINING,2019-02-27,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-144,"2019 Wyoming General Session Laws, Chapter 144",law,ELECTRONIC NOTICE-PORTABLE ELECTRONIC DEVICE INSURANCE,2019-02-27,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-145,"2019 Wyoming General Session Laws, Chapter 145",law,COLLECTION AGENCY BOARD-MEMBERS,2019-02-27,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-146,"2019 Wyoming General Session Laws, Chapter 146",law,PAYMENT PROCESSOR-STATE GOVERNMENT,2019-02-27,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-147,"2019 Wyoming General Session Laws, Chapter 147",law,WATER SERVICE-PUBLIC UTILITY EXEMPTION,2019-02-27,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-148,"2019 Wyoming General Session Laws, Chapter 148",law,LIVESTOCK BRANDS-AMENDMENTS,2019-02-27,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-149,"2019 Wyoming General Session Laws, Chapter 149",law,EDUCATIONAL ATTAINMENT EXECUTIVE COUNCIL,2019-02-28,,2019-02-28,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-150,"2019 Wyoming General Session Laws, Chapter 150",law,COMMON COLLEGE TRANSCRIPT-IMPLEMENTATION,2019-02-28,,2019-02-28,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-151,"2019 Wyoming General Session Laws, Chapter 151",law,ORDER OF PROTECTION-TOLLING DURING IMPRISONMENT,2019-02-28,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-152,"2019 Wyoming General Session Laws, Chapter 152",law,OPERATION OF MOTORBOAT WHILE INTOXICATED,2019-02-28,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-153,"2019 Wyoming General Session Laws, Chapter 153",law,CONTROLLED SUBSTANCES EDUCATION AND ADMINISTRATION,2019-02-28,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-154,"2019 Wyoming General Session Laws, Chapter 154",law,WYOMING COWBOY AND COWGIRL LEGACY WEEK,2019-02-28,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-155,"2019 Wyoming General Session Laws, Chapter 155",law,K-3 READING ASSESSMENT AND INTERVENTION PROGRAM,2019-02-28,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-156,"2019 Wyoming General Session Laws, Chapter 156",law,VETERANS’ SKILLED NURSING FACILITY,2019-02-28,,2019-02-28,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-157,"2019 Wyoming General Session Laws, Chapter 157",law,MIXED MARTIAL ARTS REGULATION,2019-02-28,,2019-02-28,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-158,"2019 Wyoming General Session Laws, Chapter 158",law,ALCOHOLIC BEVERAGES-BUSINESS FLEXIBILITY,2019-02-28,,2019-02-28,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-160,"2019 Wyoming General Session Laws, Chapter 160",law,SPECIAL ELECTRIC UTILITY AGREEMENTS,2019-02-28,,2019-02-28,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-161,"2019 Wyoming General Session Laws, Chapter 161",law,HOSPITAL COST STUDY,2019-02-28,,2019-02-28,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-162,"2019 Wyoming General Session Laws, Chapter 162",law,FIREMEN’S RETIREMENT FUND PLAN B-CONTRIBUTION,2019-02-28,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-163,"2019 Wyoming General Session Laws, Chapter 163",law,PARI-MUTUEL FEE DISTRIBUTION-STATE FAIR ACCOUNT,2019-02-28,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-164,"2019 Wyoming General Session Laws, Chapter 164",law,STUDENT EXPULSION HEARING REQUIREMENTS,2019-02-28,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-165,"2019 Wyoming General Session Laws, Chapter 165",law,COUNTY REGULATION OF LIVESTOCK GRAZING,2019-02-28,,2019-02-28,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-166,"2019 Wyoming General Session Laws, Chapter 166",law,OPIOID PRESCRIPTION LIMITS,2019-02-28,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-167,"2019 Wyoming General Session Laws, Chapter 167",law,PRESENTENCE INVESTIGATION REPORTS-JUDICIAL DISCRETION,2019-02-28,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-168,"2019 Wyoming General Session Laws, Chapter 168",law,PROGRAM EVALUATION STANDARDS,2019-02-28,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-169,"2019 Wyoming General Session Laws, Chapter 169",law,UNCLAIMED LIFE INSURANCE BENEFITS,2019-02-28,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-170,"2019 Wyoming General Session Laws, Chapter 170",law,WYOMING UTILITY TOKEN ACT-PROPERTY AMENDMENTS,2019-02-28,,2019-02-28,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-171,"2019 Wyoming General Session Laws, Chapter 171",law,DISTRICT COURT FILING FEES,2019-02-28,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-172,"2019 Wyoming General Session Laws, Chapter 172",law,DRIVER’S LICENSES,2019-02-28,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-173,"2019 Wyoming General Session Laws, Chapter 173",law,"HEMP, CANNABIDIOL AND OTHER CONTROLLED SUBSTANCE REGULATION",2019-03-06,,2019-03-06,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-174,"2019 Wyoming General Session Laws, Chapter 174",law,PUBLIC RECORDS,2019-03-08,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-175,"2019 Wyoming General Session Laws, Chapter 175",law,HEALTH CARE INNOVATION,2019-03-08,,2019-03-08,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-176,"2019 Wyoming General Session Laws, Chapter 176",law,WYOMING WORKS PROGRAM,2019-03-08,,2019-03-08,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-177,"2019 Wyoming General Session Laws, Chapter 177",law,WYOMING PUBLIC LANDS DAY,2019-03-08,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-178,"2019 Wyoming General Session Laws, Chapter 178",law,STATEWIDE 911 COORDINATOR,2019-03-08,,2019-03-08,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-179,"2019 Wyoming General Session Laws, Chapter 179",law,REPORTING OF ABORTIONS,2019-03-08,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-180,"2019 Wyoming General Session Laws, Chapter 180",law,SEXUAL ASSAULT PARENTAL RIGHTS,2019-03-08,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-181,"2019 Wyoming General Session Laws, Chapter 181",law,CARE OF ANIMALS,2019-03-08,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-182,"2019 Wyoming General Session Laws, Chapter 182",law,LIVESTOCK ENFORCEMENT-REIMBURSEMENT,2019-03-08,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-183,"2019 Wyoming General Session Laws, Chapter 183",law,PROPERTY REDEMPTION,2019-03-08,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-184,"2019 Wyoming General Session Laws, Chapter 184",law,AUDIT REQUIREMENTS FOR SPECIAL FIRE AND WATER DIS- TRICTS,2019-03-08,,2019-03-08,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-185,"2019 Wyoming General Session Laws, Chapter 185",law,PROFESSIONAL SERVICES PROCUREMENT,2019-03-08,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-187,"2019 Wyoming General Session Laws, Chapter 187",law,TAX LIABILITY MINERAL PRODUCTION,2019-03-08,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-188,"2019 Wyoming General Session Laws, Chapter 188",law,TRANSPORT OF MOBILE HOMES-COPY OF TITLE,2019-03-08,,2019-03-08,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-190,"2019 Wyoming General Session Laws, Chapter 190",law,WYOMING STATUTORY FOUNDATION ACT,2019-03-08,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-191,"2019 Wyoming General Session Laws, Chapter 191",law,REMOTE EDUCATION AGREEMENTS,2019-03-08,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-192,"2019 Wyoming General Session Laws, Chapter 192",law,NATIONAL BOARD TEACHER CERTIFICATION,2019-03-08,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-193,"2019 Wyoming General Session Laws, Chapter 193",law,NEW OPPORTUNITIES FOR WYOMING COAL FIRED GENERATION,2019-03-08,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-194,"2019 Wyoming General Session Laws, Chapter 194",law,MOTOR VEHICLES-TITLES AND BILLS OF SALE,2019-03-08,,2020-01-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-195,"2019 Wyoming General Session Laws, Chapter 195",law,COURT SUPERVISED TREATMENT PROGRAMS-PROSECUTOR’S CONSENT,2019-03-08,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-199,"2019 Wyoming General Session Laws, Chapter 199",law,COMMUNITY COLLEGES-BACHELOR OF APPLIED SCIENCE PROGRAMS,2019-03-15,,2019-03-15,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-200,"2019 Wyoming General Session Laws, Chapter 200",law,WYOMING CHANCERY COURT,2019-03-15,,2019-03-15,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-201,"2019 Wyoming General Session Laws, Chapter 201",law,SPENDING POLICY AMENDMENTS,2019-03-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-202,"2019 Wyoming General Session Laws, Chapter 202",law,STATE OFFICES-CONTRACT TRANSPARENCY,2019-03-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2019-ch-203,"2019 Wyoming General Session Laws, Chapter 203",law,PARI-MUTUEL COMMISSION-DISTRIBUTIONS,2019-03-15,,2019-07-01,1,https://wyoleg.gov/2019/SessionLaws.pdf
+wy-2020-ch-001,"2020 Wyoming Budget Session Laws, Chapter 1",law,HUMAN TRAFFICKING-PENALTY FOR SUBSEQUENT CONVICTION,2020-03-05,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-002,"2020 Wyoming Budget Session Laws, Chapter 2",law,QUALIFIED RESIDENTIAL TREATMENT PROGRAMS,2020-03-05,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-003,"2020 Wyoming Budget Session Laws, Chapter 3",law,PESTICIDE REGISTRATION FEE,2020-03-05,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-004,"2020 Wyoming Budget Session Laws, Chapter 4",law,ABSTRACTS OF COURT RECORDS,2020-03-05,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-005,"2020 Wyoming Budget Session Laws, Chapter 5",law,WILDLIFE CONSERVATION ACCOUNT,2020-03-05,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-006,"2020 Wyoming Budget Session Laws, Chapter 6",law,COMMERCIAL LEARNER’S PERMITS,2020-03-05,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-007,"2020 Wyoming Budget Session Laws, Chapter 7",law,REMOTE EDUCATION WITHIN A SCHOOL DISTRICT,2020-03-05,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-008,"2020 Wyoming Budget Session Laws, Chapter 8",law,BACKGROUND CHECKS-STATE TREASURER’S OFFICE,2020-03-05,,2020-03-05,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-009,"2020 Wyoming Budget Session Laws, Chapter 9",law,COMMERCIAL OPERATORS-REGISTRATION AND AUTHORITY TO OPERATE,2020-03-05,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-010,"2020 Wyoming Budget Session Laws, Chapter 10",law,CHIP-STATE ADMINISTRATION,2020-03-05,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-011,"2020 Wyoming Budget Session Laws, Chapter 11",law,UNCLAIMED PROPERTY FUNDS-INVESTMENTS,2020-03-05,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-012,"2020 Wyoming Budget Session Laws, Chapter 12",law,MILITARY DEPARTMENT AUTHORITY TO ACCEPT DONATIONS,2020-03-05,,2020-03-05,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-013,"2020 Wyoming Budget Session Laws, Chapter 13",law,CONSUMER PROTECTION ACT AMENDMENTS,2020-03-05,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-014,"2020 Wyoming Budget Session Laws, Chapter 14",law,WYOMING TOURISM ACCOUNT FUNDING,2020-03-06,,2021-01-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-015,"2020 Wyoming Budget Session Laws, Chapter 15",law,DRIVER’S LICENSES AND IDS,2020-03-06,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-016,"2020 Wyoming Budget Session Laws, Chapter 16",law,DIGITAL EXPRESSION PROTECTION,2020-03-09,,2020-03-09,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-017,"2020 Wyoming Budget Session Laws, Chapter 17",law,SENIOR HEALTH CARE SPECIAL DISTRICTS,2020-03-09,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-018,"2020 Wyoming Budget Session Laws, Chapter 18",law,PROBATION AND PAROLE SANCTIONS-AMENDMENTS,2020-03-09,,2020-03-09,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-019,"2020 Wyoming Budget Session Laws, Chapter 19",law,MISSING AND MURDERED INDIGENOUS PERSONS-AGENCY CO- OPERATION,2020-03-09,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-020,"2020 Wyoming Budget Session Laws, Chapter 20",law,DRILLING UNITS-RISK PENALTIES AND MANDATORY ROYALTIES,2020-03-09,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-021,"2020 Wyoming Budget Session Laws, Chapter 21",law,SCHOOL DISTRICT PROCUREMENT AMENDMENT,2020-03-09,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-022,"2020 Wyoming Budget Session Laws, Chapter 22",law,AIR AMBULANCE-MEDICAID COVERAGE AMENDMENTS,2020-03-09,,2020-03-09,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-023,"2020 Wyoming Budget Session Laws, Chapter 23",law,ATTORNEY GENERAL AUTHORITY IN BANKRUPTCY ACTIONS,2020-03-09,,2020-03-09,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-025,"2020 Wyoming Budget Session Laws, Chapter 25",law,MOTORBOATS-GASOLINE TAX DISTRIBUTION,2020-03-09,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-026,"2020 Wyoming Budget Session Laws, Chapter 26",law,WYOMING DEPARTMENT OF AGRICULTURE FEES,2020-03-09,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-111,"2020 Wyoming Budget Session Laws, Chapter 111",law,EDUCATION ACCOUNTS-INVESTMENT EARNINGS,2020-03-09,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-161,"2020 Wyoming Budget Session Laws, Chapter 161",law,SPECIAL EVENT LIQUOR LICENSES,2020-03-09,,2020-03-09,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-031,"2020 Wyoming Budget Session Laws, Chapter 31",law,PUBLIC WORKS AND CONTRACTS,2020-03-10,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-033,"2020 Wyoming Budget Session Laws, Chapter 33",law,LOCAL GOVERNMENT DISTRIBUTIONS,2020-03-10,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-035,"2020 Wyoming Budget Session Laws, Chapter 35",law,MINING PERMIT APPLICATIONS-OBJECTIONS,2020-03-10,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-036,"2020 Wyoming Budget Session Laws, Chapter 36",law,PUBLIC RECORDS-AMENDMENTS,2020-03-10,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-037,"2020 Wyoming Budget Session Laws, Chapter 37",law,BUDGET AND FINANCIAL DATA REPORTING,2020-03-10,,2020-03-10,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-038,"2020 Wyoming Budget Session Laws, Chapter 38",law,WYOMING POLLUTION DISCHARGE ELIMINATION SYSTEM FEES,2020-03-10,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-039,"2020 Wyoming Budget Session Laws, Chapter 39",law,PRESCRIPTION TRACKING PROGRAM,2020-03-10,,2020-03-10,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-040,"2020 Wyoming Budget Session Laws, Chapter 40",law,HATHAWAY NEED-BASED SCHOLARSHIPS-GRADUATE SCHOOL,2020-03-10,,2022-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-041,"2020 Wyoming Budget Session Laws, Chapter 41",law,COAL FIRED ELECTRIC GENERATION FACILITIES,2020-03-10,,2021-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-042,"2020 Wyoming Budget Session Laws, Chapter 42",law,SOLID WASTE CEASE AND TRANSFER PROGRAM FUNDING,2020-03-10,,2020-03-10,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-043,"2020 Wyoming Budget Session Laws, Chapter 43",law,SCHOOL DISTRICT PROCUREMENT,2020-03-10,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-044,"2020 Wyoming Budget Session Laws, Chapter 44",law,AD VALOREM-CONFIDENTIALITY EXCEPTION,2020-03-10,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-045,"2020 Wyoming Budget Session Laws, Chapter 45",law,INSURANCE CODE UPDATES,2020-03-10,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-046,"2020 Wyoming Budget Session Laws, Chapter 46",law,STATE EMPLOYEES’ AND OFFICIALS’ GROUP INSURANCE,2020-03-10,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-047,"2020 Wyoming Budget Session Laws, Chapter 47",law,HEALTH INSURANCE COSTS-BUNDLED PAYMENT STUDY,2020-03-10,,2020-03-10,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-048,"2020 Wyoming Budget Session Laws, Chapter 48",law,ANIMAL DAMAGE MANAGEMENT FUNDING,2020-03-10,,2021-01-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-052,"2020 Wyoming Budget Session Laws, Chapter 52",law,WYOMING MONEY TRANSMITTERS ACT-EXEMPTION,2020-03-10,,2020-03-10,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-053,"2020 Wyoming Budget Session Laws, Chapter 53",law,NICOTINE PRODUCTS-TAXATION,2020-03-10,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-054,"2020 Wyoming Budget Session Laws, Chapter 54",law,CHANCERY COURT AMENDMENTS,2020-03-10,,2020-03-10,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-056,"2020 Wyoming Budget Session Laws, Chapter 56",law,TRIBAL ID FOR VOTING,2020-03-12,,2020-03-12,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-057,"2020 Wyoming Budget Session Laws, Chapter 57",law,GLOBAL SIGNATURE AUTHORITY FOR HEALTH CARE PROVIDERS,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-058,"2020 Wyoming Budget Session Laws, Chapter 58",law,SURFACE WATER DIVERSION,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-059,"2020 Wyoming Budget Session Laws, Chapter 59",law,UNDERGROUND FACILITIES NOTIFICATION-EXEMPTION,2020-03-12,,2020-03-12,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-060,"2020 Wyoming Budget Session Laws, Chapter 60",law,RESIDENT TUITION FOR MILITARY MEMBERS AND FAMILY,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-061,"2020 Wyoming Budget Session Laws, Chapter 61",law,WILDLIFE CONSERVATION EFFORTS-1,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-062,"2020 Wyoming Budget Session Laws, Chapter 62",law,MUNICIPAL BONDS-DIGITAL SECURITIES,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-063,"2020 Wyoming Budget Session Laws, Chapter 63",law,MOTOR VEHICLE FRANCHISES-TELEPHONE REQUIREMENTS,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-064,"2020 Wyoming Budget Session Laws, Chapter 64",law,JURY PROCEDURE AMENDMENTS,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-065,"2020 Wyoming Budget Session Laws, Chapter 65",law,BUDGET MODIFICATIONS-EXECUTIVE,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-066,"2020 Wyoming Budget Session Laws, Chapter 66",law,COURT AUTOMATION FEES,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-067,"2020 Wyoming Budget Session Laws, Chapter 67",law,INSURANCE INVESTMENTS-DIGITAL ASSETS,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-068,"2020 Wyoming Budget Session Laws, Chapter 68",law,PRESCRIPTION TRACKING PROGRAM RULES,2020-03-12,,2020-03-12,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-069,"2020 Wyoming Budget Session Laws, Chapter 69",law,FOOD FREEDOM AMENDMENTS,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-070,"2020 Wyoming Budget Session Laws, Chapter 70",law,SCHOOL BUILDINGS AND FACILITIES-LEASE REIMBURSEMENTS,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-071,"2020 Wyoming Budget Session Laws, Chapter 71",law,DISCOVERED PROPERTY-PROBATE PROCEDURES,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-072,"2020 Wyoming Budget Session Laws, Chapter 72",law,STATEMENTS OF CONSIDERATION,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-073,"2020 Wyoming Budget Session Laws, Chapter 73",law,APPRAISAL MANAGEMENT COMPANIES-AMENDMENTS,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-074,"2020 Wyoming Budget Session Laws, Chapter 74",law,RURAL HEALTH CARE DISTRICT AUTHORITY,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-075,"2020 Wyoming Budget Session Laws, Chapter 75",law,2020 LARGE PROJECT FUNDING,2020-03-12,,2020-03-12,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-076,"2020 Wyoming Budget Session Laws, Chapter 76",law,LIVESTOCK BRAND ADMINISTRATION,2020-03-12,,2020-03-12,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-077,"2020 Wyoming Budget Session Laws, Chapter 77",law,PUBLIC UTILITIES-LIABILITY EXEMPTION,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-078,"2020 Wyoming Budget Session Laws, Chapter 78",law,IMPORTATION OF PRESCRIPTION DRUGS-STUDY,2020-03-12,,2020-03-12,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-079,"2020 Wyoming Budget Session Laws, Chapter 79",law,TRANSPORTATION OF NONRESIDENT STUDENTS,2020-03-12,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-082,"2020 Wyoming Budget Session Laws, Chapter 82",law,INVESTMENT OF PUBLIC FUNDS,2020-03-13,,2020-03-13,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-084,"2020 Wyoming Budget Session Laws, Chapter 84",law,OFF-ROAD RECREATIONAL VEHICLE-DEFINITION,2020-03-13,,2020-03-13,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-085,"2020 Wyoming Budget Session Laws, Chapter 85",law,MUNICIPAL RIGHT-OF-WAY FRANCHISE FEES,2020-03-13,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-086,"2020 Wyoming Budget Session Laws, Chapter 86",law,NICOTINE PRODUCTS–AGE VERIFICATION AND SHIPPING,2020-03-13,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-088,"2020 Wyoming Budget Session Laws, Chapter 88",law,COUNTY RESERVE ACCOUNTS,2020-03-13,,2020-03-13,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-089,"2020 Wyoming Budget Session Laws, Chapter 89",law,VETERANS PROPERTY TAX EXEMPTION-ACCESS,2020-03-13,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-090,"2020 Wyoming Budget Session Laws, Chapter 90",law,CONSOLIDATION OF THEFT CRIMES,2020-03-13,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-091,"2020 Wyoming Budget Session Laws, Chapter 91",law,LIVESTOCK BOARD INVESTIGATORS,2020-03-13,,2020-03-13,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-092,"2020 Wyoming Budget Session Laws, Chapter 92",law,COUNTY CENTRAL COMMITTEE ORGANIZATIONAL MEETING,2020-03-13,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-093,"2020 Wyoming Budget Session Laws, Chapter 93",law,GOOD NEIGHBOR AUTHORITY REVOLVING ACCOUNT,2020-03-13,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-094,"2020 Wyoming Budget Session Laws, Chapter 94",law,ANIMAL REIMBURSEMENT PROGRAM-AMENDMENTS,2020-03-13,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-095,"2020 Wyoming Budget Session Laws, Chapter 95",law,GAME AND FISH-SELLING AGENTS,2020-03-13,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-096,"2020 Wyoming Budget Session Laws, Chapter 96",law,MOTOR VEHICLE VIOLATIONS-PENALTIES,2020-03-13,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-097,"2020 Wyoming Budget Session Laws, Chapter 97",law,"SELECT COMMITTEE ON BLOCKCHAIN, TECHNOLOGY AND I NNOVATION",2020-03-13,,2020-03-13,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-098,"2020 Wyoming Budget Session Laws, Chapter 98",law,EMERGENCY CALL LOCATION INFORMATION,2020-03-13,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-099,"2020 Wyoming Budget Session Laws, Chapter 99",law,SELECT COMMITTEE ON TRIBAL RELATIONS,2020-03-13,,2020-03-13,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-100,"2020 Wyoming Budget Session Laws, Chapter 100",law,ELECTION CODE REVISIONS,2020-03-13,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-101,"2020 Wyoming Budget Session Laws, Chapter 101",law,ABSENTEE POLLING PLACES,2020-03-13,,2020-03-13,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-102,"2020 Wyoming Budget Session Laws, Chapter 102",law,TRUST COMPANIES-STATUTORY AMENDMENTS,2020-03-13,,2020-03-13,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-103,"2020 Wyoming Budget Session Laws, Chapter 103",law,DIGITAL ASSETS-STATUTORY AMENDMENTS,2020-03-13,,2020-03-13,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-104,"2020 Wyoming Budget Session Laws, Chapter 104",law,SMALL MODULAR NUCLEAR REACTOR PERMITTING,2020-03-13,,2020-03-13,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-105,"2020 Wyoming Budget Session Laws, Chapter 105",law,PROHIBITION OF FEMALE GENITAL MUTILATION,2020-03-13,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-107,"2020 Wyoming Budget Session Laws, Chapter 107",law,VOLUNTEER PENSION ACCOUNT-FUNDING,2020-03-13,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-110,"2020 Wyoming Budget Session Laws, Chapter 110",law,LOCAL SALES AND USE TAXES,2020-03-13,,2021-01-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-113,"2020 Wyoming Budget Session Laws, Chapter 113",law,OMNIBUS WATER BILL - CONSTRUCTION,2020-03-17,,2020-03-17,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-114,"2020 Wyoming Budget Session Laws, Chapter 114",law,WYOMING GAMING COMMISSION,2020-03-17,,2020-03-17,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-116,"2020 Wyoming Budget Session Laws, Chapter 116",law,GENERAL GOVERNMENT REPORTS,2020-03-17,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-117,"2020 Wyoming Budget Session Laws, Chapter 117",law,LIFETIME GAME AND FISH LICENSES,2020-03-17,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-118,"2020 Wyoming Budget Session Laws, Chapter 118",law,SALES AND USE TAX-DEFINITIONS UPDATE,2020-03-17,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-119,"2020 Wyoming Budget Session Laws, Chapter 119",law,ANIMAL SHARES,2020-03-17,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-121,"2020 Wyoming Budget Session Laws, Chapter 121",law,GAME AND FISH LAW ENFORCEMENT DEFINITION AMEND- MENTS,2020-03-17,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-122,"2020 Wyoming Budget Session Laws, Chapter 122",law,OFFICE OF GUARDIAN AD LITEM-2,2020-03-17,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-123,"2020 Wyoming Budget Session Laws, Chapter 123",law,PIONEER ARCHERY LICENSES,2020-03-17,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-124,"2020 Wyoming Budget Session Laws, Chapter 124",law,WYOMING COMBAT SPORTS COMMISSION,2020-03-17,,2020-03-17,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-127,"2020 Wyoming Budget Session Laws, Chapter 127",law,EMERGENCY WATER PROJECTS ACCOUNT,2020-03-17,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-128,"2020 Wyoming Budget Session Laws, Chapter 128",law,AUDIOLOGY AND SPEECH-LANGUAGE PATHOLOGY COMPACT,2020-03-24,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-129,"2020 Wyoming Budget Session Laws, Chapter 129",law,CONCEALED WEAPONS PERMIT RENEWAL-MILITARY DUTY,2020-03-24,,2020-03-24,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-130,"2020 Wyoming Budget Session Laws, Chapter 130",law,WYOMING WORKS-APPLICATION PERIOD,2020-03-24,,2020-03-24,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-131,"2020 Wyoming Budget Session Laws, Chapter 131",law,LONG-TERM CARE INSURANCE,2020-03-24,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-132,"2020 Wyoming Budget Session Laws, Chapter 132",law,MICROBREWERIES,2020-03-24,,2020-03-24,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-133,"2020 Wyoming Budget Session Laws, Chapter 133",law,PARI-MUTUEL EVENTS-RODEO,2020-03-24,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-135,"2020 Wyoming Budget Session Laws, Chapter 135",law,WEED AND PEST AMENDMENTS,2020-03-24,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-136,"2020 Wyoming Budget Session Laws, Chapter 136",law,LIFE INSURANCE PREMIUMS,2020-03-24,,2021-01-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-137,"2020 Wyoming Budget Session Laws, Chapter 137",law,LIFE INSURANCE BENEFITS-PAYMENTS AND INTEREST,2020-03-24,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-138,"2020 Wyoming Budget Session Laws, Chapter 138",law,DR. LEONARD L. ROBINSON MEMORIAL BRIDGE,2020-03-24,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-140,"2020 Wyoming Budget Session Laws, Chapter 140",law,UNPAID WAGE CLAIM AMENDMENTS,2020-03-24,,2020-03-24,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-141,"2020 Wyoming Budget Session Laws, Chapter 141",law,TAX LIEN ENFORCEMENT-2,2020-03-24,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-142,"2020 Wyoming Budget Session Laws, Chapter 142",law,MONTHLY PAYMENT OF AD VALOREM TAX ON MINERAL PRODUCTION,2020-03-24,,2020-03-24,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-143,"2020 Wyoming Budget Session Laws, Chapter 143",law,RECLAMATION OF SURFACE COAL MINES-TURBINE BLADES,2020-03-24,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-144,"2020 Wyoming Budget Session Laws, Chapter 144",law,RELIABLE AND DISPATCHABLE LOW-CARBON ENERGY STANDARDS,2020-03-24,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-145,"2020 Wyoming Budget Session Laws, Chapter 145",law,GOVERNMENTAL AGENCY PARKING,2020-03-24,,2020-03-24,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-146,"2020 Wyoming Budget Session Laws, Chapter 146",law,WORKER’S COMPENSATION CREDIT,2020-03-24,,2020-03-24,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-147,"2020 Wyoming Budget Session Laws, Chapter 147",law,CERTIFICATION OF CASES TO STATE BOARD OF EQUALIZATION,2020-03-24,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-149,"2020 Wyoming Budget Session Laws, Chapter 149",law,HEMP PRODUCTION-FEES,2020-03-24,,2020-03-24,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-151,"2020 Wyoming Budget Session Laws, Chapter 151",law,SEX OFFENDER-PROHIBITED ACCESS TO SCHOOL FACILITIES,2020-03-24,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-152,"2020 Wyoming Budget Session Laws, Chapter 152",law,CRIMINAL JUSTICE-MENTAL HEALTH-SUBSTANCE USE PROGRAMMING,2020-03-24,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-153,"2020 Wyoming Budget Session Laws, Chapter 153",law,CONTRACT BREWING,2020-03-24,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-154,"2020 Wyoming Budget Session Laws, Chapter 154",law,AGRICULTURE MARKETING FUNDS-PROCESSING PLANTS,2020-03-24,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-155,"2020 Wyoming Budget Session Laws, Chapter 155",law,OIL AND GAS TAX-NEW PRODUCTION,2020-03-26,,2020-07-01,1,https://wyoleg.gov/2020/SessionLaws.pdf
+wy-2020-ch-156,"2020 Wyoming Budget Session Laws, Chapter 156",law,WORKER’S COMPENSATION-LEGISLATORS,2020-03-26,,2023-01-02,1,https://wyoleg.gov/2020/SessionLaws.pdf
 wy-2020-special-ch-001,"2020 Wyoming Special Session Laws, Chapter 1",law,EMERGENCY APPROPRIATION-COVID-19 FUNDS-2,2020-05-20,,2020-05-20,1,https://wyoleg.gov/2021/SessionLaws.pdf
 wy-2020-special-ch-002,"2020 Wyoming Special Session Laws, Chapter 2",law,EMERGENCY POWERS-COVID-19-2,2020-05-20,,2020-05-20,1,https://wyoleg.gov/2021/SessionLaws.pdf
 wy-2020-special-ch-003,"2020 Wyoming Special Session Laws, Chapter 3",law,COVID-19 BUSINESS RELIEF PROGRAMS,2020-05-20,,2020-05-20,1,https://wyoleg.gov/2021/SessionLaws.pdf
