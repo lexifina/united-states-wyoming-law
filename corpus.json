@@ -1,0 +1,17 @@
+{
+ "corpus": "us/wyoming/acts",
+ "path": "united-states/wyoming/acts",
+ "scope": "selected-acts",
+ "acts": 1025,
+ "future_branch": "future",
+ "publisher": "Wyoming Legislative Service Office",
+ "name": "United States (Wyoming)",
+ "language": "en",
+ "coverage": "1025 acts of United States (Wyoming) as enacted, in force from 2019-02-13 to 2026-11-11",
+ "history": "as-enacted",
+ "history_from": "2019-02-13",
+ "record_to": "2026-11-11",
+ "checked_on": "2026-11-11",
+ "record_note": "Texts from Wyoming Legislative Service Office.",
+ "in_force_trailer": "In-force"
+}
