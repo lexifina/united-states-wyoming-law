@@ -11,6 +11,7 @@ This file is written by the build on 2026-11-11, the day the source data was ret
 | Wyoming Legislative Service Office — statute titles and session laws | <https://wyoleg.gov/Legislation/SessionLaws> | 2026-11-11 | Legislative text issued by the Wyoming Legislative Service Office; government edicts. No commercial annotations used. |
 | Wyoming Legislative Service Office — 2023/2024 session laws | <https://wyoleg.gov/Legislation/SessionLaws> | 2026-11-11 | Legislative text issued by the Wyoming Legislative Service Office; government edicts. No commercial annotations used. |
 | Wyoming Legislative Service Office — 2021/2022 session laws | <https://wyoleg.gov/Legislation/SessionLaws> | 2026-11-11 | Legislative text issued by the Wyoming Legislative Service Office; government edicts. No commercial annotations used. |
+| Wyoming Legislative Service Office — 2019/2020 session laws | <https://wyoleg.gov/Legislation/SessionLaws> | 2026-11-11 | Legislative text issued by the Wyoming Legislative Service Office; government edicts. No commercial annotations used. |
 
 Every word of law in this repository comes from these sources. Lexifina reads them and records each act's dated versions, and the laws that made each change, in one corpus file. This repository is built from that file.
 
@@ -736,20 +737,329 @@ Every word of law in this repository comes from these sources. Lexifina reads th
 | `session-law-2022-109` | COUNTY AND DISTRICT ATTORNEYS-SALARY AMENDMENTS | 1 | 2022-07-01 to 2022-07-01 |
 | `session-law-2022-110` | COUNTY OFFICERS-SALARIES | 1 | 2022-07-01 to 2022-07-01 |
 | `session-law-2022-112` | REDISTRICTING OF THE LEGISLATURE | 1 | 2022-03-08 to 2022-03-08 |
+| `session-law-2019-002` | CERTIFIED PUBLIC ACCOUNTANTS ACT-REVISIONS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-003` | COUNTY CLERKS-RECORDS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-004` | ELECTION FORMS | 1 | 2019-02-13 to 2019-02-13 |
+| `session-law-2019-005` | BUDGET SUBMISSION DEADLINE | 1 | 2019-02-13 to 2019-02-13 |
+| `session-law-2019-006` | PUBLIC UTILITIES-CERTIFICATES OF CONVENIENCE AND NECESSITY | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-007` | TELECOMMUNICATIONS ACT-AMENDMENTS | 1 | 2019-02-13 to 2019-02-13 |
+| `session-law-2019-008` | NATIONAL GUARD MUSEUM | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-009` | ELECTION READINESS ACCOUNT | 1 | 2019-02-14 to 2019-02-14 |
+| `session-law-2019-011` | CRIME VICTIM COMPENSATION ELIGIBILITY CLARIFICATION | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-012` | PHYSICAL THERAPY-SCOPE OF PRACTICE REVISIONS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-014` | JURY PROCEDURE AMENDMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-015` | MEDICAID BENEFIT RECOVERY-ESTATES | 1 | 2019-02-14 to 2019-02-14 |
+| `session-law-2019-016` | WYOMING HEALTH INSURANCE POOL AMENDMENTS | 1 | 2019-02-14 to 2019-02-14 |
+| `session-law-2019-017` | NUCLEAR REGULATORY AGREEMENT-CONFORMING AMENDMENT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-018` | VIRTUAL EDUCATION AMENDMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-020` | EQUAL PAY-PENALTIES | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-021` | CIGARETTE TAX ADMINISTRATION | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-022` | INTERNATIONALLY ACTIVE INSURANCE GROUPS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-023` | TRANSPORTATION ENTERPRISE PROGRAM INVESTMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-024` | RECORDATION OF JUDGMENTS AND ORDERS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-025` | LIMITED MINING OPERATIONS-AMENDMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-027` | GRIZZLY BEAR HUNTS | 1 | 2019-02-15 to 2019-02-15 |
+| `session-law-2019-028` | HATHAWAY SCHOLARSHIP ELIGIBILITY | 1 | 2019-02-15 to 2019-02-15 |
+| `session-law-2019-029` | EXPUNGEMENT OF JUVENILE COURT RECORDS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-030` | BANKING TECHNOLOGY AND STOCK REVISIONS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-031` | COOPERATIVE UTILITIES-BYLAWS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-032` | SCHOOL DISTRICT PERSONNEL DEFINITIONS | 1 | 2019-02-15 to 2019-02-15 |
+| `session-law-2019-033` | LOTTERY REVISIONS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-035` | PUBLIC PURPOSE INVESTMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-036` | TOBACCO TAX EQUIVALENCE | 1 | 2019-02-15 to 2019-02-15 |
+| `session-law-2019-037` | MODIFICATION OF PROBATION | 1 | 2019-02-15 to 2019-02-15 |
+| `session-law-2019-038` | LSRA INVESTMENTS | 1 | 2019-02-15 to 2019-02-15 |
+| `session-law-2019-039` | FEDERAL NATURAL RESOURCE POLICY ACCOUNT- AMENDMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-040` | FAMILY MEDICINE RESIDENCY PROGRAM | 1 | 2019-02-15 to 2019-02-15 |
+| `session-law-2019-041` | COLLECTION OF SALES TAX BY MARKETPLACE FACILITATORS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-043` | SCHOOL FINANCE INTERFUND LOANS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-044` | UNIFORM TRUST CODE AMENDMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-045` | PRINCIPAL AND INCOME ACT-PRINCIPAL PLACE OF ADMINISTRATION | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-046` | MIDWIFE SERVICES-MEDICAID | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-047` | RULE AGAINST PERPETUITY AMENDMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-048` | VETERANS CEMETERY-USE OF FUNDS | 1 | 2019-02-18 to 2019-02-18 |
+| `session-law-2019-050` | WYOMING COWBOY CHALLENGE ACADEMY ENDOWMENT | 1 | 2019-02-18 to 2019-02-18 |
+| `session-law-2019-051` | DEATH BENEFITS-WYOMING RETIREMENT PLANS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-052` | NONVESTED MEMBER ACCOUNTS-WYOMING RETIREMENT PLANS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-053` | WILD HORSE HIGHWAY-DESIGNATION | 1 | 2019-02-18 to 2019-02-18 |
+| `session-law-2019-054` | COURT PROCEDURE AMENDMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-055` | OMNIBUS WATER BILL-CONSTRUCTION | 1 | 2019-02-18 to 2019-02-18 |
+| `session-law-2019-056` | ADJUTANT GENERAL DUTIES-ACCESS TO FORMS AND RECORDS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-058` | STATE AMPHIBIAN | 1 | 2019-02-19 to 2019-02-19 |
+| `session-law-2019-059` | ARCHAEOLOGICAL HUMAN BURIAL SITES | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-060` | SUNSET DATE-WYOMING INVESTMENT IN NURSING PROGRAM | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-062` | USE OF DOGS-RECOVERY OF KILLED OR WOUNDED BIG GAME | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-063` | REAL ESTATE APPRAISERS-LICENSING AMENDMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-064` | ROADSIDE GEOLOGY | 1 | 2019-11-01 to 2019-11-01 |
+| `session-law-2019-065` | MALT BEVERAGE AND CATERING PERMITS-FEES | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-067` | MUNICIPAL SOLID WASTE CEASE AND TRANSFER-APPROPRIA- TION | 1 | 2019-03-31 to 2019-03-31 |
+| `session-law-2019-068` | FREESTANDING EMERGENCY CENTER LICENSING-TIME EXTENSION | 1 | 2019-02-19 to 2019-02-19 |
+| `session-law-2019-069` | LANDOWNER AND LESSEE LIABILITY LIMITATIONS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-070` | WAGE GARNISHMENT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-071` | ENVIRONMENTAL QUALITY COUNCIL-AMENDMENTS | 1 | 2019-02-19 to 2019-02-19 |
+| `session-law-2019-072` | RETAIL PURCHASES OF ALCOHOLIC LIQUORS FOR RESALE | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-073` | FELONY FLEEING OR ELUDING POLICE | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-074` | PASSING STOPPED SCHOOL BUS-RECORDED IMAGES | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-075` | 2019 LARGE PROJECT FUNDING | 1 | 2019-02-26 to 2019-02-26 |
+| `session-law-2019-077` | PROTECTION OF CHILDREN-CHILD ENDANGERMENT AMENDMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-078` | REPEAL-HOSPITAL RECORDS AND INFORMATION STATUTES | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-079` | WYOMING UNDERGROUND FACILITIES NOTIFICATION ACT- AMENDMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-081` | HATHAWAY EXPAND WYOMING SCHOLARSHIPS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-082` | SPECIAL PURPOSE TAX-EXCESS FUNDS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-083` | VOLUNTEER PENSION ACCOUNT-SEARCH AND RESCUE | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-084` | TEACHER ACCOUNTABILITY | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-085` | SUMMARY PROBATE PROCEDURES | 1 | 2019-02-26 to 2019-02-26 |
+| `session-law-2019-086` | REGULATION OF SHED ANTLER AND BIG GAME HORN COLLECTION | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-087` | CLUBHOUSE-BASED PSYCHOSOCIAL REHABILITATION PROGRAMS | 1 | 2020-04-01 to 2020-04-01 |
+| `session-law-2019-088` | TERMINATION OF PARENTAL RIGHTS-STANDING | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-089` | NEW VEHICLE DEALER CLAIMS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-090` | COMMUNITY COLLEGE POLICE OFFICER RETIREMENT | 1 | 2019-02-26 to 2019-02-26 |
+| `session-law-2019-091` | DIGITAL ASSETS-EXISTING LAW | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-093` | CORPORATE STOCK-CERTIFICATE TOKENS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-094` | COMMERCIAL FILING SYSTEM | 1 | 2019-02-26 to 2019-02-26 |
+| `session-law-2019-095` | ELECTRIC BICYCLES-REGULATION | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-096` | WYOMING MEDICAID FRAUD CONTROL ACT | 1 | 2019-02-26 to 2019-02-26 |
+| `session-law-2019-097` | COUNTY FAIR ENDOWMENT | 1 | 2019-02-26 to 2019-02-26 |
+| `session-law-2019-098` | JUDICIAL SALARY INCREASES | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-101` | LIMITATION ON LENGTH OF PROBATION | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-102` | EDUCATION REPORTING REQUIREMENTS | 1 | 2019-02-26 to 2019-02-26 |
+| `session-law-2019-103` | EMERGENCY ADMINISTRATION OF OPIATE ANTAGONIST- REVISIONS | 1 | 2019-02-26 to 2019-02-26 |
+| `session-law-2019-106` | WRS BOARD MEMBER QUALIFICATIONS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-107` | CIRCUIT COURT BANK ACCOUNTS | 1 | 2019-02-26 to 2019-02-26 |
+| `session-law-2019-108` | WYOMING BEER FREEDOM ACT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-109` | EDUCATION ACCOUNTABILITY | 1 | 2019-02-26 to 2019-02-26 |
+| `session-law-2019-110` | UW BOARD OF TRUSTEES-CHAIRMAN | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-111` | ADVANCED PSYCHIATRIC NURSE PRACTITIONER PROGRAM- AMENDMENT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-112` | BUILD WYOMING-AMENDMENTS | 1 | 2019-02-26 to 2019-02-26 |
+| `session-law-2019-113` | PHARMACY BENEFIT MANAGERS-PRESCRIPTION COST NOTIFICATION | 1 | 2019-02-26 to 2019-02-26 |
+| `session-law-2019-114` | WYOMING CHILDREN’S TRUST FUND-AMENDMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-115` | VOLUNTEER RESERVE OFFICERS-LIABILITY COVERAGE | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-117` | ANTIFREEZE AND PETROLEUM STANDARDS ENFORCEMENT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-118` | JOINT POWERS BOARDS-NATURAL GAS SERVICE | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-119` | BROADBAND DEVELOPMENT PROGRAM-AMENDMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-120` | TAXATION OF BROADBAND INTERNET INFRASTRUCTURE | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-121` | ELECTRIC VEHICLE FEE | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-122` | REGULATION OF HUNTING METHODS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-123` | PATCHING PREXY’S PASTURE PARALLELOGRAM PROBLEM | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-124` | REVERSION OF FUNDS-EMERGENCY FIRE SUPPRESSION ACCOUNT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-125` | ILLEGITIMATE PERSONS DESCENT-REPEAL | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-126` | ALCOHOLIC BEVERAGES-24 HOUR PERMIT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-127` | FUNERAL SERVICE PRACTITIONERS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-128` | WYOMING INSURANCE GUARANTY ASSOCIATION-REVISIONS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-129` | PUBLIC WORKS AND CONTRACTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-130` | GUARDIANSHIPS-REINTEGRATION PLANNING AUTHORIZED | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-132` | COURT SUPERVISED TREATMENT PROGRAM ACCOUNT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-133` | ENVIRONMENTAL QUALITY COUNCIL-VOTING AMENDMENTS | 1 | 2019-02-27 to 2019-02-27 |
+| `session-law-2019-134` | PROCUREMENT AMENDMENTS | 1 | 2019-02-27 to 2019-02-27 |
+| `session-law-2019-135` | FAMILY COLLEGE SAVINGS PROGRAM-REPEAL | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-136` | WILDLIFE AND NATURAL RESOURCE TRUST ACCOUNT BOARD-DUTIES | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-137` | CHILD LABOR PENALTIES | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-138` | RIGHTS OF WAY-COMMUNICATIONS SERVICES | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-139` | DRIVER’S LICENSES-MEDICAL ALERT DESIGNATION | 1 | 2020-01-01 to 2020-01-01 |
+| `session-law-2019-140` | REAL ESTATE BROKERS-RETENTION OF RECORDS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-141` | LOCAL REGULATION-SUBDIVISIONS | 1 | 2019-02-27 to 2019-02-27 |
+| `session-law-2019-142` | MENTAL HEALTH AND SUBSTANCE USE COVERAGE PARITY | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-143` | CHILD PROTECTIVE SERVICE WORKERS-TRAINING | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-144` | ELECTRONIC NOTICE-PORTABLE ELECTRONIC DEVICE INSURANCE | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-145` | COLLECTION AGENCY BOARD-MEMBERS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-146` | PAYMENT PROCESSOR-STATE GOVERNMENT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-147` | WATER SERVICE-PUBLIC UTILITY EXEMPTION | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-148` | LIVESTOCK BRANDS-AMENDMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-149` | EDUCATIONAL ATTAINMENT EXECUTIVE COUNCIL | 1 | 2019-02-28 to 2019-02-28 |
+| `session-law-2019-150` | COMMON COLLEGE TRANSCRIPT-IMPLEMENTATION | 1 | 2019-02-28 to 2019-02-28 |
+| `session-law-2019-151` | ORDER OF PROTECTION-TOLLING DURING IMPRISONMENT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-152` | OPERATION OF MOTORBOAT WHILE INTOXICATED | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-153` | CONTROLLED SUBSTANCES EDUCATION AND ADMINISTRATION | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-154` | WYOMING COWBOY AND COWGIRL LEGACY WEEK | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-155` | K-3 READING ASSESSMENT AND INTERVENTION PROGRAM | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-156` | VETERANS’ SKILLED NURSING FACILITY | 1 | 2019-02-28 to 2019-02-28 |
+| `session-law-2019-157` | MIXED MARTIAL ARTS REGULATION | 1 | 2019-02-28 to 2019-02-28 |
+| `session-law-2019-158` | ALCOHOLIC BEVERAGES-BUSINESS FLEXIBILITY | 1 | 2019-02-28 to 2019-02-28 |
+| `session-law-2019-160` | SPECIAL ELECTRIC UTILITY AGREEMENTS | 1 | 2019-02-28 to 2019-02-28 |
+| `session-law-2019-161` | HOSPITAL COST STUDY | 1 | 2019-02-28 to 2019-02-28 |
+| `session-law-2019-162` | FIREMEN’S RETIREMENT FUND PLAN B-CONTRIBUTION | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-163` | PARI-MUTUEL FEE DISTRIBUTION-STATE FAIR ACCOUNT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-164` | STUDENT EXPULSION HEARING REQUIREMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-165` | COUNTY REGULATION OF LIVESTOCK GRAZING | 1 | 2019-02-28 to 2019-02-28 |
+| `session-law-2019-166` | OPIOID PRESCRIPTION LIMITS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-167` | PRESENTENCE INVESTIGATION REPORTS-JUDICIAL DISCRETION | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-168` | PROGRAM EVALUATION STANDARDS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-169` | UNCLAIMED LIFE INSURANCE BENEFITS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-170` | WYOMING UTILITY TOKEN ACT-PROPERTY AMENDMENTS | 1 | 2019-02-28 to 2019-02-28 |
+| `session-law-2019-171` | DISTRICT COURT FILING FEES | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-172` | DRIVER’S LICENSES | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-173` | HEMP, CANNABIDIOL AND OTHER CONTROLLED SUBSTANCE REGULATION | 1 | 2019-03-06 to 2019-03-06 |
+| `session-law-2019-174` | PUBLIC RECORDS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-175` | HEALTH CARE INNOVATION | 1 | 2019-03-08 to 2019-03-08 |
+| `session-law-2019-176` | WYOMING WORKS PROGRAM | 1 | 2019-03-08 to 2019-03-08 |
+| `session-law-2019-177` | WYOMING PUBLIC LANDS DAY | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-178` | STATEWIDE 911 COORDINATOR | 1 | 2019-03-08 to 2019-03-08 |
+| `session-law-2019-179` | REPORTING OF ABORTIONS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-180` | SEXUAL ASSAULT PARENTAL RIGHTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-181` | CARE OF ANIMALS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-182` | LIVESTOCK ENFORCEMENT-REIMBURSEMENT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-183` | PROPERTY REDEMPTION | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-184` | AUDIT REQUIREMENTS FOR SPECIAL FIRE AND WATER DIS- TRICTS | 1 | 2019-03-08 to 2019-03-08 |
+| `session-law-2019-185` | PROFESSIONAL SERVICES PROCUREMENT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-187` | TAX LIABILITY MINERAL PRODUCTION | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-188` | TRANSPORT OF MOBILE HOMES-COPY OF TITLE | 1 | 2019-03-08 to 2019-03-08 |
+| `session-law-2019-190` | WYOMING STATUTORY FOUNDATION ACT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-191` | REMOTE EDUCATION AGREEMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-192` | NATIONAL BOARD TEACHER CERTIFICATION | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-193` | NEW OPPORTUNITIES FOR WYOMING COAL FIRED GENERATION | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-194` | MOTOR VEHICLES-TITLES AND BILLS OF SALE | 1 | 2020-01-01 to 2020-01-01 |
+| `session-law-2019-195` | COURT SUPERVISED TREATMENT PROGRAMS-PROSECUTOR’S CONSENT | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-199` | COMMUNITY COLLEGES-BACHELOR OF APPLIED SCIENCE PROGRAMS | 1 | 2019-03-15 to 2019-03-15 |
+| `session-law-2019-200` | WYOMING CHANCERY COURT | 1 | 2019-03-15 to 2019-03-15 |
+| `session-law-2019-201` | SPENDING POLICY AMENDMENTS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-202` | STATE OFFICES-CONTRACT TRANSPARENCY | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2019-203` | PARI-MUTUEL COMMISSION-DISTRIBUTIONS | 1 | 2019-07-01 to 2019-07-01 |
+| `session-law-2020-001` | HUMAN TRAFFICKING-PENALTY FOR SUBSEQUENT CONVICTION | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-002` | QUALIFIED RESIDENTIAL TREATMENT PROGRAMS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-003` | PESTICIDE REGISTRATION FEE | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-004` | ABSTRACTS OF COURT RECORDS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-005` | WILDLIFE CONSERVATION ACCOUNT | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-006` | COMMERCIAL LEARNER’S PERMITS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-007` | REMOTE EDUCATION WITHIN A SCHOOL DISTRICT | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-008` | BACKGROUND CHECKS-STATE TREASURER’S OFFICE | 1 | 2020-03-05 to 2020-03-05 |
+| `session-law-2020-009` | COMMERCIAL OPERATORS-REGISTRATION AND AUTHORITY TO OPERATE | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-010` | CHIP-STATE ADMINISTRATION | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-011` | UNCLAIMED PROPERTY FUNDS-INVESTMENTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-012` | MILITARY DEPARTMENT AUTHORITY TO ACCEPT DONATIONS | 1 | 2020-03-05 to 2020-03-05 |
+| `session-law-2020-013` | CONSUMER PROTECTION ACT AMENDMENTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-014` | WYOMING TOURISM ACCOUNT FUNDING | 1 | 2021-01-01 to 2021-01-01 |
+| `session-law-2020-015` | DRIVER’S LICENSES AND IDS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-016` | DIGITAL EXPRESSION PROTECTION | 1 | 2020-03-09 to 2020-03-09 |
+| `session-law-2020-017` | SENIOR HEALTH CARE SPECIAL DISTRICTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-018` | PROBATION AND PAROLE SANCTIONS-AMENDMENTS | 1 | 2020-03-09 to 2020-03-09 |
+| `session-law-2020-019` | MISSING AND MURDERED INDIGENOUS PERSONS-AGENCY CO- OPERATION | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-020` | DRILLING UNITS-RISK PENALTIES AND MANDATORY ROYALTIES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-021` | SCHOOL DISTRICT PROCUREMENT AMENDMENT | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-022` | AIR AMBULANCE-MEDICAID COVERAGE AMENDMENTS | 1 | 2020-03-09 to 2020-03-09 |
+| `session-law-2020-023` | ATTORNEY GENERAL AUTHORITY IN BANKRUPTCY ACTIONS | 1 | 2020-03-09 to 2020-03-09 |
+| `session-law-2020-025` | MOTORBOATS-GASOLINE TAX DISTRIBUTION | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-026` | WYOMING DEPARTMENT OF AGRICULTURE FEES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-031` | PUBLIC WORKS AND CONTRACTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-033` | LOCAL GOVERNMENT DISTRIBUTIONS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-035` | MINING PERMIT APPLICATIONS-OBJECTIONS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-036` | PUBLIC RECORDS-AMENDMENTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-037` | BUDGET AND FINANCIAL DATA REPORTING | 1 | 2020-03-10 to 2020-03-10 |
+| `session-law-2020-038` | WYOMING POLLUTION DISCHARGE ELIMINATION SYSTEM FEES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-039` | PRESCRIPTION TRACKING PROGRAM | 1 | 2020-03-10 to 2020-03-10 |
+| `session-law-2020-040` | HATHAWAY NEED-BASED SCHOLARSHIPS-GRADUATE SCHOOL | 1 | 2022-07-01 to 2022-07-01 |
+| `session-law-2020-041` | COAL FIRED ELECTRIC GENERATION FACILITIES | 1 | 2021-07-01 to 2021-07-01 |
+| `session-law-2020-042` | SOLID WASTE CEASE AND TRANSFER PROGRAM FUNDING | 1 | 2020-03-10 to 2020-03-10 |
+| `session-law-2020-043` | SCHOOL DISTRICT PROCUREMENT | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-044` | AD VALOREM-CONFIDENTIALITY EXCEPTION | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-045` | INSURANCE CODE UPDATES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-046` | STATE EMPLOYEES’ AND OFFICIALS’ GROUP INSURANCE | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-047` | HEALTH INSURANCE COSTS-BUNDLED PAYMENT STUDY | 1 | 2020-03-10 to 2020-03-10 |
+| `session-law-2020-048` | ANIMAL DAMAGE MANAGEMENT FUNDING | 1 | 2021-01-01 to 2021-01-01 |
+| `session-law-2020-052` | WYOMING MONEY TRANSMITTERS ACT-EXEMPTION | 1 | 2020-03-10 to 2020-03-10 |
+| `session-law-2020-053` | NICOTINE PRODUCTS-TAXATION | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-054` | CHANCERY COURT AMENDMENTS | 1 | 2020-03-10 to 2020-03-10 |
+| `session-law-2020-056` | TRIBAL ID FOR VOTING | 1 | 2020-03-12 to 2020-03-12 |
+| `session-law-2020-057` | GLOBAL SIGNATURE AUTHORITY FOR HEALTH CARE PROVIDERS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-058` | SURFACE WATER DIVERSION | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-059` | UNDERGROUND FACILITIES NOTIFICATION-EXEMPTION | 1 | 2020-03-12 to 2020-03-12 |
+| `session-law-2020-060` | RESIDENT TUITION FOR MILITARY MEMBERS AND FAMILY | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-061` | WILDLIFE CONSERVATION EFFORTS-1 | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-062` | MUNICIPAL BONDS-DIGITAL SECURITIES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-063` | MOTOR VEHICLE FRANCHISES-TELEPHONE REQUIREMENTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-064` | JURY PROCEDURE AMENDMENTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-065` | BUDGET MODIFICATIONS-EXECUTIVE | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-066` | COURT AUTOMATION FEES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-067` | INSURANCE INVESTMENTS-DIGITAL ASSETS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-068` | PRESCRIPTION TRACKING PROGRAM RULES | 1 | 2020-03-12 to 2020-03-12 |
+| `session-law-2020-069` | FOOD FREEDOM AMENDMENTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-070` | SCHOOL BUILDINGS AND FACILITIES-LEASE REIMBURSEMENTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-071` | DISCOVERED PROPERTY-PROBATE PROCEDURES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-072` | STATEMENTS OF CONSIDERATION | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-073` | APPRAISAL MANAGEMENT COMPANIES-AMENDMENTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-074` | RURAL HEALTH CARE DISTRICT AUTHORITY | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-075` | 2020 LARGE PROJECT FUNDING | 1 | 2020-03-12 to 2020-03-12 |
+| `session-law-2020-076` | LIVESTOCK BRAND ADMINISTRATION | 1 | 2020-03-12 to 2020-03-12 |
+| `session-law-2020-077` | PUBLIC UTILITIES-LIABILITY EXEMPTION | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-078` | IMPORTATION OF PRESCRIPTION DRUGS-STUDY | 1 | 2020-03-12 to 2020-03-12 |
+| `session-law-2020-079` | TRANSPORTATION OF NONRESIDENT STUDENTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-082` | INVESTMENT OF PUBLIC FUNDS | 1 | 2020-03-13 to 2020-03-13 |
+| `session-law-2020-084` | OFF-ROAD RECREATIONAL VEHICLE-DEFINITION | 1 | 2020-03-13 to 2020-03-13 |
+| `session-law-2020-085` | MUNICIPAL RIGHT-OF-WAY FRANCHISE FEES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-086` | NICOTINE PRODUCTS–AGE VERIFICATION AND SHIPPING | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-088` | COUNTY RESERVE ACCOUNTS | 1 | 2020-03-13 to 2020-03-13 |
+| `session-law-2020-089` | VETERANS PROPERTY TAX EXEMPTION-ACCESS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-090` | CONSOLIDATION OF THEFT CRIMES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-091` | LIVESTOCK BOARD INVESTIGATORS | 1 | 2020-03-13 to 2020-03-13 |
+| `session-law-2020-092` | COUNTY CENTRAL COMMITTEE ORGANIZATIONAL MEETING | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-093` | GOOD NEIGHBOR AUTHORITY REVOLVING ACCOUNT | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-094` | ANIMAL REIMBURSEMENT PROGRAM-AMENDMENTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-095` | GAME AND FISH-SELLING AGENTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-096` | MOTOR VEHICLE VIOLATIONS-PENALTIES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-097` | SELECT COMMITTEE ON BLOCKCHAIN, TECHNOLOGY AND I NNOVATION | 1 | 2020-03-13 to 2020-03-13 |
+| `session-law-2020-098` | EMERGENCY CALL LOCATION INFORMATION | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-099` | SELECT COMMITTEE ON TRIBAL RELATIONS | 1 | 2020-03-13 to 2020-03-13 |
+| `session-law-2020-100` | ELECTION CODE REVISIONS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-101` | ABSENTEE POLLING PLACES | 1 | 2020-03-13 to 2020-03-13 |
+| `session-law-2020-102` | TRUST COMPANIES-STATUTORY AMENDMENTS | 1 | 2020-03-13 to 2020-03-13 |
+| `session-law-2020-103` | DIGITAL ASSETS-STATUTORY AMENDMENTS | 1 | 2020-03-13 to 2020-03-13 |
+| `session-law-2020-104` | SMALL MODULAR NUCLEAR REACTOR PERMITTING | 1 | 2020-03-13 to 2020-03-13 |
+| `session-law-2020-105` | PROHIBITION OF FEMALE GENITAL MUTILATION | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-107` | VOLUNTEER PENSION ACCOUNT-FUNDING | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-110` | LOCAL SALES AND USE TAXES | 1 | 2021-01-01 to 2021-01-01 |
+| `session-law-2020-111` | EDUCATION ACCOUNTS-INVESTMENT EARNINGS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-113` | OMNIBUS WATER BILL - CONSTRUCTION | 1 | 2020-03-17 to 2020-03-17 |
+| `session-law-2020-114` | WYOMING GAMING COMMISSION | 1 | 2020-03-17 to 2020-03-17 |
+| `session-law-2020-116` | GENERAL GOVERNMENT REPORTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-117` | LIFETIME GAME AND FISH LICENSES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-118` | SALES AND USE TAX-DEFINITIONS UPDATE | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-119` | ANIMAL SHARES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-121` | GAME AND FISH LAW ENFORCEMENT DEFINITION AMEND- MENTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-122` | OFFICE OF GUARDIAN AD LITEM-2 | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-123` | PIONEER ARCHERY LICENSES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-124` | WYOMING COMBAT SPORTS COMMISSION | 1 | 2020-03-17 to 2020-03-17 |
+| `session-law-2020-127` | EMERGENCY WATER PROJECTS ACCOUNT | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-128` | AUDIOLOGY AND SPEECH-LANGUAGE PATHOLOGY COMPACT | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-129` | CONCEALED WEAPONS PERMIT RENEWAL-MILITARY DUTY | 1 | 2020-03-24 to 2020-03-24 |
+| `session-law-2020-130` | WYOMING WORKS-APPLICATION PERIOD | 1 | 2020-03-24 to 2020-03-24 |
+| `session-law-2020-131` | LONG-TERM CARE INSURANCE | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-132` | MICROBREWERIES | 1 | 2020-03-24 to 2020-03-24 |
+| `session-law-2020-133` | PARI-MUTUEL EVENTS-RODEO | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-135` | WEED AND PEST AMENDMENTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-136` | LIFE INSURANCE PREMIUMS | 1 | 2021-01-01 to 2021-01-01 |
+| `session-law-2020-137` | LIFE INSURANCE BENEFITS-PAYMENTS AND INTEREST | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-138` | DR. LEONARD L. ROBINSON MEMORIAL BRIDGE | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-140` | UNPAID WAGE CLAIM AMENDMENTS | 1 | 2020-03-24 to 2020-03-24 |
+| `session-law-2020-141` | TAX LIEN ENFORCEMENT-2 | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-142` | MONTHLY PAYMENT OF AD VALOREM TAX ON MINERAL PRODUCTION | 1 | 2020-03-24 to 2020-03-24 |
+| `session-law-2020-143` | RECLAMATION OF SURFACE COAL MINES-TURBINE BLADES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-144` | RELIABLE AND DISPATCHABLE LOW-CARBON ENERGY STANDARDS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-145` | GOVERNMENTAL AGENCY PARKING | 1 | 2020-03-24 to 2020-03-24 |
+| `session-law-2020-146` | WORKER’S COMPENSATION CREDIT | 1 | 2020-03-24 to 2020-03-24 |
+| `session-law-2020-147` | CERTIFICATION OF CASES TO STATE BOARD OF EQUALIZATION | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-149` | HEMP PRODUCTION-FEES | 1 | 2020-03-24 to 2020-03-24 |
+| `session-law-2020-151` | SEX OFFENDER-PROHIBITED ACCESS TO SCHOOL FACILITIES | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-152` | CRIMINAL JUSTICE-MENTAL HEALTH-SUBSTANCE USE PROGRAMMING | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-153` | CONTRACT BREWING | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-154` | AGRICULTURE MARKETING FUNDS-PROCESSING PLANTS | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-155` | OIL AND GAS TAX-NEW PRODUCTION | 1 | 2020-07-01 to 2020-07-01 |
+| `session-law-2020-156` | WORKER’S COMPENSATION-LEGISLATORS | 1 | 2023-01-02 to 2023-01-02 |
+| `session-law-2020-161` | SPECIAL EVENT LIQUOR LICENSES | 1 | 2020-03-26 to 2020-03-26 |
 
-The build made 718 commits:
+The build made 1025 commits:
 
 | Commits | Kind |
 | ---: | --- |
-| 718 | first version of an act |
-| 0 | one law on its in-force day |
+| 45 | baseline texts where the record starts |
+| 980 | named laws, court decisions and treaties |
 | 0 | changes no amendment note explains, credited to the publisher |
+| 0 | corrections to the existing record |
+| 0 | printing or layout changes |
 
 Other counts:
 - 0 commits on the branch `future`: laws not yet in force on 2026-11-11.
 - 0 commits dated 1 January 1970: in force before 1970, with the real day in their `In-force` trailer.
-- 674 laws in the record.
-- 1391 tags.
+- 982 laws in the record.
+- 2005 tags.
 
 ## Dates
 
@@ -761,8 +1071,8 @@ When a law gives no date of its own, the default rule applies: The Legislative S
 
 `tools/build.py` turns the corpus into this history in one pass: one commit per law, on the day it took effect. The same corpus always gives the same commit hashes. `tools/check_repo.py` reads every version back from git and compares it with the corpus. `tools/on.py` shows the law as it stood on any date. The corpus format is described in `tools/SCHEMA.md`.
 
-- Corpus: sha256 `fe0c7c2b5f3cf3ad1457a6c15fed8144e481efbea92133a3ca8dda2ccc12a32f` (33969414 bytes).
-- Builder blob hashes (`git hash-object`): `build.py` `3024ff164c261807dfc4d5b7b1b4a2cde4357da1`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
+- Corpus: sha256 `547c89e65e3cc5adbac5042528d4e3aa16306074dbfeed489e8a9cb54620e0c6` (36252069 bytes).
+- Builder blob hashes (`git hash-object`): `build.py` `63170edd89e92292ac248dae17d79e486e4e9f19`, `check.py` `e340718c28cd5b0edbe37bdeab1aac31427ada66`, `on.py` `4a8aa1c9a5e6bd8cc831b90a6e68c5a6f448a13c`.
 - Python 3.12.10; git version 2.46.0.windows.1.
 
 ## Checks
@@ -786,10 +1096,14 @@ No second build of this corpus has been compared yet.
 - No previously published statute-title or session-law record is modified by this addition.
 - Numbered chapters in the 2021 and 2022 official volumes, including the 2020 and 2021 special sessions are recorded as enacted, with original insertions and deletions retained; they do not reconstruct historical statute-title consolidations.
 - Only chapters with one unambiguous commencement day and an approval date are included. Chapters with split or conditional commencement are held for further date handling.
+- No previously published statute-title or session-law record is modified by this addition.
+- Numbered chapters in the 2019 and 2020 official volumes, are recorded as enacted, with original insertions and deletions retained; they do not reconstruct historical statute-title consolidations.
+- Only chapters with one unambiguous commencement day and an approval date are included. Chapters with split or conditional commencement are held for further date handling.
+- Chapter 161 ends at its official “Became law without signature” statement. The following House Resolution is a separate item. Its March 9 approval was wrongly attributed to Chapter 161 in the earlier pending part.
 
 ## What AI did and did not do
 
-The scripts that read the sources and build this repository were written by Claude Code running Claude Opus 5.5 (`claude-opus-5-5`) under Lexifina's direction.
+The source readers and builders were developed under Lexifina's direction with coding assistants, including Claude Code and Codex.
 
 No model wrote, translated or corrected legal text. No model runs at build time. Every word of law in this repository comes from the official sources above.
 
@@ -800,3 +1114,5 @@ Model use at data-build time:
 - A model wrote deterministic extraction and checking code; no law wording was generated or corrected.
 - A model wrote deterministic extraction and checking code; no law wording was generated or corrected.
 - A model wrote deterministic extraction and checking code; no law wording was generated or corrected.
+- A model wrote deterministic extraction and checking code; no law wording was generated or corrected.
+- A model identified the source boundary; code copied the official text prefix byte for byte from the earlier extraction and checked every word against the official PDF.
