@@ -1,0 +1,7 @@
+# MANAGEMENT COUNCIL MEMBERSHIP
+
+2021 WY general ch. 157 · 1 versions, from 2022-01-01 (latest in force: 2022-01-01) · <https://wyoleg.gov/2021/SessionLaws.pdf>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Chapter 157 | [full-text.md](full-text.md) | 0 |  |
