@@ -2,7 +2,7 @@
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law). This repository records Wyoming legislative text issued by the Legislative Service Office.
 
-The record contains the Constitution, all 44 statute-title PDFs linked by the publisher, and 449 numbered session-law chapters from 2023 through 2026.
+The record contains the Constitution, all 44 statute-title PDFs linked by the publisher, and 673 numbered session-law chapters from the 2021–2026 official volumes, including their special sessions.
 
 The statute-title records contain the publisher’s current-text edition. Numbered session-law records contain the text as enacted, including the publisher’s original deletions and insertions, represented by strikeout and underlining. These records do not reconstruct earlier consolidated versions of the statute titles.
 
@@ -502,6 +502,230 @@ The statute-title records contain the publisher’s current-text edition. Number
 | `session-law-2024-114/` | CONCEALED FIREARMS-PERMIT ELIGIBILITY | 1 | As enacted |
 | `session-law-2024-115/` | WYOMING SECOND AMENDMENT FINANCIAL PRIVACY ACT | 1 | As enacted |
 | `session-law-2024-117/` | SCHOOL SAFETY AND SECURITY-FUNDING | 1 | As enacted |
+| `session-law-2020-special-001/` | EMERGENCY APPROPRIATION-COVID-19 FUNDS-2 | 1 | As enacted |
+| `session-law-2020-special-002/` | EMERGENCY POWERS-COVID-19-2 | 1 | As enacted |
+| `session-law-2020-special-003/` | COVID-19 BUSINESS RELIEF PROGRAMS | 1 | As enacted |
+| `session-law-2021-001/` | WYOMING ENERGY AUTHORITY AMENDMENTS | 1 | As enacted |
+| `session-law-2021-004/` | CERTIFIED ADDICTIONS PRACTITIONERS-CERTIFICATION AMENDMENTS | 1 | As enacted |
+| `session-law-2021-005/` | YOUTHFUL OFFENDER PROGRAM-AMENDMENTS | 1 | As enacted |
+| `session-law-2021-006/` | CHANCERY COURT VACANCY AMENDMENTS | 1 | As enacted |
+| `session-law-2021-007/` | COMMUNITY JUVENILE SERVICES BLOCK GRANT PROGRAM | 1 | As enacted |
+| `session-law-2021-008/` | OUT-OF-STATE STATE BANK CHARTER CONVERSIONS | 1 | As enacted |
+| `session-law-2021-009/` | PWMTF RESERVE ACCOUNT-DISTRIBUTION TIMING | 1 | As enacted |
+| `session-law-2021-010/` | TAX LIEN ENFORCEMENT-AMENDMENTS | 1 | As enacted |
+| `session-law-2021-012/` | OMNIBUS WATER BILL - CONSTRUCTION | 1 | As enacted |
+| `session-law-2021-013/` | 2021 LARGE PROJECT FUNDING | 1 | As enacted |
+| `session-law-2021-014/` | CONSUMER CREDIT AMENDMENTS | 1 | As enacted |
+| `session-law-2021-015/` | MILITARY TRAINING MEMORIALS | 1 | As enacted |
+| `session-law-2021-016/` | TRIBAL VEHICLE REGISTRATION EXEMPTION IMPLEMENTATION | 1 | As enacted |
+| `session-law-2021-017/` | THEFT STATUTE-AMENDMENT | 1 | As enacted |
+| `session-law-2021-018/` | CHANGES TO WATER RIGHT - NOTICE REQUIREMENTS FOR HEARING | 1 | As enacted |
+| `session-law-2021-019/` | PUBLIC UTILITY ASSESSMENT | 1 | As enacted |
+| `session-law-2021-020/` | SHORT TIME COMPENSATION PROGRAM | 1 | As enacted |
+| `session-law-2021-021/` | BUSINESS CODE REVISIONS | 1 | As enacted |
+| `session-law-2021-022/` | ALCOHOLIC BEVERAGE REGULATION | 1 | As enacted |
+| `session-law-2021-023/` | DEPARTMENT OF TRANSPORTATION COMMUNICATION FACILITIES | 1 | As enacted |
+| `session-law-2021-024/` | SCHOOL FINANCE-DATES FOR FUND TRANSFERS | 1 | As enacted |
+| `session-law-2021-025/` | CREDIT FOR REINSURANCE | 1 | As enacted |
+| `session-law-2021-026/` | WATER PERMIT NOTICE REQUIREMENTS | 1 | As enacted |
+| `session-law-2021-028/` | MONTHLY AD VALOREM TAX REVISIONS-2 | 1 | As enacted |
+| `session-law-2021-030/` | ANIMAL ABUSE STATUTES REORGANIZATION AND UPDATE | 1 | As enacted |
+| `session-law-2021-032/` | GROUND AMBULANCE SERVICE PROVIDER ASSESSMENT ACT | 1 | As enacted |
+| `session-law-2021-033/` | BURIALS FOR INDIGENT PERSONS | 1 | As enacted |
+| `session-law-2021-034/` | OFF-ROAD RECREATIONAL VEHICLES REGISTRATION AUTHORIZED | 1 | As enacted |
+| `session-law-2021-035/` | ACCESS TO ANATOMICAL GIFTS AND ORGAN TRANSPLANTS | 1 | As enacted |
+| `session-law-2021-036/` | INTERFERENCE WITH PUBLIC CONTRACTING | 1 | As enacted |
+| `session-law-2021-037/` | MENTAL HEALTH PROFESSIONS PRACTICE ACT-AMENDMENTS | 1 | As enacted |
+| `session-law-2021-039/` | CRIME OF BESTIALITY | 1 | As enacted |
+| `session-law-2021-040/` | DIVISION OF BANKING-FEES | 1 | As enacted |
+| `session-law-2021-041/` | PROVIDER RECRUITMENT GRANT PROGRAM | 1 | As enacted |
+| `session-law-2021-042/` | FOOD FREEDOM ACT AMENDMENTS | 1 | As enacted |
+| `session-law-2021-043/` | HATHAWAY SCHOLARSHIPS-SUCCESS CURRICULUM IN MIDDLE SCHOOL | 1 | As enacted |
+| `session-law-2021-045/` | RIGHTS OF WAY ALONG PUBLIC WAYS-AMENDMENTS | 1 | As enacted |
+| `session-law-2021-046/` | STATE PARKS ACCOUNT-EXPENDITURE AUTHORITY | 1 | As enacted |
+| `session-law-2021-047/` | WYOMING NATIONAL GUARD-PREFERENCE FOR EDUCATION | 1 | As enacted |
+| `session-law-2021-048/` | UNIFORM STATEWIDE PAYMENT PROCESSING | 1 | As enacted |
+| `session-law-2021-049/` | LOCAL HEALTH OFFICERS-EDUCATION REQUIREMENTS | 1 | As enacted |
+| `session-law-2021-050/` | UNIFORM FRAUDULENT TRANSFER ACT-EXTINGUISHING CLAIMS | 1 | As enacted |
+| `session-law-2021-052/` | SUBDIVISIONS | 1 | As enacted |
+| `session-law-2021-053/` | UNIFORM TRUST CODE-AMENDMENTS | 1 | As enacted |
+| `session-law-2021-054/` | COMMUNITY HEALTH CENTER AND RURAL HEALTH CLINIC GRANTS | 1 | As enacted |
+| `session-law-2021-055/` | JUDICIAL REVIEW OF AGENCY ACTIONS-PERMISSIBLE VENUES | 1 | As enacted |
+| `session-law-2021-057/` | PUBLIC MEETINGS-EXECUTIVE SESSIONS FOR SECURITY PLANS | 1 | As enacted |
+| `session-law-2021-058/` | INVESTMENT OF STATE PERMANENT FUNDS | 1 | As enacted |
+| `session-law-2021-059/` | FINANCIAL COUNCIL AND REPORTING-BUDGET REDUCTIONS | 1 | As enacted |
+| `session-law-2021-061/` | WYOMING MONEY TRANSMITTERS ACT-AMENDMENTS | 1 | As enacted |
+| `session-law-2021-062/` | REPEALING SUNSET DATE FOR THE OFFICE OF CONSUMER ADVOCATE | 1 | As enacted |
+| `session-law-2021-063/` | DIGITAL IDENTITY | 1 | As enacted |
+| `session-law-2021-064/` | TRANSPORTATION STATUTORY AMENDMENTS-1 | 1 | As enacted |
+| `session-law-2021-065/` | TRANSPORTATION STATUTORY AMENDMENTS-2 | 1 | As enacted |
+| `session-law-2021-067/` | SMALL CLAIMS PROCEDURES | 1 | As enacted |
+| `session-law-2021-070/` | REMOVAL OF UNENFORCEABLE PROPERTY COVENANTS | 1 | As enacted |
+| `session-law-2021-071/` | ADVANCE ENROLLMENT | 1 | As enacted |
+| `session-law-2021-072/` | RETIREMENT SYSTEM-EFFICIENT DISBURSEMENT METHOD | 1 | As enacted |
+| `session-law-2021-073/` | HUNTING AND FISHING ACCESS-RELIABLE FUNDING | 1 | As enacted |
+| `session-law-2021-074/` | WYOMING SCHOOL PROTEIN ENHANCEMENT PROJECT | 1 | As enacted |
+| `session-law-2021-075/` | OWNERSHIP OF FOSSILS AND ARTIFACTS | 1 | As enacted |
+| `session-law-2021-077/` | DEFENDING WYOMING BUSINESS-TRADE AND COMMERCE AMENDMENTS | 1 | As enacted |
+| `session-law-2021-080/` | OPTIONAL MUNICIPAL TAX-ELECTION | 1 | As enacted |
+| `session-law-2021-081/` | PHYSICIAN ASSISTANTS AMENDMENTS | 1 | As enacted |
+| `session-law-2021-082/` | EDUCATION-PUPIL TEACHER CONTACT TIME | 1 | As enacted |
+| `session-law-2021-083/` | INSURANCE-MENTAL HEALTH AND SUBSTANCE USE PARITY | 1 | As enacted |
+| `session-law-2021-084/` | PUBLIC UTILITY SAFETY LIGHTS | 1 | As enacted |
+| `session-law-2021-085/` | UNLAWFUL DISSEMINATION OF AN INTIMATE IMAGE | 1 | As enacted |
+| `session-law-2021-086/` | COVID-19 LARGE BUSINESS RELIEF PROGRAM | 1 | As enacted |
+| `session-law-2021-087/` | BIRTH CERTIFICATES-GESTATIONAL AGREEMENTS | 1 | As enacted |
+| `session-law-2021-088/` | GAME ROAD KILL | 1 | As enacted |
+| `session-law-2021-089/` | INTRASTATE CROWDFUNDING EXEMPTION-AMENDMENTS | 1 | As enacted |
+| `session-law-2021-090/` | WYOMING PREFERENCE ACT OF 1971-AMENDMENTS | 1 | As enacted |
+| `session-law-2021-091/` | DIGITAL ASSETS-AMENDMENTS | 1 | As enacted |
+| `session-law-2021-092/` | CONNECT WYOMING PROGRAM-FEDERAL FUNDING | 1 | As enacted |
+| `session-law-2021-093/` | UNIVERSITY WATER SYSTEM | 1 | As enacted |
+| `session-law-2021-094/` | BIG OR TROPHY GAME ANIMAL-MINIMUM HUNTING AGE | 1 | As enacted |
+| `session-law-2021-096/` | ELECTRIC VEHICLE FEE UPDATES | 1 | As enacted |
+| `session-law-2021-097/` | ELK FEEDGROUND CLOSINGS-REQUIREMENTS | 1 | As enacted |
+| `session-law-2021-098/` | WYOMING STATUTORY FOUNDATION ACT-AMENDMENTS | 1 | As enacted |
+| `session-law-2021-101/` | SPEECH AND HEARING SPECIALIST LICENSING AMENDMENTS | 1 | As enacted |
+| `session-law-2021-102/` | REQUIREMENTS RELATING TO DEPOSITORS-AMENDMENTS | 1 | As enacted |
+| `session-law-2021-103/` | SOLID WASTE CEASE AND TRANSFER PROGRAM FUNDING | 1 | As enacted |
+| `session-law-2021-105/` | ABANDONED VEHICLES-TOWING SERVICE LIENS AND TITLES | 1 | As enacted |
+| `session-law-2021-106/` | LIMITING FIREARM SEIZURE AND REGULATION DURING EMERGENCIES | 1 | As enacted |
+| `session-law-2021-107/` | BOARD OF DENTAL EXAMINERS-AMENDMENTS | 1 | As enacted |
+| `session-law-2021-108/` | INVESTMENT OF STATE NON-PERMANENT FUNDS | 1 | As enacted |
+| `session-law-2021-109/` | WYOMING GAMING COMMISSION-MODIFICATIONS AND CORRECTIONS | 1 | As enacted |
+| `session-law-2021-111/` | LIVESTOCK IDENTIFICATION CHOICE ACT | 1 | As enacted |
+| `session-law-2021-112/` | COAL FIRED GENERATION FACILITY CLOSURES-LITIGATION FUNDING | 1 | As enacted |
+| `session-law-2021-113/` | CONCEALED CARRY-RESIDENCY REQUIREMENT-2 | 1 | As enacted |
+| `session-law-2021-114/` | VOTER IDENTIFICATION | 1 | As enacted |
+| `session-law-2021-115/` | VEHICLE TITLES FOR NONRESIDENT OWNERS | 1 | As enacted |
+| `session-law-2021-116/` | HOMICIDE AMENDMENTS | 1 | As enacted |
+| `session-law-2021-117/` | SLAYER RULE-AMENDMENTS | 1 | As enacted |
+| `session-law-2021-118/` | PUBLIC HEALTH EMERGENCIES-IMMUNITY AMENDMENTS | 1 | As enacted |
+| `session-law-2021-120/` | GILLETTE COMMUNITY COLLEGE DISTRICT | 1 | As enacted |
+| `session-law-2021-121/` | RANGE MANAGEMENT AT MILITARY TRAINING AREAS | 1 | As enacted |
+| `session-law-2021-122/` | AGENCY FEE REVISIONS | 1 | As enacted |
+| `session-law-2021-123/` | IRRIGATION AND WATER CONSERVANCY DISTRICT LOANS | 1 | As enacted |
+| `session-law-2021-124/` | STATE BUDGETING AND EXPENDITURE AUTHORITY | 1 | As enacted |
+| `session-law-2021-126/` | ALCOHOLIC BEVERAGE PERMITS | 1 | As enacted |
+| `session-law-2021-127/` | UNCLAIMED COOPERATIVE UTILITY DEPOSITS AND PAYMENTS | 1 | As enacted |
+| `session-law-2021-128/` | PUBLIC SERVICE COMMISSION CONSIDERATIONS | 1 | As enacted |
+| `session-law-2021-129/` | REAL ESTATE APPRAISERS-CONTINUING EDUCATION | 1 | As enacted |
+| `session-law-2021-130/` | REAL ESTATE SUBDIVISIONS-EASEMENT REQUIREMENTS | 1 | As enacted |
+| `session-law-2021-131/` | SCHOOL FACILITIES-PROJECT PRIORITIZATION | 1 | As enacted |
+| `session-law-2021-132/` | SCHOOL OF ENERGY RESOURCES BUDGET SUBMITTAL | 1 | As enacted |
+| `session-law-2021-133/` | COMMUNITY BASED IN-HOME SERVICES PROGRAM | 1 | As enacted |
+| `session-law-2021-134/` | WYOMING INVESTMENT IN NURSING FUNDING | 1 | As enacted |
+| `session-law-2021-135/` | BORN ALIVE INFANT-MEANS OF CARE | 1 | As enacted |
+| `session-law-2021-136/` | TEMPORARY LICENSING AND PERMITTING AUTHORITY-2 | 1 | As enacted |
+| `session-law-2021-137/` | MOTOR VEHICLES-SECURITY INTEREST PERFECTION | 1 | As enacted |
+| `session-law-2021-138/` | INSURANCE DISCOUNT FOR ACCIDENT PREVENTION TRAINING | 1 | As enacted |
+| `session-law-2021-141/` | VOYEURISM AMENDMENTS | 1 | As enacted |
+| `session-law-2021-142/` | FIREARMS TRANSACTIONS-FINANCIAL DISCRIMINATION | 1 | As enacted |
+| `session-law-2021-143/` | BUSINESS ENTITIES-REPRESENTATION IN DETAINER CASES | 1 | As enacted |
+| `session-law-2021-145/` | INCLUSIVE BALLOT LANGUAGE | 1 | As enacted |
+| `session-law-2021-146/` | COLLEGE CREDIT RETENTION | 1 | As enacted |
+| `session-law-2021-147/` | STATE INVESTMENT ADMINISTRATION | 1 | As enacted |
+| `session-law-2021-148/` | HIGHER EDUCATION-BAN ON FUNDING FOR ABORTIONS | 1 | As enacted |
+| `session-law-2021-150/` | LIQUOR MANUFACTURER REGULATIONS | 1 | As enacted |
+| `session-law-2021-151/` | INVESTMENT FUNDS COMMITTEE-MEMBERSHIP | 1 | As enacted |
+| `session-law-2021-153/` | CONNECTION OF UTILITY SERVICES | 1 | As enacted |
+| `session-law-2021-155/` | MEAT PROCESSING PROGRAMS | 1 | As enacted |
+| `session-law-2021-157/` | MANAGEMENT COUNCIL MEMBERSHIP | 1 | As enacted |
+| `session-law-2021-158/` | PROPERTY TAX-REPORTING AND EXEMPTION | 1 | As enacted |
+| `session-law-2021-159/` | WYOMING MILITARY CODE | 1 | As enacted |
+| `session-law-2021-161/` | LOCAL LAND USE PLANNING AND ZONING | 1 | As enacted |
+| `session-law-2021-162/` | DECENTRALIZED AUTONOMOUS ORGANIZATIONS | 1 | As enacted |
+| `session-law-2021-164/` | PROPERTY RIGHTS-LIMITATION ON LOCAL AUTHORITY | 1 | As enacted |
+| `session-law-2021-165/` | ELECTED OFFICIAL RESIDENCY REQUIREMENT | 1 | As enacted |
+| `session-law-2021-special-001/` | FEDERAL COVID VACCINE MANDATES-PROHIBITION AND REMEDIES-2 | 1 | As enacted |
+| `session-law-2022-001/` | ECONOMIC DEVELOPMENT PROGRAMS-TRIBAL INCLUSION | 1 | As enacted |
+| `session-law-2022-002/` | PARTNERSHIP CHALLENGE LOAN PROGRAM-AMENDMENTS | 1 | As enacted |
+| `session-law-2022-004/` | ABSENTEEISM AND TRUANCY | 1 | As enacted |
+| `session-law-2022-006/` | LIABILITY FOR GOVERNMENTAL HEALTHCARE PROVIDERS- AMENDMENT | 1 | As enacted |
+| `session-law-2022-008/` | FIREMEN’S PENSION PLAN BENEFITS | 1 | As enacted |
+| `session-law-2022-009/` | GAME AND FISH FUND-INVESTMENTS | 1 | As enacted |
+| `session-law-2022-011/` | SOLID WASTE CEASE AND TRANSFER PROGRAM FUNDING | 1 | As enacted |
+| `session-law-2022-012/` | CHANCERY COURT VACANCY AMENDMENTS | 1 | As enacted |
+| `session-law-2022-013/` | MILITARY DEPARTMENT-ANNUAL REPORT | 1 | As enacted |
+| `session-law-2022-014/` | SCHOOL FINANCE-INCREASING CASH RESERVES | 1 | As enacted |
+| `session-law-2022-016/` | WORKER’S COMPENSATION-COVID-19 | 1 | As enacted |
+| `session-law-2022-017/` | DIGITAL IDENTITY PROTECTION | 1 | As enacted |
+| `session-law-2022-018/` | GENETIC DATA PRIVACY-AMENDMENTS | 1 | As enacted |
+| `session-law-2022-020/` | PRE-APPLICATION DETERMINATIONS FOR LICENSING | 1 | As enacted |
+| `session-law-2022-021/` | COUNTY TAX PROTEST-FILING DATE | 1 | As enacted |
+| `session-law-2022-022/` | EMPLOYMENT SUPPORT FUND-AMENDMENTS | 1 | As enacted |
+| `session-law-2022-023/` | INSURANCE INVESTMENT AMENDMENTS | 1 | As enacted |
+| `session-law-2022-024/` | NAME CHANGE NOTICE PUBLICATION OF MINORS AMENDMENT | 1 | As enacted |
+| `session-law-2022-025/` | FUNERAL SERVICE PRACTITIONER AMENDMENTS | 1 | As enacted |
+| `session-law-2022-027/` | VETERANS FACILITIES-SURROUNDED BY GRAZING | 1 | As enacted |
+| `session-law-2022-028/` | WATER PERMITS-LIVESTOCK ON FEDERAL LAND | 1 | As enacted |
+| `session-law-2022-029/` | LOCAL IMPACT ASSISTANCE PAYMENTS | 1 | As enacted |
+| `session-law-2022-030/` | POLITICAL SUBDIVISION CLUB LIQUOR LICENSES | 1 | As enacted |
+| `session-law-2022-032/` | OFF-ROAD RECREATIONAL VEHICLE REGISTRATION AMENDMENTS | 1 | As enacted |
+| `session-law-2022-033/` | SINGLE OFFICE REAL ESTATE BROKERS-LICENSING REQUIREMENTS | 1 | As enacted |
+| `session-law-2022-034/` | AQUATIC INVASIVE SPECIES-INSPECTION ENFORCEMENT | 1 | As enacted |
+| `session-law-2022-035/` | INHERITANCE TAX FEES-REPEAL | 1 | As enacted |
+| `session-law-2022-036/` | DECENTRALIZED AUTONOMOUS ORGANIZATIONS- AMENDMENTS | 1 | As enacted |
+| `session-law-2022-037/` | CAMPAIGN REPORTS-AMENDMENTS | 1 | As enacted |
+| `session-law-2022-038/` | DEFERRED ANNUITIES-MINIMUM NONFORFEITURE | 1 | As enacted |
+| `session-law-2022-039/` | TIMELINE TO PREPARE AND PROCESS ABSENTEE BALLOTS | 1 | As enacted |
+| `session-law-2022-040/` | FISCAL TRAINING AND ENFORCEMENT OF FINANCIAL REPORTING LAWS | 1 | As enacted |
+| `session-law-2022-041/` | MILITARY DISCHARGE AND BENEFITS | 1 | As enacted |
+| `session-law-2022-042/` | MILITARY ASSISTANCE TRUST FUND-AUTHORIZED USES | 1 | As enacted |
+| `session-law-2022-044/` | OPERATION OF MOTORCYCLES-DISABLED PERSONS | 1 | As enacted |
+| `session-law-2022-045/` | COMMERCIAL VEHICLE DRIVING DISQUALIFICATION | 1 | As enacted |
+| `session-law-2022-047/` | BOARD OF PSYCHOLOGY-BEHAVIOR ANALYST REGULATION | 1 | As enacted |
+| `session-law-2022-048/` | WYOMING GAMING COMMISSION-SCRIVENER ERROR CORRECTION | 1 | As enacted |
+| `session-law-2022-052/` | WYOMING’S TOMORROW SCHOLARSHIP PROGRAM | 1 | As enacted |
+| `session-law-2022-053/` | MONTHLY AD VALOREM TAX REVISIONS | 1 | As enacted |
+| `session-law-2022-054/` | OCCUPATIONAL THERAPY LICENSURE COMPACT | 1 | As enacted |
+| `session-law-2022-055/` | REPEAL OF SPECIFIED STATE BOARDS AND COMMISSIONS | 1 | As enacted |
+| `session-law-2022-057/` | DISPLAY OF STATE FLAG | 1 | As enacted |
+| `session-law-2022-058/` | COMMUNITY COLLEGE DISTRICT ELECTIONS | 1 | As enacted |
+| `session-law-2022-059/` | COUNTY OPTIONAL PROPERTY TAX REFUND PROGRAM | 1 | As enacted |
+| `session-law-2022-061/` | COUNTY ROAD MAINTENANCE FUND AMENDMENTS | 1 | As enacted |
+| `session-law-2022-062/` | 2022 LARGE PROJECT FUNDING | 1 | As enacted |
+| `session-law-2022-063/` | PREDATOR CONTROL | 1 | As enacted |
+| `session-law-2022-064/` | DISTRICT JUDGE POSITIONS-AUTHORIZATION AND FUNDING | 1 | As enacted |
+| `session-law-2022-065/` | NAME CHANGE-DURATION OF RESIDENCY REQUIREMENT | 1 | As enacted |
+| `session-law-2022-066/` | CODIFYING THE INSTITUTIONAL LAND FUND | 1 | As enacted |
+| `session-law-2022-067/` | LOCAL GOVERNMENT LIABILITY POOL AMENDMENTS | 1 | As enacted |
+| `session-law-2022-068/` | RADIOACTIVE MATERIALS TRANSPORT FEE | 1 | As enacted |
+| `session-law-2022-069/` | EPINEPHRINE AND NALOXONE ADMINISTRATION AUTHORITY | 1 | As enacted |
+| `session-law-2022-070/` | ELECTRIC VEHICLE CHARGING STATIONS-REGULATION EXEMPTION | 1 | As enacted |
+| `session-law-2022-072/` | DRIVER’S LICENSE RENEWAL OR EXTENSION-EXCEPTION | 1 | As enacted |
+| `session-law-2022-073/` | CRIMINAL RECORD DISSEMINATION-MILITARY DEPARTMENT | 1 | As enacted |
+| `session-law-2022-074/` | SUPPLEMENTAL WATER DEVELOPMENT FUNDING | 1 | As enacted |
+| `session-law-2022-075/` | SAGE GROUSE GAME BIRD FARMS-NO CERTIFICATION EXPIRATION-2 | 1 | As enacted |
+| `session-law-2022-076/` | EXAMINATION OF BOOKS OF CERTAIN DISTRICTS AND ENTITIES | 1 | As enacted |
+| `session-law-2022-077/` | LIQUOR LICENSES-AIRPORT EXEMPTION | 1 | As enacted |
+| `session-law-2022-078/` | HUNTING LICENSE APPLICATION FUNDS | 1 | As enacted |
+| `session-law-2022-079/` | MONTHLY AD VALOREM TAX REVISIONS-ENFORCEMENT | 1 | As enacted |
+| `session-law-2022-080/` | DRIVING WHILE LICENSE SUSPENDED-ENHANCEMENT AMENDMENT | 1 | As enacted |
+| `session-law-2022-081/` | ELECTION REPORTING REQUIREMENTS | 1 | As enacted |
+| `session-law-2022-082/` | TRIBAL REFERENCE AMENDMENTS | 1 | As enacted |
+| `session-law-2022-083/` | MOBILE HOME AND VEHICLE TITLES AND TRANSFERS | 1 | As enacted |
+| `session-law-2022-085/` | WATER STATE REVOLVING FUNDS AMENDMENTS | 1 | As enacted |
+| `session-law-2022-087/` | VEHICLE SERVICE CONTRACTS | 1 | As enacted |
+| `session-law-2022-088/` | ABORTION PROHIBITION-SUPREME COURT DECISION | 1 | As enacted |
+| `session-law-2022-089/` | STATE LAND LEASES | 1 | As enacted |
+| `session-law-2022-091/` | LOCAL GOVERNMENT DISTRIBUTIONS | 1 | As enacted |
+| `session-law-2022-092/` | DISSOLUTION OF COUNTY BOARDS-AUTHORITY | 1 | As enacted |
+| `session-law-2022-093/` | OMNIBUS WATER BILL-CONSTRUCTION | 1 | As enacted |
+| `session-law-2022-094/` | EXPANDING NEXT GENERATION 911 | 1 | As enacted |
+| `session-law-2022-097/` | WILD HORSE AND BURRO MANAGEMENT | 1 | As enacted |
+| `session-law-2022-098/` | STALKING AMENDMENTS | 1 | As enacted |
+| `session-law-2022-099/` | SECOND AMENDMENT PROTECTION ACT | 1 | As enacted |
+| `session-law-2022-100/` | LANGUAGE PROFICIENCY-SEAL OF BILITERACY | 1 | As enacted |
+| `session-law-2022-102/` | SEVERANCE TAX REDUCTION-COAL | 1 | As enacted |
+| `session-law-2022-103/` | NUCLEAR POWER GENERATION AND STORAGE-AMENDMENTS | 1 | As enacted |
+| `session-law-2022-104/` | UNDERGROUND WATER CONTESTED CASE HEARINGS | 1 | As enacted |
+| `session-law-2022-106/` | WILDFIRES ONE-CALL AMENDMENT | 1 | As enacted |
+| `session-law-2022-107/` | DISPOSITION OF WATER RIGHTS | 1 | As enacted |
+| `session-law-2022-108/` | REPEALING EXEMPTION FOR ONE-WAY PAGERS | 1 | As enacted |
+| `session-law-2022-109/` | COUNTY AND DISTRICT ATTORNEYS-SALARY AMENDMENTS | 1 | As enacted |
+| `session-law-2022-110/` | COUNTY OFFICERS-SALARIES | 1 | As enacted |
+| `session-law-2022-112/` | REDISTRICTING OF THE LEGISLATURE | 1 | As enacted |
 
 ## Sources
 
@@ -517,7 +741,7 @@ Session-law dates come from each included act’s own effective-date clause. Its
 
 ## Limits
 
-Session volumes before 2023, resolutions, administrative rules and historical consolidated title texts are not included. Some numbered chapters from 2023 through 2026 are not included because their commencement is split or conditional, their approval date is not unambiguous, or their table/text order needs further validation.
+The 2021 volume includes the 2020 special session; the 2022 volume includes the 2021 special session. Each special session is recorded separately from the regular session. Session volumes before 2021, resolutions, administrative rules and historical consolidated title texts are not included. Some numbered chapters in the 2021–2026 volumes are not included because their commencement is split or conditional, their approval date is not unambiguous, or their table/text order needs further validation.
 
 The session volumes’ frontmatter contains a decorative state emblem, outside the numbered acts. The included acts contain no normative raster images. Textual tables are included only where their order passes independent source comparison.
 
