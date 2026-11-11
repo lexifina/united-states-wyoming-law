@@ -2,7 +2,7 @@
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law). This repository records Wyoming legislative text issued by the Legislative Service Office.
 
-The record contains the Constitution, all 44 statute-title PDFs linked by the publisher, and 197 numbered session-law chapters from 2025 and 2026.
+The record contains the Constitution, all 44 statute-title PDFs linked by the publisher, and 449 numbered session-law chapters from 2023 through 2026.
 
 The statute-title records contain the publisher’s current-text edition. Numbered session-law records contain the text as enacted, including the publisher’s original deletions and insertions, represented by strikeout and underlining. These records do not reconstruct earlier consolidated versions of the statute titles.
 
@@ -250,6 +250,258 @@ The statute-title records contain the publisher’s current-text edition. Number
 | `session-law-2026-104/` | ELECTIONS-VOTING MACHINE AND VOTING SYSTEM TESTS | 1 | As enacted |
 | `session-law-2026-105/` | WASTE AND STORM WATER INFRASTRUCTURE STUDY | 1 | As enacted |
 | `session-law-2026-107/` | WYOMING ENERGY DOMINANCE FUND | 1 | As enacted |
+| `session-law-2023-002/` | COMMUNITY COLLEGE FUNDING-DISTANCE EDUCATION CREDIT HOURS | 1 | As enacted |
+| `session-law-2023-003/` | COMMUNITY COLLEGE CAPITAL CONSTRUCTION | 1 | As enacted |
+| `session-law-2023-004/` | PEACE OFFICER RETIREMENT AND REHIRING | 1 | As enacted |
+| `session-law-2023-005/` | BENEFITS FOR SPOUSES OF LAW ENFORCEMENT MEMBERS | 1 | As enacted |
+| `session-law-2023-006/` | COAL-FIRED FACILITY CLOSURES LITIGATION FUNDING- AMENDMENTS | 1 | As enacted |
+| `session-law-2023-007/` | THEFT-PENALTY FOR FIFTH OR SUBSEQUENT OFFENSE | 1 | As enacted |
+| `session-law-2023-009/` | CHANCERY COURT JURISDICTION AMENDMENTS | 1 | As enacted |
+| `session-law-2023-010/` | ENDANGERING CHILDREN-FENTANYL | 1 | As enacted |
+| `session-law-2023-011/` | VERIFYING THE VETERAN DESIGNATION ON A WY DRIVER’S LICENSE | 1 | As enacted |
+| `session-law-2023-013/` | COUNTY OFFICERS-BOND AMOUNTS AND SURETY REQUIREMENT | 1 | As enacted |
+| `session-law-2023-015/` | SCHOOL FACILITIES-APPROPRIATIONS | 1 | As enacted |
+| `session-law-2023-016/` | DEFINITION OF HOME-BASED EDUCATIONAL PROGRAM | 1 | As enacted |
+| `session-law-2023-017/` | WYOMING TELECOMMUNICATIONS ACT-SUNSET DATE | 1 | As enacted |
+| `session-law-2023-018/` | NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM AMENDMENTS | 1 | As enacted |
+| `session-law-2023-019/` | PUBLIC WORKS APPRENTICESHIP PROGRAMS-REPEAL | 1 | As enacted |
+| `session-law-2023-021/` | PSYCHOLOGY INTERJURISDICTIONAL COMPACT | 1 | As enacted |
+| `session-law-2023-022/` | NONRESIDENT WORKERS-VEHICLE REGISTRATION EXTENSION | 1 | As enacted |
+| `session-law-2023-023/` | FUND BALANCE CALCULATIONS-FEDERAL ENCUMBRANCES EXCLUDED | 1 | As enacted |
+| `session-law-2023-024/` | STATE HELD DRAINAGE DISTRICT BONDS | 1 | As enacted |
+| `session-law-2023-026/` | DEFINING AIRCRAFT FOR PURPOSES OF HUNTING PROHIBITIONS | 1 | As enacted |
+| `session-law-2023-027/` | INVESTMENT FUNDS COMMITTEE-SELECTION PANEL AMENDMENTS | 1 | As enacted |
+| `session-law-2023-028/` | MILITARY LEAVE FOR STATE EMPLOYEES | 1 | As enacted |
+| `session-law-2023-029/` | OFF-ROAD RECREATIONAL VEHICLES-SAFETY AND INSURANCE | 1 | As enacted |
+| `session-law-2023-030/` | WYOMING NATIONAL GUARD PROFESSIONAL MALPRACTICE LIABILITY | 1 | As enacted |
+| `session-law-2023-031/` | MEDICAL MALPRACTICE STATUTORY UPDATE | 1 | As enacted |
+| `session-law-2023-032/` | INSURANCE REBATING MODERNIZATION | 1 | As enacted |
+| `session-law-2023-033/` | TAX ADMINISTRATION REVISIONS | 1 | As enacted |
+| `session-law-2023-034/` | STATE PARKS ACCOUNT-AGENCY EXPENDITURE AUTHORITY | 1 | As enacted |
+| `session-law-2023-035/` | DRIVER’S LICENSE AND ID CARD PHOTO QUALITY | 1 | As enacted |
+| `session-law-2023-038/` | DEFENDANT MENTAL ILLNESS EXAMINATIONS-AMENDMENTS | 1 | As enacted |
+| `session-law-2023-039/` | DRIVERS LICENSE VETERANS DESIGNATION REPLACING DD FORM 214 | 1 | As enacted |
+| `session-law-2023-040/` | UNLAWFUL TRESPASS SIGNAGE-TAKING OF WILDLIFE | 1 | As enacted |
+| `session-law-2023-041/` | STATE INDIAN CHILD WELFARE ACT TASK FORCE | 1 | As enacted |
+| `session-law-2023-043/` | SKILL BASED AMUSEMENT GAMES-AUTHORIZED LOCATIONS | 1 | As enacted |
+| `session-law-2023-044/` | SOLID WASTE DISPOSAL DISTRICTS-CONSOLIDATION | 1 | As enacted |
+| `session-law-2023-045/` | MISSING PERSON ALERT SYSTEMS | 1 | As enacted |
+| `session-law-2023-046/` | SOURCE MATERIAL ASSOCIATED WITH MINING-AGREEMENT | 1 | As enacted |
+| `session-law-2023-047/` | EXCUSED ABSENCE-STATE FAIR EVENTS | 1 | As enacted |
+| `session-law-2023-049/` | NOTICE OF ANNEXATION | 1 | As enacted |
+| `session-law-2023-050/` | VEHICLE IDLING-DECRIMINALIZATION | 1 | As enacted |
+| `session-law-2023-051/` | ESSENTIAL SUBSIDY PAYMENTS TO BEHAVIORAL HEALTH CENTERS | 1 | As enacted |
+| `session-law-2023-052/` | ADJACENT LAND RESOURCE DATA TRESPASS-REPEAL | 1 | As enacted |
+| `session-law-2023-053/` | CANCER EARLY DETECTION AMENDMENTS | 1 | As enacted |
+| `session-law-2023-054/` | DISTRICT AND PROSECUTING ATTORNEYS-BAR LICENSE REQUIREMENT | 1 | As enacted |
+| `session-law-2023-055/` | ELECTRONIC RECORDS RETENTION | 1 | As enacted |
+| `session-law-2023-056/` | UNLAWFUL USE OF A CHARGE CARD OR DEBIT CARD | 1 | As enacted |
+| `session-law-2023-057/` | FINANCIAL INSTITUTIONS-SIMILAR NAMES | 1 | As enacted |
+| `session-law-2023-058/` | CHANCERY COURT VACANCIES-EXTENSION AMENDMENT | 1 | As enacted |
+| `session-law-2023-059/` | DEFINITION OF OPIATE ANTAGONIST-AMENDMENT | 1 | As enacted |
+| `session-law-2023-060/` | FEDERAL POLITICAL ACTION COMMITTEES-REPORTS | 1 | As enacted |
+| `session-law-2023-061/` | LAND EXCHANGES-NOTICE | 1 | As enacted |
+| `session-law-2023-062/` | ONLINE SPORTS WAGERING-AMENDMENTS | 1 | As enacted |
+| `session-law-2023-063/` | OFFICE OF GUARDIAN AD LITEM-PROGRAM REFERENCES | 1 | As enacted |
+| `session-law-2023-064/` | VOTER I.D. REQUIREMENTS | 1 | As enacted |
+| `session-law-2023-065/` | COUNTY AUTHORITY TO DISSOLVE MUSEUM BOARDS- CLARIFICATION | 1 | As enacted |
+| `session-law-2023-066/` | DISCLOSURE OF PRIVATE CRYPTOGRAPHIC KEYS | 1 | As enacted |
+| `session-law-2023-067/` | VOTER REGISTRY LIST-VOTER ID AND ABSENTEE BALLOTS | 1 | As enacted |
+| `session-law-2023-068/` | LIGHTWEIGHT TRAILERS-PERMANENT REGISTRATION | 1 | As enacted |
+| `session-law-2023-069/` | PRESCRIPTIVE EASEMENT FOR WATER CONVEYANCES | 1 | As enacted |
+| `session-law-2023-070/` | 988 SUICIDE PREVENTION | 1 | As enacted |
+| `session-law-2023-071/` | LICENSED PROFESSIONAL COUNSELOR COMPACT | 1 | As enacted |
+| `session-law-2023-072/` | EMS DISTRICTS | 1 | As enacted |
+| `session-law-2023-073/` | UNDERAGE MARRIAGE-AMENDMENTS | 1 | As enacted |
+| `session-law-2023-074/` | HEALTH CARE FACILITIES AND CLERGY | 1 | As enacted |
+| `session-law-2023-075/` | PURPLE STAR SCHOOLS | 1 | As enacted |
+| `session-law-2023-076/` | ALCOHOL SALES TO LICENSEES | 1 | As enacted |
+| `session-law-2023-078/` | VOTER IDENTIFICATION REQUIREMENTS | 1 | As enacted |
+| `session-law-2023-080/` | PODIATRY MEDICAL SERVICES-MEDICAID | 1 | As enacted |
+| `session-law-2023-081/` | STATE LANDS-USE OF LAND QUALIFICATION REQUIREMENTS | 1 | As enacted |
+| `session-law-2023-082/` | BOCES AS LOCAL EDUCATION AGENCIES | 1 | As enacted |
+| `session-law-2023-083/` | SCHOOL FACILITIES-CONSOLIDATED REMEDIATION SCHEDULE | 1 | As enacted |
+| `session-law-2023-084/` | HOMESTEAD EXEMPTION-AMENDMENTS | 1 | As enacted |
+| `session-law-2023-085/` | TRANSFER ON DEATH DEED-INSURANCE COVERAGE | 1 | As enacted |
+| `session-law-2023-086/` | AIRPORT LIQUOR LICENSES-AMENDMENT | 1 | As enacted |
+| `session-law-2023-088/` | HUNTING OF PREDATORY ANIMALS-AMENDMENTS | 1 | As enacted |
+| `session-law-2023-089/` | SUTTON ARCHAEOLOGICAL SITE ADMINISTRATION | 1 | As enacted |
+| `session-law-2023-090/` | COMPENSATION OF LOCAL REGISTRARS-REPEAL | 1 | As enacted |
+| `session-law-2023-091/` | OFF-ROAD RECREATIONAL VEHICLE OPERATION | 1 | As enacted |
+| `session-law-2023-092/` | MOON LANDING DAY | 1 | As enacted |
+| `session-law-2023-093/` | LIVING ORGAN DONOR PROTECTION | 1 | As enacted |
+| `session-law-2023-095/` | HIGH OCCUPANCY VEHICLE LANES | 1 | As enacted |
+| `session-law-2023-096/` | FOOD FREEDOM ACT-AMENDMENTS | 1 | As enacted |
+| `session-law-2023-097/` | CREATION OF TENANCY BY THE ENTIRETY | 1 | As enacted |
+| `session-law-2023-100/` | LICENSE PLATE DECAL-BREAST CANCER AWARENESS | 1 | As enacted |
+| `session-law-2023-101/` | VOYEURISM WITHIN ENCLOSED SPACES | 1 | As enacted |
+| `session-law-2023-102/` | SPECIAL LICENSE PLATES-ORGAN DONATIONS | 1 | As enacted |
+| `session-law-2023-103/` | STATE EMPLOYEE-MOVING EXPENSES | 1 | As enacted |
+| `session-law-2023-104/` | NATURAL RESOURCE FUNDING-LARGE PROJECT THRESHOLD INCREASE | 1 | As enacted |
+| `session-law-2023-105/` | 2023 LARGE PROJECT FUNDING | 1 | As enacted |
+| `session-law-2023-107/` | MEDICAID COVERAGE-LICENSED PHARMACISTS | 1 | As enacted |
+| `session-law-2023-108/` | DECENTRALIZED AUTONOMOUS ORGANIZATIONS- AMENDMENTS | 1 | As enacted |
+| `session-law-2023-109/` | BACKGROUND CHECKS-GOVERNOR’S OFFICE | 1 | As enacted |
+| `session-law-2023-110/` | PREEMPTION OF LOCAL FIREARMS REGULATION | 1 | As enacted |
+| `session-law-2023-111/` | SCHOOL FINANCE-SPECIAL EDUCATION FUNDING | 1 | As enacted |
+| `session-law-2023-112/` | PROHIBITING TRAVEL ACROSS PRIVATE LAND FOR HUNTING PURPOSES | 1 | As enacted |
+| `session-law-2023-113/` | MULTIPURPOSE VEHICLES-DISABLED LICENSE PLATES | 1 | As enacted |
+| `session-law-2023-114/` | EDUCATION-CERTIFICATE OF COMPLETION | 1 | As enacted |
+| `session-law-2023-115/` | ARCHITECTS PRACTICE ACT-AMENDMENTS | 1 | As enacted |
+| `session-law-2023-116/` | TRANSFER OF STATE LANDS-EXCHANGE | 1 | As enacted |
+| `session-law-2023-117/` | WEED AND PEST MITIGATION-TRIBAL INCLUSION-2 | 1 | As enacted |
+| `session-law-2023-118/` | UNIFORM TRUST CODE-AMENDMENTS | 1 | As enacted |
+| `session-law-2023-119/` | COLLECTION AGENCY REGULATION-DEBT BUYERS | 1 | As enacted |
+| `session-law-2023-120/` | STATE LAND LEASING-IMPROVEMENTS | 1 | As enacted |
+| `session-law-2023-122/` | ELECTION EQUIPMENT-FEDERAL CERTIFICATION | 1 | As enacted |
+| `session-law-2023-123/` | ELECTRONIC PAYMENT OF SALES AND USE TAXES | 1 | As enacted |
+| `session-law-2023-125/` | SPECIAL LICENSE PLATE DECALS-WOMEN VETERANS | 1 | As enacted |
+| `session-law-2023-126/` | HOSPITAL SUPPLEMENTAL PAYMENTS-STATUTORY FIX | 1 | As enacted |
+| `session-law-2023-127/` | WYOMING NATIONAL GUARD TUITION BENEFITS | 1 | As enacted |
+| `session-law-2023-128/` | WYOMING NATIONAL GUARD MEMBER REFERRAL | 1 | As enacted |
+| `session-law-2023-129/` | WYOMING NATIONAL GUARD MEDICAL INSURANCE PREMIUMS | 1 | As enacted |
+| `session-law-2023-130/` | MILITARY DEPENDENTS-SCHOOL CHOICE | 1 | As enacted |
+| `session-law-2023-131/` | PROHIBITING DRONES OVER PENAL INSTITUTIONS | 1 | As enacted |
+| `session-law-2023-133/` | VOLUNTEER FIREFIGHTER PENSION-FUNDING | 1 | As enacted |
+| `session-law-2023-134/` | BUILDING CODE REQUIREMENTS-REFRIGERANTS | 1 | As enacted |
+| `session-law-2023-136/` | STATE PARK RANGERS-RETIREMENT | 1 | As enacted |
+| `session-law-2023-137/` | NONRESIDENT HUNTING LICENSES-APPLICATION FEES | 1 | As enacted |
+| `session-law-2023-138/` | TOWN OFFICERS-SALARY WAIVER | 1 | As enacted |
+| `session-law-2023-139/` | EDUCATION TRUST FUND TRANSFER | 1 | As enacted |
+| `session-law-2023-140/` | DESIGNATION OF SPOUSES-REVOCATION UPON DIVORCE OR ANNULMENT | 1 | As enacted |
+| `session-law-2023-141/` | PROTECTION OF LAWFUL COMMERCE IN FIREARMS | 1 | As enacted |
+| `session-law-2023-142/` | PROPERTY TAX REFUND PROGRAM | 1 | As enacted |
+| `session-law-2023-144/` | SHED ANTLERS AND HORNS CONSERVATION STAMP | 1 | As enacted |
+| `session-law-2023-145/` | COLLECTION OF ANTLER OR HORNS BY RESIDENTS AND NON- RESIDENTS | 1 | As enacted |
+| `session-law-2023-146/` | STATE SHOOTING COMPLEX TASK FORCE | 1 | As enacted |
+| `session-law-2023-147/` | ENERGY AUTHORITY PROJECT FINANCING-REFINERIES | 1 | As enacted |
+| `session-law-2023-148/` | COURT REPORTER FEES-DISTRICT COURT DISCRETION | 1 | As enacted |
+| `session-law-2023-149/` | PEER SUPPORT COUNSELING-CONFIDENTIALITY | 1 | As enacted |
+| `session-law-2023-150/` | JUVENILE COURTS-CONCURRENT JURISDICTION CLARIFICATION | 1 | As enacted |
+| `session-law-2023-153/` | WYOMING OUTDOOR RECREATION AND TOURISM TRUST FUND | 1 | As enacted |
+| `session-law-2023-154/` | FEDERAL INDIAN CHILD WELFARE ACT CODIFICATION | 1 | As enacted |
+| `session-law-2023-155/` | LOCAL GOVERNMENT DISTRIBUTIONS-REVISIONS | 1 | As enacted |
+| `session-law-2023-156/` | HATHAWAY SCHOLARSHIP ACCOUNTS-TRANSFER TIMING | 1 | As enacted |
+| `session-law-2023-157/` | STATE INVESTMENT RETURNS-ADEQUATE RESERVE FUNDING | 1 | As enacted |
+| `session-law-2023-158/` | STATE LANDS-GRAZING OF NON-OWNED LIVESTOCK | 1 | As enacted |
+| `session-law-2023-159/` | STATE LAND LEASE DEFICIENCIES-CURE PROCESS | 1 | As enacted |
+| `session-law-2023-161/` | CIVIL CASE FILING FEES-AMENDMENTS | 1 | As enacted |
+| `session-law-2023-162/` | SENIOR CITIZEN DISTRICT PROGRAMS AND SERVICES | 1 | As enacted |
+| `session-law-2023-163/` | LICENSING BOARDS AMENDMENTS | 1 | As enacted |
+| `session-law-2023-164/` | SCHOOL FINANCE-CAREER TECHNICAL EDUCATION GRANTS | 1 | As enacted |
+| `session-law-2023-165/` | LEGISLATIVE STABILIZATION RESERVE ACCOUNT-OBLIGATIONS | 1 | As enacted |
+| `session-law-2023-166/` | K-12 SCHOOL FACILITY LEASING | 1 | As enacted |
+| `session-law-2023-167/` | LEGISLATOR PER DIEM | 1 | As enacted |
+| `session-law-2023-168/` | DOMESTIC VIOLENCE PROTECTION HEARINGS-REMOTE APPEARANCE | 1 | As enacted |
+| `session-law-2023-169/` | OCCUPATIONAL THERAPIST CRIMINAL HISTORY | 1 | As enacted |
+| `session-law-2023-170/` | WITNESSING OF WILLS-REMOTE METHODS | 1 | As enacted |
+| `session-law-2023-171/` | PUBLIC IMPROVEMENT CONTRACT REQUIREMENTS- AMENDMENTS | 1 | As enacted |
+| `session-law-2023-172/` | GOVERNMENT CONTRACTS-LABOR ORGANIZATION | 1 | As enacted |
+| `session-law-2023-173/` | SUBDIVISIONS-FENCING REQUIREMENTS | 1 | As enacted |
+| `session-law-2023-175/` | SCHOOL CAPITAL CONSTRUCTION FUNDING | 1 | As enacted |
+| `session-law-2023-176/` | TAXATION OF CIGARS | 1 | As enacted |
+| `session-law-2023-177/` | ELECTION SECURITY | 1 | As enacted |
+| `session-law-2023-178/` | STATE LAND LEASES | 1 | As enacted |
+| `session-law-2023-179/` | WYOMING CHARTER SCHOOL AUTHORIZING BOARD | 1 | As enacted |
+| `session-law-2023-180/` | OMNIBUS WATER BILL-CONSTRUCTION | 1 | As enacted |
+| `session-law-2023-181/` | RESTORATION OF CIVIL RIGHTS | 1 | As enacted |
+| `session-law-2023-182/` | COLORADO RIVER ADVISORY COMMITTEE | 1 | As enacted |
+| `session-law-2023-183/` | VISITATION RIGHTS | 1 | As enacted |
+| `session-law-2023-190/` | PROHIBITING CHEMICAL ABORTIONS | 1 | As enacted |
+| `session-law-2023-191/` | STUDENT ELIGIBILITY IN INTERSCHOLASTIC SPORTS | 1 | As enacted |
+| `session-law-2024-001/` | REHIRING RETIRED FIREFIGHTERS-CONTINUED RETIREMENT BENEFITS | 1 | As enacted |
+| `session-law-2024-002/` | ACCEPTANCE OF RETROCESSION-FEDERAL MILITARY INSTALLATIONS | 1 | As enacted |
+| `session-law-2024-003/` | PLANE COORDINATES SYSTEM-AMENDMENTS | 1 | As enacted |
+| `session-law-2024-004/` | ABANDONED MINE RECLAMATION ACCOUNTS | 1 | As enacted |
+| `session-law-2024-005/` | BROADBAND DEVELOPMENT SUBACCOUNT-AMENDMENTS | 1 | As enacted |
+| `session-law-2024-006/` | WORKER’S COMPENSATION-PROVISION FOR ADVERSE DEVIATION | 1 | As enacted |
+| `session-law-2024-007/` | SCHOOL DISTRICT TRUSTEE OATH OF OFFICE | 1 | As enacted |
+| `session-law-2024-008/` | CHANCERY COURT-TIMELINE FOR RESOLUTION OF DISPUTES | 1 | As enacted |
+| `session-law-2024-009/` | DFS AND LAW ENFORCEMENT-CROSS REPORTING | 1 | As enacted |
+| `session-law-2024-010/` | EMERGENCY PROTECTIVE SERVICES-EFFECTIVE PERIOD | 1 | As enacted |
+| `session-law-2024-011/` | CHARTER SCHOOL LEASING | 1 | As enacted |
+| `session-law-2024-012/` | SUTTON STATE ARCHAEOLOGICAL SITE-LEGAL DESCRIPTION | 1 | As enacted |
+| `session-law-2024-013/` | GRACE PERIOD-STATE LAND LEASE RENEWALS | 1 | As enacted |
+| `session-law-2024-014/` | STATE LAND LEASE AMENDMENTS | 1 | As enacted |
+| `session-law-2024-015/` | INFLUENCING JURORS AND WITNESSES-JUDGES AMENDMENT | 1 | As enacted |
+| `session-law-2024-016/` | PUBLIC UTILITIES-NET POWER COST SHARING RATIO | 1 | As enacted |
+| `session-law-2024-018/` | STATE EMPLOYEE LEAVE FOR VOLUNTEER EMERGENCY SERVICES | 1 | As enacted |
+| `session-law-2024-020/` | VEHICLE REGISTRATION E-CERTIFICATE AND GRACE PERIOD | 1 | As enacted |
+| `session-law-2024-022/` | LIMITATION ON ENVIRONMENTAL RULEMAKING | 1 | As enacted |
+| `session-law-2024-024/` | MEDICAID-THIRD PARTY PAYOR CONDITIONS | 1 | As enacted |
+| `session-law-2024-025/` | FLOW-THROUGH POOLS-EXEMPTION | 1 | As enacted |
+| `session-law-2024-026/` | WYOMING DAIRY MARKETING ACT-REPEAL | 1 | As enacted |
+| `session-law-2024-027/` | ORGAN TRANSPLANT RECIPIENT PROTECTION | 1 | As enacted |
+| `session-law-2024-028/` | WYOMING READS DAY | 1 | As enacted |
+| `session-law-2024-029/` | PUBLIC HEALTH NURSING-BUDGET REQUESTS | 1 | As enacted |
+| `session-law-2024-030/` | HEALTH INSURANCE-REIMBURSEMENT OF OVERPAYMENTS | 1 | As enacted |
+| `session-law-2024-031/` | GEOLOGIC SEQUESTRATION-UNITIZATION AMENDMENTS | 1 | As enacted |
+| `session-law-2024-032/` | SOLID WASTE MUNICIPAL CEASE AND TRANSFER FUNDING | 1 | As enacted |
+| `session-law-2024-033/` | PUBLIC OFFICER TRAINING-AMENDMENTS | 1 | As enacted |
+| `session-law-2024-035/` | BEHAVIORAL HEALTH REDESIGN AMENDMENTS-2 | 1 | As enacted |
+| `session-law-2024-036/` | BEHAVIORAL HEALTH REDESIGN-VULNERABLE ADULTS | 1 | As enacted |
+| `session-law-2024-037/` | VEHICLE LIEN-AMENDMENTS | 1 | As enacted |
+| `session-law-2024-038/` | LOCAL GOVERNMENT DISTRIBUTIONS | 1 | As enacted |
+| `session-law-2024-039/` | FIRE PREVENTION AND ELECTRICAL SAFETY-AMENDMENTS | 1 | As enacted |
+| `session-law-2024-040/` | FUEL TAX-LICENSEE INFORMATION DEADLINE | 1 | As enacted |
+| `session-law-2024-041/` | PEACE OFFICERS-RECORDS AND REPORTING | 1 | As enacted |
+| `session-law-2024-042/` | OUTDOOR RECREATION AND TOURISM TRUST FUND ADMINISTRATION-2 | 1 | As enacted |
+| `session-law-2024-043/` | HOSPITAL OR HEALTHCARE DISTRICT CREATED ENTITIES- IMMUNITY | 1 | As enacted |
+| `session-law-2024-044/` | FEDERAL UNEMPLOYMENT COMPENSATION TRUST FUND- ADJUSTMENT | 1 | As enacted |
+| `session-law-2024-045/` | INVESTMENT OF STATE UNEMPLOYMENT INSURANCE TRUST FUND | 1 | As enacted |
+| `session-law-2024-046/` | JUDICIAL RETIREMENT PROGRAM-CONTRIBUTIONS | 1 | As enacted |
+| `session-law-2024-047/` | PATROL, WARDEN AND INVESTIGATOR RETIREMENT- CONTRIBUTIONS | 1 | As enacted |
+| `session-law-2024-048/` | FINANCIAL REPORTING AMENDMENTS-2 | 1 | As enacted |
+| `session-law-2024-049/` | WATER EXCHANGE AMENDMENTS | 1 | As enacted |
+| `session-law-2024-050/` | UNINCORPORATED NONPROFIT DAO’S | 1 | As enacted |
+| `session-law-2024-051/` | 2024 LARGE PROJECT FUNDING | 1 | As enacted |
+| `session-law-2024-052/` | INDIAN CHILD WELFARE ACT-DELINQUENCY AMENDMENTS | 1 | As enacted |
+| `session-law-2024-053/` | VULNERABLE ADULTS-CIVIL CAUSE OF ACTION-2 | 1 | As enacted |
+| `session-law-2024-054/` | MALT BEVERAGE FRANCHISE AGREEMENTS | 1 | As enacted |
+| `session-law-2024-055/` | MEAT PROCESSING PLANTS-HIDES AND CARCASSES | 1 | As enacted |
+| `session-law-2024-058/` | PUBLIC SERVICE COMMISSION-ELECTRICITY RELIABILITY | 1 | As enacted |
+| `session-law-2024-061/` | SAGE GROUSE IMPLEMENTATION-NOTICE TO LANDOWNERS | 1 | As enacted |
+| `session-law-2024-063/` | OPEN BANKING-AMENDMENTS | 1 | As enacted |
+| `session-law-2024-064/` | STATE LAND OIL AND GAS LEASES-OPERATOR REQUIREMENT | 1 | As enacted |
+| `session-law-2024-065/` | ANIMAL REIMBURSEMENT PROGRAM ACCOUNT AMENDMENTS-2 | 1 | As enacted |
+| `session-law-2024-066/` | SCHOOL FINANCE-REGIONAL COST ADJUSTMENT STUDY | 1 | As enacted |
+| `session-law-2024-067/` | SALES TAX ADMINISTRATION REVISIONS | 1 | As enacted |
+| `session-law-2024-068/` | STATE FORESTRY GOOD NEIGHBOR-POSITIONS | 1 | As enacted |
+| `session-law-2024-069/` | NATURAL RESOURCE PROTECTION ACT | 1 | As enacted |
+| `session-law-2024-070/` | ELECTRICITY RATES FOR COSTS THAT DO NOT BENEFIT WYOMING | 1 | As enacted |
+| `session-law-2024-071/` | CONTRACTOR LICENSES-RECIPROCAL RECOGNITION REQUIREMENTS | 1 | As enacted |
+| `session-law-2024-072/` | HOMELAND DEFENSE-INFRASTRUCTURE REPORTING AND INVESTIGATING | 1 | As enacted |
+| `session-law-2024-075/` | LOW-CARBON RELIABLE ENERGY STANDARDS-AMENDMENTS | 1 | As enacted |
+| `session-law-2024-076/` | PUBLIC UTILITIES-ENERGY RESOURCE PROCUREMENT | 1 | As enacted |
+| `session-law-2024-078/` | LIGHT AND HIGH PROFILE VEHICLE CLOSURES-2 | 1 | As enacted |
+| `session-law-2024-079/` | SIXTH JUDICIAL DISTRICT-NUMBER OF JUDGES | 1 | As enacted |
+| `session-law-2024-080/` | TRUSTS AND BANK ASSETS IN BANKRUPTCY-CLARIFICATION | 1 | As enacted |
+| `session-law-2024-081/` | SPECIAL DISTRICT VACANCIES | 1 | As enacted |
+| `session-law-2024-082/` | REVISOR’S BILL | 1 | As enacted |
+| `session-law-2024-083/` | STATE-MANAGED LOCAL GOVERNMENT EQUITY INVESTMENT POOL | 1 | As enacted |
+| `session-law-2024-084/` | CHILD CARE IS A RESIDENTIAL USE OF PROPERTY | 1 | As enacted |
+| `session-law-2024-085/` | FORENSIC GENETIC GENEALOGY PILOT PROGRAM | 1 | As enacted |
+| `session-law-2024-086/` | COLD CASE DATABASE AND INVESTIGATIONS | 1 | As enacted |
+| `session-law-2024-087/` | STATE FUNDS-POOL A PARTICIPATION AND FUND LIMITS | 1 | As enacted |
+| `session-law-2024-088/` | PUBLIC RECORDS-DOC INVESTIGATIONS | 1 | As enacted |
+| `session-law-2024-089/` | SPECIAL DISTRICTS-REVERSAL OF DISSOLUTION FOR NONCOMPLIANCE | 1 | As enacted |
+| `session-law-2024-090/` | UNIFORM CHILD ABDUCTION PREVENTION ACT | 1 | As enacted |
+| `session-law-2024-091/` | MINOR NAME CHANGES | 1 | As enacted |
+| `session-law-2024-092/` | WYOMING STABLE TOKEN ACT-AMENDMENTS | 1 | As enacted |
+| `session-law-2024-093/` | SPECIAL DISTRICTS BOND ELECTIONS EXCEPTION | 1 | As enacted |
+| `session-law-2024-095/` | DEVELOPMENTAL PRESCHOOL FUNDING | 1 | As enacted |
+| `session-law-2024-096/` | LAW ENFORCEMENT RETIREMENT-CONTRIBUTIONS | 1 | As enacted |
+| `session-law-2024-097/` | PUBLIC SERVICE COMMISSION-INTEGRATED RESOURCE PLANS | 1 | As enacted |
+| `session-law-2024-102/` | SEX OFFENDER REGISTRATION-REGISTERABLE OFFENSES | 1 | As enacted |
+| `session-law-2024-103/` | HOSPICE CARE REIMBURSEMENTS | 1 | As enacted |
+| `session-law-2024-104/` | PARI-MUTUEL WAGERING ACTIVITIES-AMENDMENTS | 1 | As enacted |
+| `session-law-2024-106/` | PROPERTY TAX EXEMPTION FOR LONG-TERM HOMEOWNERS | 1 | As enacted |
+| `session-law-2024-107/` | PROPERTY TAX EXEMPTION-RESIDENTIAL STRUCTURES AND LAND | 1 | As enacted |
+| `session-law-2024-109/` | PROPERTY TAX REFUND PROGRAM | 1 | As enacted |
+| `session-law-2024-112/` | NEWBORN CHILD SAFE HAVENS-AGE OF CHILD | 1 | As enacted |
+| `session-law-2024-114/` | CONCEALED FIREARMS-PERMIT ELIGIBILITY | 1 | As enacted |
+| `session-law-2024-115/` | WYOMING SECOND AMENDMENT FINANCIAL PRIVACY ACT | 1 | As enacted |
+| `session-law-2024-117/` | SCHOOL SAFETY AND SECURITY-FUNDING | 1 | As enacted |
 
 ## Sources
 
@@ -265,7 +517,7 @@ Session-law dates come from each included act’s own effective-date clause. Its
 
 ## Limits
 
-Older session volumes, resolutions, administrative rules and historical consolidated title texts are not included in this addition. Some numbered chapters from 2025 and 2026 are not included because their commencement is split or conditional, their approval date is not unambiguous, or their table/text order needs further validation.
+Session volumes before 2023, resolutions, administrative rules and historical consolidated title texts are not included. Some numbered chapters from 2023 through 2026 are not included because their commencement is split or conditional, their approval date is not unambiguous, or their table/text order needs further validation.
 
 The session volumes’ frontmatter contains a decorative state emblem, outside the numbered acts. The included acts contain no normative raster images. Textual tables are included only where their order passes independent source comparison.
 

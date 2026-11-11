@@ -1,4 +1,256 @@
 key,label,kind,title,enacted,published,in_force_days,commits,url
+wy-2023-ch-002,"2023 Wyoming Session Laws, Chapter 2",law,COMMUNITY COLLEGE FUNDING-DISTANCE EDUCATION CREDIT HOURS,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-003,"2023 Wyoming Session Laws, Chapter 3",law,COMMUNITY COLLEGE CAPITAL CONSTRUCTION,2023-02-15,,2023-02-15,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-004,"2023 Wyoming Session Laws, Chapter 4",law,PEACE OFFICER RETIREMENT AND REHIRING,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-005,"2023 Wyoming Session Laws, Chapter 5",law,BENEFITS FOR SPOUSES OF LAW ENFORCEMENT MEMBERS,2023-02-15,,2023-02-15,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-006,"2023 Wyoming Session Laws, Chapter 6",law,COAL-FIRED FACILITY CLOSURES LITIGATION FUNDING- AMENDMENTS,2023-02-15,,2023-02-15,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-007,"2023 Wyoming Session Laws, Chapter 7",law,THEFT-PENALTY FOR FIFTH OR SUBSEQUENT OFFENSE,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-009,"2023 Wyoming Session Laws, Chapter 9",law,CHANCERY COURT JURISDICTION AMENDMENTS,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-010,"2023 Wyoming Session Laws, Chapter 10",law,ENDANGERING CHILDREN-FENTANYL,2023-02-15,,2023-02-15,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-011,"2023 Wyoming Session Laws, Chapter 11",law,VERIFYING THE VETERAN DESIGNATION ON A WY DRIVER’S LICENSE,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-013,"2023 Wyoming Session Laws, Chapter 13",law,COUNTY OFFICERS-BOND AMOUNTS AND SURETY REQUIREMENT,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-015,"2023 Wyoming Session Laws, Chapter 15",law,SCHOOL FACILITIES-APPROPRIATIONS,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-016,"2023 Wyoming Session Laws, Chapter 16",law,DEFINITION OF HOME-BASED EDUCATIONAL PROGRAM,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-017,"2023 Wyoming Session Laws, Chapter 17",law,WYOMING TELECOMMUNICATIONS ACT-SUNSET DATE,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-018,"2023 Wyoming Session Laws, Chapter 18",law,NORTH AMERICAN INDUSTRY CLASSIFICATION SYSTEM AMENDMENTS,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-019,"2023 Wyoming Session Laws, Chapter 19",law,PUBLIC WORKS APPRENTICESHIP PROGRAMS-REPEAL,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-021,"2023 Wyoming Session Laws, Chapter 21",law,PSYCHOLOGY INTERJURISDICTIONAL COMPACT,2023-02-15,,2023-02-15,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-022,"2023 Wyoming Session Laws, Chapter 22",law,NONRESIDENT WORKERS-VEHICLE REGISTRATION EXTENSION,2023-02-15,,2023-02-15,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-023,"2023 Wyoming Session Laws, Chapter 23",law,FUND BALANCE CALCULATIONS-FEDERAL ENCUMBRANCES EXCLUDED,2023-02-15,,2023-02-15,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-024,"2023 Wyoming Session Laws, Chapter 24",law,STATE HELD DRAINAGE DISTRICT BONDS,2023-02-15,,2023-02-15,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-026,"2023 Wyoming Session Laws, Chapter 26",law,DEFINING AIRCRAFT FOR PURPOSES OF HUNTING PROHIBITIONS,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-027,"2023 Wyoming Session Laws, Chapter 27",law,INVESTMENT FUNDS COMMITTEE-SELECTION PANEL AMENDMENTS,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-028,"2023 Wyoming Session Laws, Chapter 28",law,MILITARY LEAVE FOR STATE EMPLOYEES,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-029,"2023 Wyoming Session Laws, Chapter 29",law,OFF-ROAD RECREATIONAL VEHICLES-SAFETY AND INSURANCE,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-030,"2023 Wyoming Session Laws, Chapter 30",law,WYOMING NATIONAL GUARD PROFESSIONAL MALPRACTICE LIABILITY,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-031,"2023 Wyoming Session Laws, Chapter 31",law,MEDICAL MALPRACTICE STATUTORY UPDATE,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-032,"2023 Wyoming Session Laws, Chapter 32",law,INSURANCE REBATING MODERNIZATION,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-033,"2023 Wyoming Session Laws, Chapter 33",law,TAX ADMINISTRATION REVISIONS,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-034,"2023 Wyoming Session Laws, Chapter 34",law,STATE PARKS ACCOUNT-AGENCY EXPENDITURE AUTHORITY,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-035,"2023 Wyoming Session Laws, Chapter 35",law,DRIVER’S LICENSE AND ID CARD PHOTO QUALITY,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-191,"2023 Wyoming Session Laws, Chapter 191",law,STUDENT ELIGIBILITY IN INTERSCHOLASTIC SPORTS,2023-02-15,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-038,"2023 Wyoming Session Laws, Chapter 38",law,DEFENDANT MENTAL ILLNESS EXAMINATIONS-AMENDMENTS,2023-02-18,,2023-02-18,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-039,"2023 Wyoming Session Laws, Chapter 39",law,DRIVERS LICENSE VETERANS DESIGNATION REPLACING DD FORM 214,2023-02-18,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-040,"2023 Wyoming Session Laws, Chapter 40",law,UNLAWFUL TRESPASS SIGNAGE-TAKING OF WILDLIFE,2023-02-18,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-041,"2023 Wyoming Session Laws, Chapter 41",law,STATE INDIAN CHILD WELFARE ACT TASK FORCE,2023-02-18,,2023-02-18,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-043,"2023 Wyoming Session Laws, Chapter 43",law,SKILL BASED AMUSEMENT GAMES-AUTHORIZED LOCATIONS,2023-02-18,,2023-04-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-044,"2023 Wyoming Session Laws, Chapter 44",law,SOLID WASTE DISPOSAL DISTRICTS-CONSOLIDATION,2023-02-18,,2023-02-18,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-045,"2023 Wyoming Session Laws, Chapter 45",law,MISSING PERSON ALERT SYSTEMS,2023-02-21,,2023-02-21,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-046,"2023 Wyoming Session Laws, Chapter 46",law,SOURCE MATERIAL ASSOCIATED WITH MINING-AGREEMENT,2023-02-21,,2023-02-21,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-047,"2023 Wyoming Session Laws, Chapter 47",law,EXCUSED ABSENCE-STATE FAIR EVENTS,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-049,"2023 Wyoming Session Laws, Chapter 49",law,NOTICE OF ANNEXATION,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-050,"2023 Wyoming Session Laws, Chapter 50",law,VEHICLE IDLING-DECRIMINALIZATION,2023-02-21,,2023-02-21,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-051,"2023 Wyoming Session Laws, Chapter 51",law,ESSENTIAL SUBSIDY PAYMENTS TO BEHAVIORAL HEALTH CENTERS,2023-02-21,,2024-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-052,"2023 Wyoming Session Laws, Chapter 52",law,ADJACENT LAND RESOURCE DATA TRESPASS-REPEAL,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-053,"2023 Wyoming Session Laws, Chapter 53",law,CANCER EARLY DETECTION AMENDMENTS,2023-02-21,,2023-02-21,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-054,"2023 Wyoming Session Laws, Chapter 54",law,DISTRICT AND PROSECUTING ATTORNEYS-BAR LICENSE REQUIREMENT,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-055,"2023 Wyoming Session Laws, Chapter 55",law,ELECTRONIC RECORDS RETENTION,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-056,"2023 Wyoming Session Laws, Chapter 56",law,UNLAWFUL USE OF A CHARGE CARD OR DEBIT CARD,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-057,"2023 Wyoming Session Laws, Chapter 57",law,FINANCIAL INSTITUTIONS-SIMILAR NAMES,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-058,"2023 Wyoming Session Laws, Chapter 58",law,CHANCERY COURT VACANCIES-EXTENSION AMENDMENT,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-059,"2023 Wyoming Session Laws, Chapter 59",law,DEFINITION OF OPIATE ANTAGONIST-AMENDMENT,2023-02-21,,2023-02-21,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-060,"2023 Wyoming Session Laws, Chapter 60",law,FEDERAL POLITICAL ACTION COMMITTEES-REPORTS,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-061,"2023 Wyoming Session Laws, Chapter 61",law,LAND EXCHANGES-NOTICE,2023-02-21,,2023-02-21,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-062,"2023 Wyoming Session Laws, Chapter 62",law,ONLINE SPORTS WAGERING-AMENDMENTS,2023-02-21,,2023-02-21,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-063,"2023 Wyoming Session Laws, Chapter 63",law,OFFICE OF GUARDIAN AD LITEM-PROGRAM REFERENCES,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-064,"2023 Wyoming Session Laws, Chapter 64",law,VOTER I.D. REQUIREMENTS,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-065,"2023 Wyoming Session Laws, Chapter 65",law,COUNTY AUTHORITY TO DISSOLVE MUSEUM BOARDS- CLARIFICATION,2023-02-21,,2023-02-21,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-066,"2023 Wyoming Session Laws, Chapter 66",law,DISCLOSURE OF PRIVATE CRYPTOGRAPHIC KEYS,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-067,"2023 Wyoming Session Laws, Chapter 67",law,VOTER REGISTRY LIST-VOTER ID AND ABSENTEE BALLOTS,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-068,"2023 Wyoming Session Laws, Chapter 68",law,LIGHTWEIGHT TRAILERS-PERMANENT REGISTRATION,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-069,"2023 Wyoming Session Laws, Chapter 69",law,PRESCRIPTIVE EASEMENT FOR WATER CONVEYANCES,2023-02-21,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-070,"2023 Wyoming Session Laws, Chapter 70",law,988 SUICIDE PREVENTION,2023-02-23,,2023-02-23,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-071,"2023 Wyoming Session Laws, Chapter 71",law,LICENSED PROFESSIONAL COUNSELOR COMPACT,2023-02-23,,2023-02-23,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-072,"2023 Wyoming Session Laws, Chapter 72",law,EMS DISTRICTS,2023-02-23,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-073,"2023 Wyoming Session Laws, Chapter 73",law,UNDERAGE MARRIAGE-AMENDMENTS,2023-02-23,,2023-02-23,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-074,"2023 Wyoming Session Laws, Chapter 74",law,HEALTH CARE FACILITIES AND CLERGY,2023-02-23,,2023-02-23,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-075,"2023 Wyoming Session Laws, Chapter 75",law,PURPLE STAR SCHOOLS,2023-02-23,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-076,"2023 Wyoming Session Laws, Chapter 76",law,ALCOHOL SALES TO LICENSEES,2023-02-23,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-078,"2023 Wyoming Session Laws, Chapter 78",law,VOTER IDENTIFICATION REQUIREMENTS,2023-02-23,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-080,"2023 Wyoming Session Laws, Chapter 80",law,PODIATRY MEDICAL SERVICES-MEDICAID,2023-02-24,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-081,"2023 Wyoming Session Laws, Chapter 81",law,STATE LANDS-USE OF LAND QUALIFICATION REQUIREMENTS,2023-02-24,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-082,"2023 Wyoming Session Laws, Chapter 82",law,BOCES AS LOCAL EDUCATION AGENCIES,2023-02-24,,2023-02-24,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-083,"2023 Wyoming Session Laws, Chapter 83",law,SCHOOL FACILITIES-CONSOLIDATED REMEDIATION SCHEDULE,2023-02-24,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-084,"2023 Wyoming Session Laws, Chapter 84",law,HOMESTEAD EXEMPTION-AMENDMENTS,2023-02-24,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-085,"2023 Wyoming Session Laws, Chapter 85",law,TRANSFER ON DEATH DEED-INSURANCE COVERAGE,2023-02-24,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-086,"2023 Wyoming Session Laws, Chapter 86",law,AIRPORT LIQUOR LICENSES-AMENDMENT,2023-02-24,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-088,"2023 Wyoming Session Laws, Chapter 88",law,HUNTING OF PREDATORY ANIMALS-AMENDMENTS,2023-02-24,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-089,"2023 Wyoming Session Laws, Chapter 89",law,SUTTON ARCHAEOLOGICAL SITE ADMINISTRATION,2023-02-24,,2023-02-24,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-090,"2023 Wyoming Session Laws, Chapter 90",law,COMPENSATION OF LOCAL REGISTRARS-REPEAL,2023-02-24,,2023-02-24,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-091,"2023 Wyoming Session Laws, Chapter 91",law,OFF-ROAD RECREATIONAL VEHICLE OPERATION,2023-02-24,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-092,"2023 Wyoming Session Laws, Chapter 92",law,MOON LANDING DAY,2023-02-24,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-093,"2023 Wyoming Session Laws, Chapter 93",law,LIVING ORGAN DONOR PROTECTION,2023-02-24,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-095,"2023 Wyoming Session Laws, Chapter 95",law,HIGH OCCUPANCY VEHICLE LANES,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-096,"2023 Wyoming Session Laws, Chapter 96",law,FOOD FREEDOM ACT-AMENDMENTS,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-097,"2023 Wyoming Session Laws, Chapter 97",law,CREATION OF TENANCY BY THE ENTIRETY,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-100,"2023 Wyoming Session Laws, Chapter 100",law,LICENSE PLATE DECAL-BREAST CANCER AWARENESS,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-101,"2023 Wyoming Session Laws, Chapter 101",law,VOYEURISM WITHIN ENCLOSED SPACES,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-102,"2023 Wyoming Session Laws, Chapter 102",law,SPECIAL LICENSE PLATES-ORGAN DONATIONS,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-103,"2023 Wyoming Session Laws, Chapter 103",law,STATE EMPLOYEE-MOVING EXPENSES,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-104,"2023 Wyoming Session Laws, Chapter 104",law,NATURAL RESOURCE FUNDING-LARGE PROJECT THRESHOLD INCREASE,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-105,"2023 Wyoming Session Laws, Chapter 105",law,2023 LARGE PROJECT FUNDING,2023-02-27,,2023-02-27,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-107,"2023 Wyoming Session Laws, Chapter 107",law,MEDICAID COVERAGE-LICENSED PHARMACISTS,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-108,"2023 Wyoming Session Laws, Chapter 108",law,DECENTRALIZED AUTONOMOUS ORGANIZATIONS- AMENDMENTS,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-109,"2023 Wyoming Session Laws, Chapter 109",law,BACKGROUND CHECKS-GOVERNOR’S OFFICE,2023-02-27,,2023-02-27,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-110,"2023 Wyoming Session Laws, Chapter 110",law,PREEMPTION OF LOCAL FIREARMS REGULATION,2023-02-27,,2023-02-27,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-111,"2023 Wyoming Session Laws, Chapter 111",law,SCHOOL FINANCE-SPECIAL EDUCATION FUNDING,2023-02-27,,2023-02-27,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-112,"2023 Wyoming Session Laws, Chapter 112",law,PROHIBITING TRAVEL ACROSS PRIVATE LAND FOR HUNTING PURPOSES,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-113,"2023 Wyoming Session Laws, Chapter 113",law,MULTIPURPOSE VEHICLES-DISABLED LICENSE PLATES,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-114,"2023 Wyoming Session Laws, Chapter 114",law,EDUCATION-CERTIFICATE OF COMPLETION,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-115,"2023 Wyoming Session Laws, Chapter 115",law,ARCHITECTS PRACTICE ACT-AMENDMENTS,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-116,"2023 Wyoming Session Laws, Chapter 116",law,TRANSFER OF STATE LANDS-EXCHANGE,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-117,"2023 Wyoming Session Laws, Chapter 117",law,WEED AND PEST MITIGATION-TRIBAL INCLUSION-2,2023-02-27,,2023-02-27,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-118,"2023 Wyoming Session Laws, Chapter 118",law,UNIFORM TRUST CODE-AMENDMENTS,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-119,"2023 Wyoming Session Laws, Chapter 119",law,COLLECTION AGENCY REGULATION-DEBT BUYERS,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-120,"2023 Wyoming Session Laws, Chapter 120",law,STATE LAND LEASING-IMPROVEMENTS,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-122,"2023 Wyoming Session Laws, Chapter 122",law,ELECTION EQUIPMENT-FEDERAL CERTIFICATION,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-123,"2023 Wyoming Session Laws, Chapter 123",law,ELECTRONIC PAYMENT OF SALES AND USE TAXES,2023-02-27,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-125,"2023 Wyoming Session Laws, Chapter 125",law,SPECIAL LICENSE PLATE DECALS-WOMEN VETERANS,2023-02-28,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-126,"2023 Wyoming Session Laws, Chapter 126",law,HOSPITAL SUPPLEMENTAL PAYMENTS-STATUTORY FIX,2023-02-28,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-127,"2023 Wyoming Session Laws, Chapter 127",law,WYOMING NATIONAL GUARD TUITION BENEFITS,2023-02-28,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-128,"2023 Wyoming Session Laws, Chapter 128",law,WYOMING NATIONAL GUARD MEMBER REFERRAL,2023-02-28,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-129,"2023 Wyoming Session Laws, Chapter 129",law,WYOMING NATIONAL GUARD MEDICAL INSURANCE PREMIUMS,2023-02-28,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-130,"2023 Wyoming Session Laws, Chapter 130",law,MILITARY DEPENDENTS-SCHOOL CHOICE,2023-02-28,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-131,"2023 Wyoming Session Laws, Chapter 131",law,PROHIBITING DRONES OVER PENAL INSTITUTIONS,2023-02-28,,2023-02-28,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-133,"2023 Wyoming Session Laws, Chapter 133",law,VOLUNTEER FIREFIGHTER PENSION-FUNDING,2023-02-28,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-134,"2023 Wyoming Session Laws, Chapter 134",law,BUILDING CODE REQUIREMENTS-REFRIGERANTS,2023-02-28,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-136,"2023 Wyoming Session Laws, Chapter 136",law,STATE PARK RANGERS-RETIREMENT,2023-03-02,,2023-03-02,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-137,"2023 Wyoming Session Laws, Chapter 137",law,NONRESIDENT HUNTING LICENSES-APPLICATION FEES,2023-03-02,,2024-01-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-138,"2023 Wyoming Session Laws, Chapter 138",law,TOWN OFFICERS-SALARY WAIVER,2023-03-02,,2023-03-02,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-139,"2023 Wyoming Session Laws, Chapter 139",law,EDUCATION TRUST FUND TRANSFER,2023-03-02,,2024-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-140,"2023 Wyoming Session Laws, Chapter 140",law,DESIGNATION OF SPOUSES-REVOCATION UPON DIVORCE OR ANNULMENT,2023-03-02,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-141,"2023 Wyoming Session Laws, Chapter 141",law,PROTECTION OF LAWFUL COMMERCE IN FIREARMS,2023-03-02,,2023-03-02,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-142,"2023 Wyoming Session Laws, Chapter 142",law,PROPERTY TAX REFUND PROGRAM,2023-03-02,,2023-03-02,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-144,"2023 Wyoming Session Laws, Chapter 144",law,SHED ANTLERS AND HORNS CONSERVATION STAMP,2023-03-02,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-145,"2023 Wyoming Session Laws, Chapter 145",law,COLLECTION OF ANTLER OR HORNS BY RESIDENTS AND NON- RESIDENTS,2023-03-02,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-146,"2023 Wyoming Session Laws, Chapter 146",law,STATE SHOOTING COMPLEX TASK FORCE,2023-03-02,,2023-03-02,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-147,"2023 Wyoming Session Laws, Chapter 147",law,ENERGY AUTHORITY PROJECT FINANCING-REFINERIES,2023-03-02,,2023-03-02,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-148,"2023 Wyoming Session Laws, Chapter 148",law,COURT REPORTER FEES-DISTRICT COURT DISCRETION,2023-03-02,,2023-03-02,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-149,"2023 Wyoming Session Laws, Chapter 149",law,PEER SUPPORT COUNSELING-CONFIDENTIALITY,2023-03-02,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-150,"2023 Wyoming Session Laws, Chapter 150",law,JUVENILE COURTS-CONCURRENT JURISDICTION CLARIFICATION,2023-03-02,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-153,"2023 Wyoming Session Laws, Chapter 153",law,WYOMING OUTDOOR RECREATION AND TOURISM TRUST FUND,2023-03-09,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-154,"2023 Wyoming Session Laws, Chapter 154",law,FEDERAL INDIAN CHILD WELFARE ACT CODIFICATION,2023-03-09,,2023-03-09,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-155,"2023 Wyoming Session Laws, Chapter 155",law,LOCAL GOVERNMENT DISTRIBUTIONS-REVISIONS,2023-03-09,,2023-03-09,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-156,"2023 Wyoming Session Laws, Chapter 156",law,HATHAWAY SCHOLARSHIP ACCOUNTS-TRANSFER TIMING,2023-03-09,,2023-03-09,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-157,"2023 Wyoming Session Laws, Chapter 157",law,STATE INVESTMENT RETURNS-ADEQUATE RESERVE FUNDING,2023-03-09,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-158,"2023 Wyoming Session Laws, Chapter 158",law,STATE LANDS-GRAZING OF NON-OWNED LIVESTOCK,2023-03-09,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-159,"2023 Wyoming Session Laws, Chapter 159",law,STATE LAND LEASE DEFICIENCIES-CURE PROCESS,2023-03-09,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-161,"2023 Wyoming Session Laws, Chapter 161",law,CIVIL CASE FILING FEES-AMENDMENTS,2023-03-09,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-162,"2023 Wyoming Session Laws, Chapter 162",law,SENIOR CITIZEN DISTRICT PROGRAMS AND SERVICES,2023-03-09,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-163,"2023 Wyoming Session Laws, Chapter 163",law,LICENSING BOARDS AMENDMENTS,2023-03-09,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-164,"2023 Wyoming Session Laws, Chapter 164",law,SCHOOL FINANCE-CAREER TECHNICAL EDUCATION GRANTS,2023-03-09,,2023-03-09,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-165,"2023 Wyoming Session Laws, Chapter 165",law,LEGISLATIVE STABILIZATION RESERVE ACCOUNT-OBLIGATIONS,2023-03-09,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-166,"2023 Wyoming Session Laws, Chapter 166",law,K-12 SCHOOL FACILITY LEASING,2023-03-09,,2023-03-09,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-167,"2023 Wyoming Session Laws, Chapter 167",law,LEGISLATOR PER DIEM,2023-03-09,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-168,"2023 Wyoming Session Laws, Chapter 168",law,DOMESTIC VIOLENCE PROTECTION HEARINGS-REMOTE APPEARANCE,2023-03-09,,2023-03-09,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-169,"2023 Wyoming Session Laws, Chapter 169",law,OCCUPATIONAL THERAPIST CRIMINAL HISTORY,2023-03-09,,2023-03-09,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-170,"2023 Wyoming Session Laws, Chapter 170",law,WITNESSING OF WILLS-REMOTE METHODS,2023-03-09,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-171,"2023 Wyoming Session Laws, Chapter 171",law,PUBLIC IMPROVEMENT CONTRACT REQUIREMENTS- AMENDMENTS,2023-03-09,,2023-04-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-172,"2023 Wyoming Session Laws, Chapter 172",law,GOVERNMENT CONTRACTS-LABOR ORGANIZATION,2023-03-09,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-173,"2023 Wyoming Session Laws, Chapter 173",law,SUBDIVISIONS-FENCING REQUIREMENTS,2023-03-09,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-175,"2023 Wyoming Session Laws, Chapter 175",law,SCHOOL CAPITAL CONSTRUCTION FUNDING,2023-03-09,,2024-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-176,"2023 Wyoming Session Laws, Chapter 176",law,TAXATION OF CIGARS,2023-03-09,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-177,"2023 Wyoming Session Laws, Chapter 177",law,ELECTION SECURITY,2023-03-09,,2023-03-09,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-178,"2023 Wyoming Session Laws, Chapter 178",law,STATE LAND LEASES,2023-03-10,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-179,"2023 Wyoming Session Laws, Chapter 179",law,WYOMING CHARTER SCHOOL AUTHORIZING BOARD,2023-03-10,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-180,"2023 Wyoming Session Laws, Chapter 180",law,OMNIBUS WATER BILL-CONSTRUCTION,2023-03-10,,2023-03-10,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-181,"2023 Wyoming Session Laws, Chapter 181",law,RESTORATION OF CIVIL RIGHTS,2023-03-17,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-182,"2023 Wyoming Session Laws, Chapter 182",law,COLORADO RIVER ADVISORY COMMITTEE,2023-03-17,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-183,"2023 Wyoming Session Laws, Chapter 183",law,VISITATION RIGHTS,2023-03-17,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2023-ch-190,"2023 Wyoming Session Laws, Chapter 190",law,PROHIBITING CHEMICAL ABORTIONS,2023-03-17,,2023-07-01,1,https://wyoleg.gov/2023/SessionLaws.pdf
+wy-2024-ch-001,"2024 Wyoming Session Laws, Chapter 1",law,REHIRING RETIRED FIREFIGHTERS-CONTINUED RETIREMENT BENEFITS,2024-03-01,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-002,"2024 Wyoming Session Laws, Chapter 2",law,ACCEPTANCE OF RETROCESSION-FEDERAL MILITARY INSTALLATIONS,2024-03-01,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-003,"2024 Wyoming Session Laws, Chapter 3",law,PLANE COORDINATES SYSTEM-AMENDMENTS,2024-03-01,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-004,"2024 Wyoming Session Laws, Chapter 4",law,ABANDONED MINE RECLAMATION ACCOUNTS,2024-03-04,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-005,"2024 Wyoming Session Laws, Chapter 5",law,BROADBAND DEVELOPMENT SUBACCOUNT-AMENDMENTS,2024-03-04,,2024-03-04,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-006,"2024 Wyoming Session Laws, Chapter 6",law,WORKER’S COMPENSATION-PROVISION FOR ADVERSE DEVIATION,2024-03-04,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-007,"2024 Wyoming Session Laws, Chapter 7",law,SCHOOL DISTRICT TRUSTEE OATH OF OFFICE,2024-03-04,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-008,"2024 Wyoming Session Laws, Chapter 8",law,CHANCERY COURT-TIMELINE FOR RESOLUTION OF DISPUTES,2024-03-04,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-009,"2024 Wyoming Session Laws, Chapter 9",law,DFS AND LAW ENFORCEMENT-CROSS REPORTING,2024-03-04,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-010,"2024 Wyoming Session Laws, Chapter 10",law,EMERGENCY PROTECTIVE SERVICES-EFFECTIVE PERIOD,2024-03-04,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-011,"2024 Wyoming Session Laws, Chapter 11",law,CHARTER SCHOOL LEASING,2024-03-04,,2024-03-04,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-012,"2024 Wyoming Session Laws, Chapter 12",law,SUTTON STATE ARCHAEOLOGICAL SITE-LEGAL DESCRIPTION,2024-03-04,,2024-03-04,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-013,"2024 Wyoming Session Laws, Chapter 13",law,GRACE PERIOD-STATE LAND LEASE RENEWALS,2024-03-04,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-014,"2024 Wyoming Session Laws, Chapter 14",law,STATE LAND LEASE AMENDMENTS,2024-03-04,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-015,"2024 Wyoming Session Laws, Chapter 15",law,INFLUENCING JURORS AND WITNESSES-JUDGES AMENDMENT,2024-03-04,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-016,"2024 Wyoming Session Laws, Chapter 16",law,PUBLIC UTILITIES-NET POWER COST SHARING RATIO,2024-03-04,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-018,"2024 Wyoming Session Laws, Chapter 18",law,STATE EMPLOYEE LEAVE FOR VOLUNTEER EMERGENCY SERVICES,2024-03-04,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-020,"2024 Wyoming Session Laws, Chapter 20",law,VEHICLE REGISTRATION E-CERTIFICATE AND GRACE PERIOD,2024-03-04,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-022,"2024 Wyoming Session Laws, Chapter 22",law,LIMITATION ON ENVIRONMENTAL RULEMAKING,2024-03-05,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-024,"2024 Wyoming Session Laws, Chapter 24",law,MEDICAID-THIRD PARTY PAYOR CONDITIONS,2024-03-05,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-025,"2024 Wyoming Session Laws, Chapter 25",law,FLOW-THROUGH POOLS-EXEMPTION,2024-03-05,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-026,"2024 Wyoming Session Laws, Chapter 26",law,WYOMING DAIRY MARKETING ACT-REPEAL,2024-03-05,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-027,"2024 Wyoming Session Laws, Chapter 27",law,ORGAN TRANSPLANT RECIPIENT PROTECTION,2024-03-05,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-028,"2024 Wyoming Session Laws, Chapter 28",law,WYOMING READS DAY,2024-03-05,,2024-03-05,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-029,"2024 Wyoming Session Laws, Chapter 29",law,PUBLIC HEALTH NURSING-BUDGET REQUESTS,2024-03-05,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-030,"2024 Wyoming Session Laws, Chapter 30",law,HEALTH INSURANCE-REIMBURSEMENT OF OVERPAYMENTS,2024-03-05,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-031,"2024 Wyoming Session Laws, Chapter 31",law,GEOLOGIC SEQUESTRATION-UNITIZATION AMENDMENTS,2024-03-05,,2024-03-05,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-032,"2024 Wyoming Session Laws, Chapter 32",law,SOLID WASTE MUNICIPAL CEASE AND TRANSFER FUNDING,2024-03-05,,2024-03-05,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-033,"2024 Wyoming Session Laws, Chapter 33",law,PUBLIC OFFICER TRAINING-AMENDMENTS,2024-03-05,,2024-03-05,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-035,"2024 Wyoming Session Laws, Chapter 35",law,BEHAVIORAL HEALTH REDESIGN AMENDMENTS-2,2024-03-06,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-036,"2024 Wyoming Session Laws, Chapter 36",law,BEHAVIORAL HEALTH REDESIGN-VULNERABLE ADULTS,2024-03-06,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-037,"2024 Wyoming Session Laws, Chapter 37",law,VEHICLE LIEN-AMENDMENTS,2024-03-07,,2024-03-07,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-038,"2024 Wyoming Session Laws, Chapter 38",law,LOCAL GOVERNMENT DISTRIBUTIONS,2024-03-07,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-039,"2024 Wyoming Session Laws, Chapter 39",law,FIRE PREVENTION AND ELECTRICAL SAFETY-AMENDMENTS,2024-03-07,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-040,"2024 Wyoming Session Laws, Chapter 40",law,FUEL TAX-LICENSEE INFORMATION DEADLINE,2024-03-07,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-041,"2024 Wyoming Session Laws, Chapter 41",law,PEACE OFFICERS-RECORDS AND REPORTING,2024-03-07,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-042,"2024 Wyoming Session Laws, Chapter 42",law,OUTDOOR RECREATION AND TOURISM TRUST FUND ADMINISTRATION-2,2024-03-07,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-043,"2024 Wyoming Session Laws, Chapter 43",law,HOSPITAL OR HEALTHCARE DISTRICT CREATED ENTITIES- IMMUNITY,2024-03-07,,2024-03-07,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-044,"2024 Wyoming Session Laws, Chapter 44",law,FEDERAL UNEMPLOYMENT COMPENSATION TRUST FUND- ADJUSTMENT,2024-03-07,,2025-01-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-045,"2024 Wyoming Session Laws, Chapter 45",law,INVESTMENT OF STATE UNEMPLOYMENT INSURANCE TRUST FUND,2024-03-07,,2024-03-07,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-046,"2024 Wyoming Session Laws, Chapter 46",law,JUDICIAL RETIREMENT PROGRAM-CONTRIBUTIONS,2024-03-07,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-047,"2024 Wyoming Session Laws, Chapter 47",law,"PATROL, WARDEN AND INVESTIGATOR RETIREMENT- CONTRIBUTIONS",2024-03-07,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-048,"2024 Wyoming Session Laws, Chapter 48",law,FINANCIAL REPORTING AMENDMENTS-2,2024-03-07,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-049,"2024 Wyoming Session Laws, Chapter 49",law,WATER EXCHANGE AMENDMENTS,2024-03-07,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-050,"2024 Wyoming Session Laws, Chapter 50",law,UNINCORPORATED NONPROFIT DAO’S,2024-03-07,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-051,"2024 Wyoming Session Laws, Chapter 51",law,2024 LARGE PROJECT FUNDING,2024-03-07,,2024-03-07,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-052,"2024 Wyoming Session Laws, Chapter 52",law,INDIAN CHILD WELFARE ACT-DELINQUENCY AMENDMENTS,2024-03-07,,2024-03-07,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-053,"2024 Wyoming Session Laws, Chapter 53",law,VULNERABLE ADULTS-CIVIL CAUSE OF ACTION-2,2024-03-07,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-054,"2024 Wyoming Session Laws, Chapter 54",law,MALT BEVERAGE FRANCHISE AGREEMENTS,2024-03-07,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-055,"2024 Wyoming Session Laws, Chapter 55",law,MEAT PROCESSING PLANTS-HIDES AND CARCASSES,2024-03-07,,2024-03-07,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-058,"2024 Wyoming Session Laws, Chapter 58",law,PUBLIC SERVICE COMMISSION-ELECTRICITY RELIABILITY,2024-03-07,,2024-03-07,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-061,"2024 Wyoming Session Laws, Chapter 61",law,SAGE GROUSE IMPLEMENTATION-NOTICE TO LANDOWNERS,2024-03-08,,2024-03-08,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-063,"2024 Wyoming Session Laws, Chapter 63",law,OPEN BANKING-AMENDMENTS,2024-03-08,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-064,"2024 Wyoming Session Laws, Chapter 64",law,STATE LAND OIL AND GAS LEASES-OPERATOR REQUIREMENT,2024-03-08,,2024-03-08,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-065,"2024 Wyoming Session Laws, Chapter 65",law,ANIMAL REIMBURSEMENT PROGRAM ACCOUNT AMENDMENTS-2,2024-03-08,,2024-03-08,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-066,"2024 Wyoming Session Laws, Chapter 66",law,SCHOOL FINANCE-REGIONAL COST ADJUSTMENT STUDY,2024-03-08,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-067,"2024 Wyoming Session Laws, Chapter 67",law,SALES TAX ADMINISTRATION REVISIONS,2024-03-08,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-068,"2024 Wyoming Session Laws, Chapter 68",law,STATE FORESTRY GOOD NEIGHBOR-POSITIONS,2024-03-08,,2024-03-08,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-069,"2024 Wyoming Session Laws, Chapter 69",law,NATURAL RESOURCE PROTECTION ACT,2024-03-08,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-070,"2024 Wyoming Session Laws, Chapter 70",law,ELECTRICITY RATES FOR COSTS THAT DO NOT BENEFIT WYOMING,2024-03-08,,2024-03-08,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-071,"2024 Wyoming Session Laws, Chapter 71",law,CONTRACTOR LICENSES-RECIPROCAL RECOGNITION REQUIREMENTS,2024-03-14,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-072,"2024 Wyoming Session Laws, Chapter 72",law,HOMELAND DEFENSE-INFRASTRUCTURE REPORTING AND INVESTIGATING,2024-03-14,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-075,"2024 Wyoming Session Laws, Chapter 75",law,LOW-CARBON RELIABLE ENERGY STANDARDS-AMENDMENTS,2024-03-15,,2024-03-15,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-076,"2024 Wyoming Session Laws, Chapter 76",law,PUBLIC UTILITIES-ENERGY RESOURCE PROCUREMENT,2024-03-15,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-078,"2024 Wyoming Session Laws, Chapter 78",law,LIGHT AND HIGH PROFILE VEHICLE CLOSURES-2,2024-03-15,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-079,"2024 Wyoming Session Laws, Chapter 79",law,SIXTH JUDICIAL DISTRICT-NUMBER OF JUDGES,2024-03-15,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-080,"2024 Wyoming Session Laws, Chapter 80",law,TRUSTS AND BANK ASSETS IN BANKRUPTCY-CLARIFICATION,2024-03-15,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-081,"2024 Wyoming Session Laws, Chapter 81",law,SPECIAL DISTRICT VACANCIES,2024-03-15,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-082,"2024 Wyoming Session Laws, Chapter 82",law,REVISOR’S BILL,2024-03-15,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-083,"2024 Wyoming Session Laws, Chapter 83",law,STATE-MANAGED LOCAL GOVERNMENT EQUITY INVESTMENT POOL,2024-03-15,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-084,"2024 Wyoming Session Laws, Chapter 84",law,CHILD CARE IS A RESIDENTIAL USE OF PROPERTY,2024-03-15,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-085,"2024 Wyoming Session Laws, Chapter 85",law,FORENSIC GENETIC GENEALOGY PILOT PROGRAM,2024-03-15,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-086,"2024 Wyoming Session Laws, Chapter 86",law,COLD CASE DATABASE AND INVESTIGATIONS,2024-03-15,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-087,"2024 Wyoming Session Laws, Chapter 87",law,STATE FUNDS-POOL A PARTICIPATION AND FUND LIMITS,2024-03-15,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-088,"2024 Wyoming Session Laws, Chapter 88",law,PUBLIC RECORDS-DOC INVESTIGATIONS,2024-03-15,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-089,"2024 Wyoming Session Laws, Chapter 89",law,SPECIAL DISTRICTS-REVERSAL OF DISSOLUTION FOR NONCOMPLIANCE,2024-03-18,,2024-03-18,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-090,"2024 Wyoming Session Laws, Chapter 90",law,UNIFORM CHILD ABDUCTION PREVENTION ACT,2024-03-18,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-091,"2024 Wyoming Session Laws, Chapter 91",law,MINOR NAME CHANGES,2024-03-18,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-092,"2024 Wyoming Session Laws, Chapter 92",law,WYOMING STABLE TOKEN ACT-AMENDMENTS,2024-03-18,,2024-03-18,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-093,"2024 Wyoming Session Laws, Chapter 93",law,SPECIAL DISTRICTS BOND ELECTIONS EXCEPTION,2024-03-18,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-095,"2024 Wyoming Session Laws, Chapter 95",law,DEVELOPMENTAL PRESCHOOL FUNDING,2024-03-20,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-096,"2024 Wyoming Session Laws, Chapter 96",law,LAW ENFORCEMENT RETIREMENT-CONTRIBUTIONS,2024-03-20,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-097,"2024 Wyoming Session Laws, Chapter 97",law,PUBLIC SERVICE COMMISSION-INTEGRATED RESOURCE PLANS,2024-03-20,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-102,"2024 Wyoming Session Laws, Chapter 102",law,SEX OFFENDER REGISTRATION-REGISTERABLE OFFENSES,2024-03-21,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-103,"2024 Wyoming Session Laws, Chapter 103",law,HOSPICE CARE REIMBURSEMENTS,2024-03-21,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-104,"2024 Wyoming Session Laws, Chapter 104",law,PARI-MUTUEL WAGERING ACTIVITIES-AMENDMENTS,2024-03-21,,2024-03-21,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-106,"2024 Wyoming Session Laws, Chapter 106",law,PROPERTY TAX EXEMPTION FOR LONG-TERM HOMEOWNERS,2024-03-21,,2025-01-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-107,"2024 Wyoming Session Laws, Chapter 107",law,PROPERTY TAX EXEMPTION-RESIDENTIAL STRUCTURES AND LAND,2024-03-21,,2024-03-21,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-109,"2024 Wyoming Session Laws, Chapter 109",law,PROPERTY TAX REFUND PROGRAM,2024-03-21,,2024-03-21,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-112,"2024 Wyoming Session Laws, Chapter 112",law,NEWBORN CHILD SAFE HAVENS-AGE OF CHILD,2024-03-22,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-114,"2024 Wyoming Session Laws, Chapter 114",law,CONCEALED FIREARMS-PERMIT ELIGIBILITY,2024-03-22,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-115,"2024 Wyoming Session Laws, Chapter 115",law,WYOMING SECOND AMENDMENT FINANCIAL PRIVACY ACT,2024-03-22,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
+wy-2024-ch-117,"2024 Wyoming Session Laws, Chapter 117",law,SCHOOL SAFETY AND SECURITY-FUNDING,2024-03-22,,2024-07-01,1,https://wyoleg.gov/2024/SessionLaws.pdf
 wy-2025-ch-001,"2025 Wyoming Session Laws, Chapter 1",law,VEHICLE ACCIDENT REPORTING-AMENDMENTS,2025-02-24,,2025-07-01,1,https://wyoleg.gov/2025/SessionLaws.pdf
 wy-2025-ch-003,"2025 Wyoming Session Laws, Chapter 3",law,WYOMING LIVESTOCK BOARD-MEMORANDUMS OF UNDER- STANDING,2025-02-24,,2025-02-24,1,https://wyoleg.gov/2025/SessionLaws.pdf
 wy-2025-ch-007,"2025 Wyoming Session Laws, Chapter 7",law,FOREIGN ADVERSARY OWNERSHIP OR CONTROL OF BUSINESS ENTITIES,2025-02-24,,2025-07-01,1,https://wyoleg.gov/2025/SessionLaws.pdf
