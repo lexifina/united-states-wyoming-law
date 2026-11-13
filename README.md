@@ -7,7 +7,7 @@
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law). This repository records Wyoming legislative text issued by the Legislative Service Office.
 
-The record contains the Constitution, all 44 statute-title PDFs linked by the publisher, and 1458 numbered session-law chapters from the 2013–2026 official volumes, including their special sessions.
+The record contains the Constitution, all 44 statute-title PDFs linked by the publisher, and 1522 numbered session-law chapters from the 2011–2026 official volumes, including their special sessions.
 
 The statute-title records contain the publisher’s current-text edition. Numbered session-law records contain the text as enacted, including the publisher’s original deletions and insertions, represented by strikeout and underlining. These records do not reconstruct earlier consolidated versions of the statute titles.
 
@@ -1516,6 +1516,70 @@ The statute-title records contain the publisher’s current-text edition. Number
 | `session-law-2014-114/` | WARRANTLESS SEARCHES-REPEAL | 1 | As enacted |
 | `session-law-2014-124/` | EXPUNGEMENT OF FELONIES | 1 | As enacted |
 | `session-law-2014-128/` | REGISTRATION FEES-HOUSE TRAILERS | 1 | As enacted |
+| `session-law-2011-004/` | TAXATION OF OIL AND GAS FIELD SERVICES | 1 | As enacted |
+| `session-law-2011-005/` | LIQUOR LICENSE TRANSFERS | 1 | As enacted |
+| `session-law-2011-007/` | STATE PARKS-VOLUNTEERS | 1 | As enacted |
+| `session-law-2011-009/` | OFF-ROAD VEHICLE DEFINITION | 1 | As enacted |
+| `session-law-2011-011/` | ASSIGNMENT OF RETIRED CIRCUIT COURT JUDGES | 1 | As enacted |
+| `session-law-2011-012/` | CHINS-ADMINISTRATIVE CHANGE OF PLACEMENT | 1 | As enacted |
+| `session-law-2011-013/` | FILM INDUSTRY FINANCIAL INCENTIVES PROGRAM | 1 | As enacted |
+| `session-law-2011-015/` | ELECTIONS-MILITARY AND OVERSEAS VOTERS | 1 | As enacted |
+| `session-law-2011-016/` | EXECUTION OF JUDGMENT LIENS | 1 | As enacted |
+| `session-law-2011-019/` | ANIMAL DAMAGE MANAGEMENT BOARD-REPORTS | 1 | As enacted |
+| `session-law-2011-020/` | WYOMING MARKET RESEARCH CENTER | 1 | As enacted |
+| `session-law-2011-022/` | BAR AND GRILL LIQUOR LICENSES | 1 | As enacted |
+| `session-law-2011-023/` | WORKFORCE HOUSING INFRASTRUCTURE FUNDS-REVERSION | 1 | As enacted |
+| `session-law-2011-024/` | VOLUNTARY ENVIRONMENTAL AUDIT REPORT | 1 | As enacted |
+| `session-law-2011-026/` | CHOICE LICENSE PLATES FOR DISABLED VETERANS | 1 | As enacted |
+| `session-law-2011-029/` | INSURANCE PREMIUMS-FAILURE TO PAY | 1 | As enacted |
+| `session-law-2011-035/` | WATER DEVELOPMENT PROJECTS-FUNDING | 1 | As enacted |
+| `session-law-2011-043/` | SPECIAL LIMITED FISHING PERMITS | 1 | As enacted |
+| `session-law-2011-052/` | NATURAL GAS STORAGE | 1 | As enacted |
+| `session-law-2011-056/` | WYOMING HEALTH INSURANCE POOL-SUNSET | 1 | As enacted |
+| `session-law-2011-057/` | CIRCUIT COURT SURETY BONDS-REPEAL | 1 | As enacted |
+| `session-law-2011-058/` | SUMMARY PROBATE-AMENDMENTS | 1 | As enacted |
+| `session-law-2011-059/` | GUARDIANSHIP AND WARDS-SEALED RECORDS | 1 | As enacted |
+| `session-law-2011-062/` | REMOTE ELECTRONIC TERMINALS-FEES-2 | 1 | As enacted |
+| `session-law-2011-065/` | LIABILITY FOR EMERGENCY EQUIPMENT DONATIONS | 1 | As enacted |
+| `session-law-2011-066/` | PRESCRIPTIONS FOR MARIHUANA INVALID | 1 | As enacted |
+| `session-law-2011-075/` | MANAGEMENT AUDIT COMMITTEE SUBPOENA POWER | 1 | As enacted |
+| `session-law-2011-080/` | UNLAWFUL PROTESTING AT A FUNERAL-AMENDMENTS | 1 | As enacted |
+| `session-law-2011-089/` | WYOMING VETERANS MEMORIAL HIGHWAY | 1 | As enacted |
+| `session-law-2011-090/` | STATE PARKS-ACQUISITION OF LANDS | 1 | As enacted |
+| `session-law-2011-091/` | RECREATION SAFETY ACT-WAIVER ON BEHALF OF MINORS | 1 | As enacted |
+| `session-law-2011-094/` | NATIONAL GUARD-EMERGENCY DEPLOYMENT PROFESSIONAL LICENSING | 1 | As enacted |
+| `session-law-2011-102/` | SUBDIVISION-PERIMETER PARTITION FENCING | 1 | As enacted |
+| `session-law-2011-107/` | DENTAL SERVICES FREEDOM BILL | 1 | As enacted |
+| `session-law-2011-108/` | SERVICE OF PROCESS IN FAMILY VIOLENCE AND STALKING CASES | 1 | As enacted |
+| `session-law-2011-109/` | HYDRO-POWER DEVELOPMENT | 1 | As enacted |
+| `session-law-2011-111/` | MULTIPLE SPECIAL HANDICAPPED LICENSE PLATES | 1 | As enacted |
+| `session-law-2011-112/` | PROFESSIONAL SERVICES PROCUREMENT | 1 | As enacted |
+| `session-law-2011-119/` | WYOMING INFRASTRUCTURE AUTHORITY | 1 | As enacted |
+| `session-law-2011-120/` | WYOMING PIPELINE AUTHORITY | 1 | As enacted |
+| `session-law-2011-121/` | CHILD SUPPORT-ORDERS | 1 | As enacted |
+| `session-law-2011-126/` | UNIFORM TRUST CODE AMENDMENTS | 1 | As enacted |
+| `session-law-2011-127/` | PROPERTY TAXATION-APPEALS | 1 | As enacted |
+| `session-law-2011-131/` | CHILD CUSTODY ORDERS-ABANDONMENT | 1 | As enacted |
+| `session-law-2011-132/` | SERVICE OF PROCESS FEES | 1 | As enacted |
+| `session-law-2011-136/` | STRANGULATION OF A HOUSEHOLD MEMBER | 1 | As enacted |
+| `session-law-2011-140/` | VERY RARE OR UNCOMMON AREA DESIGNATIONS | 1 | As enacted |
+| `session-law-2011-142/` | CASTLE DOCTRINE MODIFICATIONS | 1 | As enacted |
+| `session-law-2011-145/` | WILDLIFE/LIVESTOCK DISEASE RESEARCH PARTNERSHIP-FUNDING | 1 | As enacted |
+| `session-law-2011-148/` | NUCLEAR ENERGY PRODUCTION STUDY | 1 | As enacted |
+| `session-law-2011-149/` | COUNTY MEMORIAL HOSPITAL BOARD MEMBERS-REMOVAL | 1 | As enacted |
+| `session-law-2011-151/` | VAULTS, CRYPTS AND MAUSOLEUMS-PERPETUAL TRUST FUNDS | 1 | As enacted |
+| `session-law-2011-156/` | VETERAN’S TAX EXEMPTION | 1 | As enacted |
+| `session-law-2011-157/` | MILITARY DEPARTMENT-FEDERALLY FUNDED POSITIONS | 1 | As enacted |
+| `session-law-2011-158/` | OFF-ROAD VEHICLE REGISTRATION-EXEMPTION | 1 | As enacted |
+| `session-law-2011-161/` | DEPARTMENT OF HEALTH REORGANIZATION | 1 | As enacted |
+| `session-law-2011-166/` | PROPERTY DISCLOSURE STATEMENT-WIND ESTATE | 1 | As enacted |
+| `session-law-2011-168/` | NEXT OF KIN-DRIVER’S LICENSE OPTION | 1 | As enacted |
+| `session-law-2011-169/` | WYOMING NURSE PRACTICE ACT AMENDMENT | 1 | As enacted |
+| `session-law-2011-174/` | PLATTED PLOTS-REQUIREMENT | 1 | As enacted |
+| `session-law-2011-175/` | ELECTRONIC FINE SUBMITTAL | 1 | As enacted |
+| `session-law-2011-187/` | GAME AND FISH VIOLATIONS-PENALTIES | 1 | As enacted |
+| `session-law-2011-192/` | OVERWEIGHT AND OVERSIZE VEHICLE PENALTIES | 1 | As enacted |
+| `session-law-2011-197/` | GAME & FISH-LAND ACQUISITION | 1 | As enacted |
 
 ## Sources
 
@@ -1531,7 +1595,7 @@ Session-law dates come from each included act’s own effective-date clause. Its
 
 ## Limits
 
-The 2021 volume includes the 2020 special session; the 2022 volume includes the 2021 special session. Each special session is recorded separately from the regular session. Session volumes before 2013, resolutions, administrative rules and historical consolidated title texts are not included. Some numbered chapters in the 2013–2026 volumes are not included because their commencement is split or conditional, their approval date is not unambiguous, or their table/text order needs further validation. Of these, 113 chapters in the 2017–2018 volumes, 116 chapters in the 2015–2016 volumes and 290 chapters in the 2013–2014 volumes remain held for date, approval or full-text validation.
+The 2021 volume includes the 2020 special session; the 2022 volume includes the 2021 special session. Each special session is recorded separately from the regular session. Session volumes before 2011, resolutions, administrative rules and historical consolidated title texts are not included. Some numbered chapters in the 2013–2026 volumes are not included because their commencement is split or conditional, their approval date is not unambiguous, or their table/text order needs further validation. Of these, 113 chapters in the 2017–2018 volumes, 116 chapters in the 2015–2016 volumes and 244 chapters in the 2013–2014 volumes remain held for date, approval or full-text validation.
 
 The session volumes’ frontmatter contains a decorative state emblem, outside the numbered acts. The included acts contain no normative raster images. Textual tables are included only where their order passes independent source comparison.
 
