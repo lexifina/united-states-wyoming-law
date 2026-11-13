@@ -1,0 +1,1688 @@
+{
+ "country": "US-WY",
+ "acts": [
+  {
+   "slug": "session-law-2012-001",
+   "short": "2012 WY budget ch. 1",
+   "title": "DEPARTMENT OF WORKFORCE SERVICES CONSOLIDATION",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-002",
+   "short": "2012 WY budget ch. 2",
+   "title": "MARKETABLE TITLE ACT-CONSERVATION EASEMENTS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-003",
+   "short": "2012 WY budget ch. 3",
+   "title": "GAME AND FISH-ADDITIONAL ELK LICENSES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-004",
+   "short": "2012 WY budget ch. 4",
+   "title": "PARI-MUTUEL PERMITS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-005",
+   "short": "2012 WY budget ch. 5",
+   "title": "WRONGFUL DEATH REPRESENTATIVE",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-006",
+   "short": "2012 WY budget ch. 6",
+   "title": "URANIUM RESEARCH CENTER FUNDS EXTENSION",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-05",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-007",
+   "short": "2012 WY budget ch. 7",
+   "title": "PRIVATE ROAD ACTIONS-APPRAISAL COSTS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-009",
+   "short": "2012 WY budget ch. 9",
+   "title": "ELECTION DISTRICTS-REVISIONS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-010",
+   "short": "2012 WY budget ch. 10",
+   "title": "SECRETARY OF STATE-AUTHORITY",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-011",
+   "short": "2012 WY budget ch. 11",
+   "title": "GREENHOUSE GAS AIR QUALITY REGULATION",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-012",
+   "short": "2012 WY budget ch. 12",
+   "title": "ADVANCED CONVERSION TECHNOLOGIES TASK FORCE AMENDMENTS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-013",
+   "short": "2012 WY budget ch. 13",
+   "title": "COUNTY COMMISSIONS-SPECIAL EXPERTISE",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-014",
+   "short": "2012 WY budget ch. 14",
+   "title": "OMNIBUS WATER BILL-CONSTRUCTION",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-015",
+   "short": "2012 WY budget ch. 15",
+   "title": "SEVERANCE TAX-TRONA VALUATION",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-020",
+   "short": "2012 WY budget ch. 20",
+   "title": "CLANDESTINE LABORATORY OPERATION APPEAL",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-022",
+   "short": "2012 WY budget ch. 22",
+   "title": "HIGHER EDUCATION RESERVE ACCOUNTS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-06",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-023",
+   "short": "2012 WY budget ch. 23",
+   "title": "HIGHWAY PATROL, GAME WARDEN AND INVESTIGATOR RETIREMENT",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-024",
+   "short": "2012 WY budget ch. 24",
+   "title": "ADJUSTMENT OF CHILD SUPPORT FOR AN ADULT CHILD",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-025",
+   "short": "2012 WY budget ch. 25",
+   "title": "WOLF MANAGEMENT",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-07",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-027",
+   "short": "2012 WY budget ch. 27",
+   "title": "ABANDONED MINE LAND FUNDS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-028",
+   "short": "2012 WY budget ch. 28",
+   "title": "REGISTERED AGENTS-COMMERCIAL AGENT REGISTRATION",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-029",
+   "short": "2012 WY budget ch. 29",
+   "title": "SPICE DEFINITION AMENDED",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-031",
+   "short": "2012 WY budget ch. 31",
+   "title": "CRIME VICTIM SERVICE PROVIDERS-REPORTING",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-032",
+   "short": "2012 WY budget ch. 32",
+   "title": "PERFECTION OF SECURITY INTERESTS-TITLED PERSONAL PROPERTY",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-033",
+   "short": "2012 WY budget ch. 33",
+   "title": "OPTIONAL SALES/USE TAX-USES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-034",
+   "short": "2012 WY budget ch. 34",
+   "title": "GOLD STAR LICENSE PLATES-EXPANDED ELIGIBILITY",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-035",
+   "short": "2012 WY budget ch. 35",
+   "title": "LIENS-FUEL CONSUMED IN A PROJECT",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-036",
+   "short": "2012 WY budget ch. 36",
+   "title": "LIFE AND HEALTH INSURANCE GUARANTEE ASSOCIATION-LIMITATIONS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-037",
+   "short": "2012 WY budget ch. 37",
+   "title": "INSURANCE-SURPLUS LINES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-038",
+   "short": "2012 WY budget ch. 38",
+   "title": "INSURANCE CODE-REVISIONS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-039",
+   "short": "2012 WY budget ch. 39",
+   "title": "SERVICE OF PROCESS FEES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-040",
+   "short": "2012 WY budget ch. 40",
+   "title": "NUCLEAR ENERGY TASK FORCE EXTENSION",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-041",
+   "short": "2012 WY budget ch. 41",
+   "title": "NUCLEAR AND HYBRID ENERGY SYSTEM RELATED PROJECTS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-042",
+   "short": "2012 WY budget ch. 42",
+   "title": "PURCHASE OF FEDERAL LANDS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-043",
+   "short": "2012 WY budget ch. 43",
+   "title": "DUI-PENALTIES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-044",
+   "short": "2012 WY budget ch. 44",
+   "title": "INSURANCE FRAUD PREVENTION",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-045",
+   "short": "2012 WY budget ch. 45",
+   "title": "WIND ESTATE DISCLOSURE",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-046",
+   "short": "2012 WY budget ch. 46",
+   "title": "PREDATOR MANAGEMENT DISTRICTS-MANAGEMENT",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-047",
+   "short": "2012 WY budget ch. 47",
+   "title": "UNEMPLOYMENT INSURANCE COMPLIANCE",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-048",
+   "short": "2012 WY budget ch. 48",
+   "title": "WORKERS’ COMPENSATION AMENDMENTS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-049",
+   "short": "2012 WY budget ch. 49",
+   "title": "COUNTY MEMORIAL HOSPITALS-STAGGERED TERMS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-050",
+   "short": "2012 WY budget ch. 50",
+   "title": "INDUSTRIAL SITING-FINANCIAL RESOURCES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-051",
+   "short": "2012 WY budget ch. 51",
+   "title": "JUVENILE DETENTION FACILITY PLACEMENTS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-052",
+   "short": "2012 WY budget ch. 52",
+   "title": "IGNITION INTERLOCK PROGRAM FEES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-053",
+   "short": "2012 WY budget ch. 53",
+   "title": "MIXED MARTIAL ARTS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-054",
+   "short": "2012 WY budget ch. 54",
+   "title": "GAME AND FISH-AUTHORITY REVISIONS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-055",
+   "short": "2012 WY budget ch. 55",
+   "title": "WORKPLACE SAFETY-EMPLOYER ASSISTANCE",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-08",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-056",
+   "short": "2012 WY budget ch. 56",
+   "title": "HANDICAPPED PARKING-SPACE SIZE AND MARKING",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-058",
+   "short": "2012 WY budget ch. 58",
+   "title": "DISTRICT COURT JUDGE INCREASE",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-059",
+   "short": "2012 WY budget ch. 59",
+   "title": "ATM FEES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-060",
+   "short": "2012 WY budget ch. 60",
+   "title": "INTERSTATE COMPACT ON STUDENTS OF MILITARY FAMILIES-3",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-061",
+   "short": "2012 WY budget ch. 61",
+   "title": "HEALTH INSURANCE EXCHANGE STUDY",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-09",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-062",
+   "short": "2012 WY budget ch. 62",
+   "title": "LARGE PROJECT FUNDING",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-09",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-063",
+   "short": "2012 WY budget ch. 63",
+   "title": "STATE PARKS-ACQUISITION OF LX BAR RANCH",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-09",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-064",
+   "short": "2012 WY budget ch. 64",
+   "title": "AQUATIC INVASIVE SPECIES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-065",
+   "short": "2012 WY budget ch. 65",
+   "title": "CIGARETTE MANUFACTURING",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-066",
+   "short": "2012 WY budget ch. 66",
+   "title": "DYSLEXIA SCREENING AND RESPONSE",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-067",
+   "short": "2012 WY budget ch. 67",
+   "title": "911 SERVICES-ELIGIBLE ENTITIES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-068",
+   "short": "2012 WY budget ch. 68",
+   "title": "REAL ESTATE BROKERS PRICE OPINIONS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-069",
+   "short": "2012 WY budget ch. 69",
+   "title": "PROPERTY EXEMPT FROM EXECUTION",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-070",
+   "short": "2012 WY budget ch. 70",
+   "title": "EXCEEDING SPEED LIMIT WHILE PASSING",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-071",
+   "short": "2012 WY budget ch. 71",
+   "title": "PROFESSIONAL TEACHING STANDARDS BOARD-TEACHER CERTIFICATION",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-13",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-072",
+   "short": "2012 WY budget ch. 72",
+   "title": "STATE PARKS-ACQUISITION OF LANDS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-13",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-073",
+   "short": "2012 WY budget ch. 73",
+   "title": "APPLIED AGRICULTURAL RESEARCH FUNDING PROGRAM",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-074",
+   "short": "2012 WY budget ch. 74",
+   "title": "PUBLIC RECORDS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-075",
+   "short": "2012 WY budget ch. 75",
+   "title": "PUBLIC MEETINGS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-076",
+   "short": "2012 WY budget ch. 76",
+   "title": "GUARDIAN AD LITEM PROGRAM",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-13",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-077",
+   "short": "2012 WY budget ch. 77",
+   "title": "RESORT LIQUOR LICENSES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-078",
+   "short": "2012 WY budget ch. 78",
+   "title": "BUSINESS ENTITIES-REVISIONS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-079",
+   "short": "2012 WY budget ch. 79",
+   "title": "BUDGET HEARINGS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-080",
+   "short": "2012 WY budget ch. 80",
+   "title": "CONTRACTOR RESIDENCY PROVISIONS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-081",
+   "short": "2012 WY budget ch. 81",
+   "title": "BANKS-AUTHORIZED INVESTMENTS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-082",
+   "short": "2012 WY budget ch. 82",
+   "title": "EXTENSION OF ENERGY PRODUCING STATES COALITION",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-083",
+   "short": "2012 WY budget ch. 83",
+   "title": "NOTARIAL CERTIFICATION",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-084",
+   "short": "2012 WY budget ch. 84",
+   "title": "OBSOLETE LAWS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-085",
+   "short": "2012 WY budget ch. 85",
+   "title": "BASELINE SCIENTIFIC ASSESSMENTS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-086",
+   "short": "2012 WY budget ch. 86",
+   "title": "CHARTER SCHOOLS-AVERAGE DAILY MEMBERSHIP",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-087",
+   "short": "2012 WY budget ch. 87",
+   "title": "CRITICAL ACCESS ENDOWMENT CHALLENGE PROGRAM",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-088",
+   "short": "2012 WY budget ch. 88",
+   "title": "PRIVATE TRANSFER FEE OBLIGATIONS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-089",
+   "short": "2012 WY budget ch. 89",
+   "title": "JUDICIAL SALARIES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-090",
+   "short": "2012 WY budget ch. 90",
+   "title": "REIMBURSEMENT FOR LIVESTOCK",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-091",
+   "short": "2012 WY budget ch. 91",
+   "title": "TERMS FOR YOUTH BOARD OF AGRICULTURE MEMBERS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-092",
+   "short": "2012 WY budget ch. 92",
+   "title": "TIME LIMITS FOR VETERAN AND DEPENDENT TUITION AND FEES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-093",
+   "short": "2012 WY budget ch. 93",
+   "title": "BUSINESS READY COMMUNITY PROGRAM-PLANNING",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-094",
+   "short": "2012 WY budget ch. 94",
+   "title": "EXPENDITURE OF PUBLIC FUNDS AND GOVERNMENT COMPETITION",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-095",
+   "short": "2012 WY budget ch. 95",
+   "title": "WILDLIFE TRUST CHALLENGE ACCOUNT-EXTENSION",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-096",
+   "short": "2012 WY budget ch. 96",
+   "title": "STATE EMPLOYEE COMPENSATION COMMISSION-MEMBERSHIP",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-097",
+   "short": "2012 WY budget ch. 97",
+   "title": "PIONEER HUNTING LICENSES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2013-01-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-098",
+   "short": "2012 WY budget ch. 98",
+   "title": "REVISOR’S BILL",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-15",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-100",
+   "short": "2012 WY budget ch. 100",
+   "title": "BOCES-COURT ORDERED PLACEMENT COSTS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-101",
+   "short": "2012 WY budget ch. 101",
+   "title": "EDUCATION ACCOUNTABILITY",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-102",
+   "short": "2012 WY budget ch. 102",
+   "title": "APPROPRIATION FOR THE LEGISLATURE",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-103",
+   "short": "2012 WY budget ch. 103",
+   "title": "MEDICAID OPTIONS STUDY",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-104",
+   "short": "2012 WY budget ch. 104",
+   "title": "COUNTY COMMISSIONERS-REMOVAL OF APPOINTED BOARD MEMBERS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-105",
+   "short": "2012 WY budget ch. 105",
+   "title": "ETHANOL TAX CREDIT",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2015-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-106",
+   "short": "2012 WY budget ch. 106",
+   "title": "PUBLIC WORKS CONTRACTS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-21",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-107",
+   "short": "2012 WY budget ch. 107",
+   "title": "PUBLIC EMPLOYEE RETIREMENT PLANS BENEFIT INCREASES",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-108",
+   "short": "2012 WY budget ch. 108",
+   "title": "WYOMING RETIREMENT ACT",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-07-01",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  },
+  {
+   "slug": "session-law-2012-109",
+   "short": "2012 WY budget ch. 109",
+   "title": "GENERAL PERMITS",
+   "url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+   "versions": [
+    {
+     "from": "2012-03-23",
+     "to": null,
+     "status": "in force",
+     "text_as_of": null,
+     "units": 1,
+     "source_url": "https://wyoleg.gov/2012/Session%20Laws.pdf",
+     "sha256": "48dec0664283c0f41347eeaf3b5bdbc9ffda957aaf9a19f5ed1a6c5fb911d5e9"
+    }
+   ]
+  }
+ ]
+}
