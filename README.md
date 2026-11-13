@@ -1,5 +1,10 @@
 # Wyoming: statute titles and session laws
 
+<picture>
+<source media="(prefers-color-scheme: dark)" srcset="data/effort-dark.svg">
+<img alt="Wyoming law in this repository: what it holds, changes by the year they took effect, completeness against the official sources, and the correctness of what is held" src="data/effort-light.svg" width="880">
+</picture>
+
 Part of [lexifina/global-law](https://github.com/lexifina/global-law). This repository records Wyoming legislative text issued by the Legislative Service Office.
 
 The record contains the Constitution, all 44 statute-title PDFs linked by the publisher, and 673 numbered session-law chapters from the 2021–2026 official volumes, including their special sessions.
