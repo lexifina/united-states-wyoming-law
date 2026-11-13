@@ -7,7 +7,7 @@
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law). This repository records Wyoming legislative text issued by the Legislative Service Office.
 
-The record contains the Constitution, all 44 statute-title PDFs linked by the publisher, and 1522 numbered session-law chapters from the 2011–2026 official volumes, including their special sessions.
+The record contains the Constitution, all 44 statute-title PDFs linked by the publisher, and 1622 numbered session-law chapters from the 2011–2026 official volumes, including their special sessions.
 
 The statute-title records contain the publisher’s current-text edition. Numbered session-law records contain the text as enacted, including the publisher’s original deletions and insertions, represented by strikeout and underlining. These records do not reconstruct earlier consolidated versions of the statute titles.
 
@@ -1580,6 +1580,106 @@ The statute-title records contain the publisher’s current-text edition. Number
 | `session-law-2011-187/` | GAME AND FISH VIOLATIONS-PENALTIES | 1 | As enacted |
 | `session-law-2011-192/` | OVERWEIGHT AND OVERSIZE VEHICLE PENALTIES | 1 | As enacted |
 | `session-law-2011-197/` | GAME & FISH-LAND ACQUISITION | 1 | As enacted |
+| `session-law-2012-001/` | DEPARTMENT OF WORKFORCE SERVICES CONSOLIDATION | 1 | As enacted |
+| `session-law-2012-002/` | MARKETABLE TITLE ACT-CONSERVATION EASEMENTS | 1 | As enacted |
+| `session-law-2012-003/` | GAME AND FISH-ADDITIONAL ELK LICENSES | 1 | As enacted |
+| `session-law-2012-004/` | PARI-MUTUEL PERMITS | 1 | As enacted |
+| `session-law-2012-005/` | WRONGFUL DEATH REPRESENTATIVE | 1 | As enacted |
+| `session-law-2012-006/` | URANIUM RESEARCH CENTER FUNDS EXTENSION | 1 | As enacted |
+| `session-law-2012-007/` | PRIVATE ROAD ACTIONS-APPRAISAL COSTS | 1 | As enacted |
+| `session-law-2012-008/` | REDISTRICTING OF THE LEGISLATURE | 1 | As enacted |
+| `session-law-2012-009/` | ELECTION DISTRICTS-REVISIONS | 1 | As enacted |
+| `session-law-2012-010/` | SECRETARY OF STATE-AUTHORITY | 1 | As enacted |
+| `session-law-2012-011/` | GREENHOUSE GAS AIR QUALITY REGULATION | 1 | As enacted |
+| `session-law-2012-012/` | ADVANCED CONVERSION TECHNOLOGIES TASK FORCE AMENDMENTS | 1 | As enacted |
+| `session-law-2012-013/` | COUNTY COMMISSIONS-SPECIAL EXPERTISE | 1 | As enacted |
+| `session-law-2012-014/` | OMNIBUS WATER BILL-CONSTRUCTION | 1 | As enacted |
+| `session-law-2012-015/` | SEVERANCE TAX-TRONA VALUATION | 1 | As enacted |
+| `session-law-2012-020/` | CLANDESTINE LABORATORY OPERATION APPEAL | 1 | As enacted |
+| `session-law-2012-022/` | HIGHER EDUCATION RESERVE ACCOUNTS | 1 | As enacted |
+| `session-law-2012-023/` | HIGHWAY PATROL, GAME WARDEN AND INVESTIGATOR RETIREMENT | 1 | As enacted |
+| `session-law-2012-024/` | ADJUSTMENT OF CHILD SUPPORT FOR AN ADULT CHILD | 1 | As enacted |
+| `session-law-2012-025/` | WOLF MANAGEMENT | 1 | As enacted |
+| `session-law-2012-027/` | ABANDONED MINE LAND FUNDS | 1 | As enacted |
+| `session-law-2012-028/` | REGISTERED AGENTS-COMMERCIAL AGENT REGISTRATION | 1 | As enacted |
+| `session-law-2012-029/` | SPICE DEFINITION AMENDED | 1 | As enacted |
+| `session-law-2012-031/` | CRIME VICTIM SERVICE PROVIDERS-REPORTING | 1 | As enacted |
+| `session-law-2012-032/` | PERFECTION OF SECURITY INTERESTS-TITLED PERSONAL PROPERTY | 1 | As enacted |
+| `session-law-2012-033/` | OPTIONAL SALES/USE TAX-USES | 1 | As enacted |
+| `session-law-2012-034/` | GOLD STAR LICENSE PLATES-EXPANDED ELIGIBILITY | 1 | As enacted |
+| `session-law-2012-035/` | LIENS-FUEL CONSUMED IN A PROJECT | 1 | As enacted |
+| `session-law-2012-036/` | LIFE AND HEALTH INSURANCE GUARANTEE ASSOCIATION-LIMITATIONS | 1 | As enacted |
+| `session-law-2012-037/` | INSURANCE-SURPLUS LINES | 1 | As enacted |
+| `session-law-2012-038/` | INSURANCE CODE-REVISIONS | 1 | As enacted |
+| `session-law-2012-039/` | SERVICE OF PROCESS FEES | 1 | As enacted |
+| `session-law-2012-040/` | NUCLEAR ENERGY TASK FORCE EXTENSION | 1 | As enacted |
+| `session-law-2012-041/` | NUCLEAR AND HYBRID ENERGY SYSTEM RELATED PROJECTS | 1 | As enacted |
+| `session-law-2012-042/` | PURCHASE OF FEDERAL LANDS | 1 | As enacted |
+| `session-law-2012-043/` | DUI-PENALTIES | 1 | As enacted |
+| `session-law-2012-044/` | INSURANCE FRAUD PREVENTION | 1 | As enacted |
+| `session-law-2012-045/` | WIND ESTATE DISCLOSURE | 1 | As enacted |
+| `session-law-2012-046/` | PREDATOR MANAGEMENT DISTRICTS-MANAGEMENT | 1 | As enacted |
+| `session-law-2012-047/` | UNEMPLOYMENT INSURANCE COMPLIANCE | 1 | As enacted |
+| `session-law-2012-048/` | WORKERS’ COMPENSATION AMENDMENTS | 1 | As enacted |
+| `session-law-2012-049/` | COUNTY MEMORIAL HOSPITALS-STAGGERED TERMS | 1 | As enacted |
+| `session-law-2012-050/` | INDUSTRIAL SITING-FINANCIAL RESOURCES | 1 | As enacted |
+| `session-law-2012-051/` | JUVENILE DETENTION FACILITY PLACEMENTS | 1 | As enacted |
+| `session-law-2012-052/` | IGNITION INTERLOCK PROGRAM FEES | 1 | As enacted |
+| `session-law-2012-053/` | MIXED MARTIAL ARTS | 1 | As enacted |
+| `session-law-2012-054/` | GAME AND FISH-AUTHORITY REVISIONS | 1 | As enacted |
+| `session-law-2012-055/` | WORKPLACE SAFETY-EMPLOYER ASSISTANCE | 1 | As enacted |
+| `session-law-2012-056/` | HANDICAPPED PARKING-SPACE SIZE AND MARKING | 1 | As enacted |
+| `session-law-2012-058/` | DISTRICT COURT JUDGE INCREASE | 1 | As enacted |
+| `session-law-2012-059/` | ATM FEES | 1 | As enacted |
+| `session-law-2012-060/` | INTERSTATE COMPACT ON STUDENTS OF MILITARY FAMILIES-3 | 1 | As enacted |
+| `session-law-2012-061/` | HEALTH INSURANCE EXCHANGE STUDY | 1 | As enacted |
+| `session-law-2012-062/` | LARGE PROJECT FUNDING | 1 | As enacted |
+| `session-law-2012-063/` | STATE PARKS-ACQUISITION OF LX BAR RANCH | 1 | As enacted |
+| `session-law-2012-064/` | AQUATIC INVASIVE SPECIES | 1 | As enacted |
+| `session-law-2012-065/` | CIGARETTE MANUFACTURING | 1 | As enacted |
+| `session-law-2012-066/` | DYSLEXIA SCREENING AND RESPONSE | 1 | As enacted |
+| `session-law-2012-067/` | 911 SERVICES-ELIGIBLE ENTITIES | 1 | As enacted |
+| `session-law-2012-068/` | REAL ESTATE BROKERS PRICE OPINIONS | 1 | As enacted |
+| `session-law-2012-069/` | PROPERTY EXEMPT FROM EXECUTION | 1 | As enacted |
+| `session-law-2012-070/` | EXCEEDING SPEED LIMIT WHILE PASSING | 1 | As enacted |
+| `session-law-2012-071/` | PROFESSIONAL TEACHING STANDARDS BOARD-TEACHER CERTIFICATION | 1 | As enacted |
+| `session-law-2012-072/` | STATE PARKS-ACQUISITION OF LANDS | 1 | As enacted |
+| `session-law-2012-073/` | APPLIED AGRICULTURAL RESEARCH FUNDING PROGRAM | 1 | As enacted |
+| `session-law-2012-074/` | PUBLIC RECORDS | 1 | As enacted |
+| `session-law-2012-075/` | PUBLIC MEETINGS | 1 | As enacted |
+| `session-law-2012-076/` | GUARDIAN AD LITEM PROGRAM | 1 | As enacted |
+| `session-law-2012-077/` | RESORT LIQUOR LICENSES | 1 | As enacted |
+| `session-law-2012-078/` | BUSINESS ENTITIES-REVISIONS | 1 | As enacted |
+| `session-law-2012-079/` | BUDGET HEARINGS | 1 | As enacted |
+| `session-law-2012-080/` | CONTRACTOR RESIDENCY PROVISIONS | 1 | As enacted |
+| `session-law-2012-081/` | BANKS-AUTHORIZED INVESTMENTS | 1 | As enacted |
+| `session-law-2012-082/` | EXTENSION OF ENERGY PRODUCING STATES COALITION | 1 | As enacted |
+| `session-law-2012-083/` | NOTARIAL CERTIFICATION | 1 | As enacted |
+| `session-law-2012-084/` | OBSOLETE LAWS | 1 | As enacted |
+| `session-law-2012-085/` | BASELINE SCIENTIFIC ASSESSMENTS | 1 | As enacted |
+| `session-law-2012-086/` | CHARTER SCHOOLS-AVERAGE DAILY MEMBERSHIP | 1 | As enacted |
+| `session-law-2012-087/` | CRITICAL ACCESS ENDOWMENT CHALLENGE PROGRAM | 1 | As enacted |
+| `session-law-2012-088/` | PRIVATE TRANSFER FEE OBLIGATIONS | 1 | As enacted |
+| `session-law-2012-089/` | JUDICIAL SALARIES | 1 | As enacted |
+| `session-law-2012-090/` | REIMBURSEMENT FOR LIVESTOCK | 1 | As enacted |
+| `session-law-2012-091/` | TERMS FOR YOUTH BOARD OF AGRICULTURE MEMBERS | 1 | As enacted |
+| `session-law-2012-092/` | TIME LIMITS FOR VETERAN AND DEPENDENT TUITION AND FEES | 1 | As enacted |
+| `session-law-2012-093/` | BUSINESS READY COMMUNITY PROGRAM-PLANNING | 1 | As enacted |
+| `session-law-2012-094/` | EXPENDITURE OF PUBLIC FUNDS AND GOVERNMENT COMPETITION | 1 | As enacted |
+| `session-law-2012-095/` | WILDLIFE TRUST CHALLENGE ACCOUNT-EXTENSION | 1 | As enacted |
+| `session-law-2012-096/` | STATE EMPLOYEE COMPENSATION COMMISSION-MEMBERSHIP | 1 | As enacted |
+| `session-law-2012-097/` | PIONEER HUNTING LICENSES | 1 | As enacted |
+| `session-law-2012-098/` | REVISOR’S BILL | 1 | As enacted |
+| `session-law-2012-100/` | BOCES-COURT ORDERED PLACEMENT COSTS | 1 | As enacted |
+| `session-law-2012-101/` | EDUCATION ACCOUNTABILITY | 1 | As enacted |
+| `session-law-2012-102/` | APPROPRIATION FOR THE LEGISLATURE | 1 | As enacted |
+| `session-law-2012-103/` | MEDICAID OPTIONS STUDY | 1 | As enacted |
+| `session-law-2012-104/` | COUNTY COMMISSIONERS-REMOVAL OF APPOINTED BOARD MEMBERS | 1 | As enacted |
+| `session-law-2012-105/` | ETHANOL TAX CREDIT | 1 | As enacted |
+| `session-law-2012-106/` | PUBLIC WORKS CONTRACTS | 1 | As enacted |
+| `session-law-2012-107/` | PUBLIC EMPLOYEE RETIREMENT PLANS BENEFIT INCREASES | 1 | As enacted |
+| `session-law-2012-108/` | WYOMING RETIREMENT ACT | 1 | As enacted |
+| `session-law-2012-109/` | GENERAL PERMITS | 1 | As enacted |
 
 ## Sources
 
@@ -1595,7 +1695,7 @@ Session-law dates come from each included act’s own effective-date clause. Its
 
 ## Limits
 
-The 2021 volume includes the 2020 special session; the 2022 volume includes the 2021 special session. Each special session is recorded separately from the regular session. Session volumes before 2011, resolutions, administrative rules and historical consolidated title texts are not included. Some numbered chapters in the 2011–2026 volumes are not included because their commencement is split or conditional, their approval date is not unambiguous, or their table/text order needs further validation. Of these, 113 chapters in the 2017–2018 volumes, 116 chapters in the 2015–2016 volumes, 290 chapters in the 2013–2014 volumes and 244 chapters in the 2011–2012 volumes remain held for date, approval or full-text validation.
+The 2021 volume includes the 2020 special session; the 2022 volume includes the 2021 special session. Each special session is recorded separately from the regular session. Session volumes before 2011, resolutions, administrative rules and historical consolidated title texts are not included. Some numbered chapters in the 2011–2026 volumes are not included because their commencement is split or conditional, their approval date is not unambiguous, or their table/text order needs further validation. Of these, 113 chapters in the 2017–2018 volumes, 116 chapters in the 2015–2016 volumes, 290 chapters in the 2013–2014 volumes and 144 chapters in the 2011–2012 volumes remain held for date, approval or full-text validation.
 
 The session volumes’ frontmatter contains a decorative state emblem, outside the numbered acts. The included acts contain no normative raster images. Textual tables are included only where their order passes independent source comparison.
 
