@@ -1,0 +1,7 @@
+# EMERGENCY 911 FEES-PREPAID WIRELESS
+
+2015 WY general ch. 90 · 1 versions, from 2015-03-02 (latest in force: 2015-03-02) · <https://wyoleg.gov/2015/Session%20Laws.pdf>
+
+| Provision | File | Changes | Last changed |
+| --- | --- | ---: | --- |
+| Chapter 90 | [full-text.md](full-text.md) | 0 |  |
