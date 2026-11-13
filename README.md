@@ -7,7 +7,7 @@
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law). This repository records Wyoming legislative text issued by the Legislative Service Office.
 
-The record contains the Constitution, all 44 statute-title PDFs linked by the publisher, and 980 numbered session-law chapters from the 2019–2026 official volumes, including their special sessions.
+The record contains the Constitution, all 44 statute-title PDFs linked by the publisher, and 1217 numbered session-law chapters from the 2017–2026 official volumes, including their special sessions.
 
 The statute-title records contain the publisher’s current-text edition. Numbered session-law records contain the text as enacted, including the publisher’s original deletions and insertions, represented by strikeout and underlining. These records do not reconstruct earlier consolidated versions of the statute titles.
 
@@ -1038,6 +1038,243 @@ The statute-title records contain the publisher’s current-text edition. Number
 | `session-law-2020-155/` | OIL AND GAS TAX-NEW PRODUCTION | 1 | As enacted |
 | `session-law-2020-156/` | WORKER’S COMPENSATION-LEGISLATORS | 1 | As enacted |
 | `session-law-2020-161/` | SPECIAL EVENT LIQUOR LICENSES | 1 | As enacted |
+| `session-law-2017-001/` | ADULT PROTECTIVE ORDERS-TIME LIMIT EXTENSION | 1 | As enacted |
+| `session-law-2017-002/` | SMALL CLAIMS APPEARANCE FEE | 1 | As enacted |
+| `session-law-2017-003/` | CHILD ABUSE OR NEGLECT IN MILITARY FAMILIES | 1 | As enacted |
+| `session-law-2017-007/` | NONRESIDENT MOTORBOATS-GASOLINE TAX DISTRIBUTION | 1 | As enacted |
+| `session-law-2017-008/` | EDUCATION-STATE BOARD OF EDUCATION MEMBERSHIP | 1 | As enacted |
+| `session-law-2017-009/` | BOARD OF INSURANCE EXAMINERS-REPEAL | 1 | As enacted |
+| `session-law-2017-010/` | HIGHER EDUCATION FISCAL PROCEDURE AMENDMENTS | 1 | As enacted |
+| `session-law-2017-013/` | BORROWING AUTHORITY FOR DEPARTMENT OF TRANSPORTATION | 1 | As enacted |
+| `session-law-2017-014/` | STUDENT DATA PRIVACY, SECURITY AND TRANSPARENCY | 1 | As enacted |
+| `session-law-2017-015/` | INSURANCE CODE-AMENDMENTS | 1 | As enacted |
+| `session-law-2017-016/` | JUDICIAL BRANCH BUDGET PROCESSES | 1 | As enacted |
+| `session-law-2017-018/` | SELECT WATER COMMITTEE REVIEW OF PROJECTS | 1 | As enacted |
+| `session-law-2017-019/` | BANK SERVICE CORPORATIONS | 1 | As enacted |
+| `session-law-2017-020/` | FUEL TAX APPEALS | 1 | As enacted |
+| `session-law-2017-022/` | COMPUTER EXTORTION | 1 | As enacted |
+| `session-law-2017-023/` | BANKING REVISIONS | 1 | As enacted |
+| `session-law-2017-024/` | LICENSE REVOCATION PROCESS | 1 | As enacted |
+| `session-law-2017-025/` | CERTIFICATION OF CASES TO STATE BOARD OF EQUALIZATION | 1 | As enacted |
+| `session-law-2017-026/` | COUNTY BOARDS OF EQUALIZATION | 1 | As enacted |
+| `session-law-2017-028/` | PENITENTIARY SAVINGS FUND | 1 | As enacted |
+| `session-law-2017-029/` | CREDIT FOR REINSURANCE | 1 | As enacted |
+| `session-law-2017-030/` | SEALING OF TRUST DOCUMENTS | 1 | As enacted |
+| `session-law-2017-033/` | INVESTMENT OF PUBLIC FUNDS | 1 | As enacted |
+| `session-law-2017-035/` | STORAGE TANKS | 1 | As enacted |
+| `session-law-2017-036/` | STUDENT OWNERSHIP AND PRIVACY RIGHTS | 1 | As enacted |
+| `session-law-2017-037/` | UNIFORM TRUST CODE AMENDMENTS | 1 | As enacted |
+| `session-law-2017-038/` | EMS LICENSURE-INTERSTATE COMPACT | 1 | As enacted |
+| `session-law-2017-041/` | OBSOLETE LAWS | 1 | As enacted |
+| `session-law-2017-042/` | LEGISLATIVE APPROPRIATIONS | 1 | As enacted |
+| `session-law-2017-043/` | WATER PROJECTS-MAP AND PLAT FILING REQUIREMENTS | 1 | As enacted |
+| `session-law-2017-044/` | SPECIAL DISTRICT PUBLIC RECORDS-BOCES | 1 | As enacted |
+| `session-law-2017-047/` | MILITARY DEPARTMENT RECORDKEEPING | 1 | As enacted |
+| `session-law-2017-048/` | VETERAN LICENSE PLATE STICKERS-REPEAL | 1 | As enacted |
+| `session-law-2017-050/` | ALCOHOLIC BEVERAGES REVISIONS | 1 | As enacted |
+| `session-law-2017-051/` | LIMITED LIABILITY COMPANIES | 1 | As enacted |
+| `session-law-2017-052/` | FUND BALANCE DEFINITION | 1 | As enacted |
+| `session-law-2017-053/` | GOVERNMENT ETHICS-CLERKS OF THE DISTRICT COURTS | 1 | As enacted |
+| `session-law-2017-054/` | STATE INSTITUTION REVENUE ACCOUNTS | 1 | As enacted |
+| `session-law-2017-055/` | FARM LOAN PROGRAM AMENDMENTS | 1 | As enacted |
+| `session-law-2017-056/` | FOOD FREEDOM ACT-SALES LOCATIONS | 1 | As enacted |
+| `session-law-2017-057/` | BOARD OF COUNTY COMMISSIONERS DESIGNEE-ZONING CERTIFICATES | 1 | As enacted |
+| `session-law-2017-058/` | SMALL EMPLOYER HEALTH REINSURANCE PROGRAM AMENDMENTS | 1 | As enacted |
+| `session-law-2017-060/` | CHIP-PROGRAM AMENDMENTS | 1 | As enacted |
+| `session-law-2017-062/` | SPECIAL DISTRICT BUDGET REQUIREMENTS | 1 | As enacted |
+| `session-law-2017-063/` | LIQUOR DISPENSING ROOMS | 1 | As enacted |
+| `session-law-2017-064/` | APPROVAL OF WATER FUNDS TRANSFER | 1 | As enacted |
+| `session-law-2017-066/` | GUIDES AND OUTFITTERS-PENALTIES | 1 | As enacted |
+| `session-law-2017-068/` | SPONSORSHIP OF LEGISLATION | 1 | As enacted |
+| `session-law-2017-070/` | SECURITY FOR ON DEPOSIT PUBLIC FUNDS | 1 | As enacted |
+| `session-law-2017-071/` | NONRESIDENT EMPLOYER BONDING REQUIREMENTS | 1 | As enacted |
+| `session-law-2017-073/` | LOCAL OPTIONAL SALES AND USE TAXES | 1 | As enacted |
+| `session-law-2017-074/` | SCHOOL FINANCE-INTERFUND BORROWING | 1 | As enacted |
+| `session-law-2017-075/` | OMNIBUS WATER BILL-CONSTRUCTION | 1 | As enacted |
+| `session-law-2017-076/` | BOARD OF PROFESSIONAL ENGINEERS AND LAND SURVEYORS | 1 | As enacted |
+| `session-law-2017-077/` | ELECTIONS-RECOUNT DEPOSITS | 1 | As enacted |
+| `session-law-2017-079/` | AGENT ORANGE HEALTH AWARENESS MONTH | 1 | As enacted |
+| `session-law-2017-080/` | TRIBAL LICENSE PLATES | 1 | As enacted |
+| `session-law-2017-081/` | POSTMORTEM DESPOILING AND DISPOSAL PENALTIES | 1 | As enacted |
+| `session-law-2017-082/` | ENTERPRISE TECHNOLOGY SERVICES AMENDMENTS | 1 | As enacted |
+| `session-law-2017-083/` | SEX OFFENDER REGISTRATION-ACCESSORIES | 1 | As enacted |
+| `session-law-2017-085/` | SALES FROM REMOTE SELLERS | 1 | As enacted |
+| `session-law-2017-086/` | SECRETARY OF STATE’S OFFICE-AMENDMENTS | 1 | As enacted |
+| `session-law-2017-088/` | PUBLIC PURPOSE INVESTMENTS | 1 | As enacted |
+| `session-law-2017-089/` | COUNTY COLLECTIVE ACCOUNTS | 1 | As enacted |
+| `session-law-2017-092/` | COURT ORDERED PLACEMENTS-AGE RESTRICTIONS | 1 | As enacted |
+| `session-law-2017-093/` | LLC-DISSOLUTION DISTRIBUTIONS | 1 | As enacted |
+| `session-law-2017-094/` | SCHOOL FINANCE-COURT ORDERED PLACEMENT | 1 | As enacted |
+| `session-law-2017-095/` | EDUCATION ACCOUNTABILITY | 1 | As enacted |
+| `session-law-2017-099/` | WATER RIGHTS PROCEDURES | 1 | As enacted |
+| `session-law-2017-100/` | WORKER’S COMPENSATION-DELINQUENT EMPLOYERS | 1 | As enacted |
+| `session-law-2017-101/` | RETURN OF VICTIM’S PROPERTY HELD AS EVIDENCE | 1 | As enacted |
+| `session-law-2017-102/` | UNEMPLOYMENT INSURANCE-DELINQUENCY CONTRIBUTIONS | 1 | As enacted |
+| `session-law-2017-103/` | DEVELOPMENTAL PRESCHOOL PAYMENT CALCULATIONS- AMENDMENTS | 1 | As enacted |
+| `session-law-2017-104/` | AD VALOREM TAXATION-LIENS ON MINERAL PRODUCTION | 1 | As enacted |
+| `session-law-2017-107/` | SALVAGE TITLE-UPDATES | 1 | As enacted |
+| `session-law-2017-108/` | DEPARTMENT OF FAMILY SERVICES-STATUTORY AMENDMENTS | 1 | As enacted |
+| `session-law-2017-116/` | COLLECTION OF ANTLERS AND HORNS | 1 | As enacted |
+| `session-law-2017-118/` | SPEECH PATHOLOGY AND AUDIOLOGY | 1 | As enacted |
+| `session-law-2017-119/` | FISHING LICENSES | 1 | As enacted |
+| `session-law-2017-121/` | LIVESTOCK INSPECTIONS AND INVESTIGATORS | 1 | As enacted |
+| `session-law-2017-122/` | GAME AND FISH LICENSES-CONFIDENTIALITY | 1 | As enacted |
+| `session-law-2017-123/` | TOBACCO SETTLEMENT DATA SHARING | 1 | As enacted |
+| `session-law-2017-124/` | TELEPHARMACY-AMENDMENTS | 1 | As enacted |
+| `session-law-2017-125/` | PROBATE CODE AMENDMENTS | 1 | As enacted |
+| `session-law-2017-127/` | FEDERAL NATURAL RESOURCE POLICY ACCOUNT | 1 | As enacted |
+| `session-law-2017-130/` | DIVORCE-RESIDENCY | 1 | As enacted |
+| `session-law-2017-131/` | BACKGROUND CHECKS-ACCESS TO FEDERAL TAX INFORMATION | 1 | As enacted |
+| `session-law-2017-133/` | SERVICE AND ASSISTANCE ANIMALS | 1 | As enacted |
+| `session-law-2017-135/` | HONOR AND REMEMBER FLAG | 1 | As enacted |
+| `session-law-2017-136/` | OPIATE OVERDOSE EMERGENCY TREATMENT | 1 | As enacted |
+| `session-law-2017-138/` | BAR AND GRILL LIQUOR LICENSE INCREASE | 1 | As enacted |
+| `session-law-2017-141/` | MALICIOUS CRUELTY TO ANIMALS | 1 | As enacted |
+| `session-law-2017-142/` | AGRICULTURAL TAX VALUATION-FARMSTEAD | 1 | As enacted |
+| `session-law-2017-144/` | SEX OFFENDER REGISTRATION FEES AND PENALTIES | 1 | As enacted |
+| `session-law-2017-145/` | IMPROVEMENT AND SERVICE DISTRICTS-SERVICES | 1 | As enacted |
+| `session-law-2017-146/` | MENTOR SMALL GAME AND GAME BIRD HUNTING | 1 | As enacted |
+| `session-law-2017-150/` | ECONOMIC DEVELOPMENT ACCOUNT FUNDING | 1 | As enacted |
+| `session-law-2017-154/` | WYOMING UNIFORM TRANSFERS TO MINORS ACT- AMENDMENTS | 1 | As enacted |
+| `session-law-2017-155/` | SCHOOL FACILITY PROPERTY INSURANCE | 1 | As enacted |
+| `session-law-2017-156/` | BUSINESS ENTITIES-COMMUNICATIONS CONTACT | 1 | As enacted |
+| `session-law-2017-157/` | SENIOR CITIZEN DISTRICTS-USE OF REVENUES | 1 | As enacted |
+| `session-law-2017-158/` | DISPOSITION OF LOTTERY PROCEEDS | 1 | As enacted |
+| `session-law-2017-159/` | GAME AND FISH FEES | 1 | As enacted |
+| `session-law-2017-161/` | SENIOR CITIZEN DISTRICT ELECTIONS | 1 | As enacted |
+| `session-law-2017-162/` | INOPERATIVE LIQUOR LICENSES | 1 | As enacted |
+| `session-law-2017-164/` | LOCAL GOVERNMENTS-PLAN REVIEW AUTHORITY | 1 | As enacted |
+| `session-law-2017-166/` | REAL ESTATE BROKERS AND SALESPERSONS | 1 | As enacted |
+| `session-law-2017-167/` | NURSE PRACTICE ACT REVISIONS | 1 | As enacted |
+| `session-law-2017-168/` | CERTIFIED PUBLIC ACCOUNTANTS-AMENDMENTS | 1 | As enacted |
+| `session-law-2017-169/` | WYOMING PHARMACY ACT-AMENDMENTS | 1 | As enacted |
+| `session-law-2017-175/` | CIRCUIT COURT JUDGE SALARIES | 1 | As enacted |
+| `session-law-2017-176/` | ENERGY SCIENCE STIPENDS AND FELLOWSHIPS | 1 | As enacted |
+| `session-law-2017-178/` | FRANCHISE BUSINESS RELATIONSHIPS | 1 | As enacted |
+| `session-law-2017-179/` | OBSOLETE REPORTING REQUIREMENTS-REPEAL AND MODIFICATION | 1 | As enacted |
+| `session-law-2017-180/` | HOMELESS MINORS | 1 | As enacted |
+| `session-law-2017-181/` | MANUFACTURING MACHINERY EXEMPTION SUNSET DATE | 1 | As enacted |
+| `session-law-2017-186/` | ABORTION AMENDMENTS | 1 | As enacted |
+| `session-law-2017-187/` | ABORTION–ULTRASOUND INFORMATION | 1 | As enacted |
+| `session-law-2017-188/` | PARENTAL RIGHTS | 1 | As enacted |
+| `session-law-2017-189/` | AUTOMATIC RESTORATION OF THE RIGHT TO VOTE | 1 | As enacted |
+| `session-law-2017-190/` | NUDE IMAGE OF A MINOR DISSEMINATED OR POSSESSED BY A MINOR | 1 | As enacted |
+| `session-law-2017-191/` | DISPARITY IN WAGES AND BENEFITS BETWEEN MEN AND WOMEN | 1 | As enacted |
+| `session-law-2017-193/` | VIRTUAL EDUCATION | 1 | As enacted |
+| `session-law-2017-195/` | VETERANS PREFERENCE | 1 | As enacted |
+| `session-law-2017-196/` | EXTERIOR RESIDENTIAL STORM DAMAGE REPAIR CONTRACTS | 1 | As enacted |
+| `session-law-2017-197/` | LIMITATIONS ON DELEGATES-CONSTITUTION AMENDMENT CONVENTIONS | 1 | As enacted |
+| `session-law-2017-198/` | GRAY WOLF DAMAGE COMPENSATION ELIGIBLITY | 1 | As enacted |
+| `session-law-2017-199/` | SEXUAL ASSAULT-SCHOOL EMPLOYEE | 1 | As enacted |
+| `session-law-2017-206/` | SPENDING POLICY AMENDMENTS-2 | 1 | As enacted |
+| `session-law-2017-208/` | MOTOR VEHICLE FRANCHISES-EXCEPTION | 1 | As enacted |
+| `session-law-2017-209/` | SCHOOL SAFETY AND SECURITY | 1 | As enacted |
+| `session-law-2017-213/` | GAME BIRD FARMS-GREATER SAGE GROUSE | 1 | As enacted |
+| `session-law-2018-001/` | AD VALOREM TAX COLLECTIONS | 1 | As enacted |
+| `session-law-2018-002/` | STATE CONSTRUCTION DEPARTMENT-AMENDMENTS | 1 | As enacted |
+| `session-law-2018-003/` | WYOMING MONEY TRANSMITTER ACT-VIRTUAL CURRENCY EXEMPTION | 1 | As enacted |
+| `session-law-2018-004/` | AUDIT REQUIREMENTS FOR CONSERVATION DISTRICTS | 1 | As enacted |
+| `session-law-2018-006/` | REAL ESTATE EXEMPTION RESTORATION | 1 | As enacted |
+| `session-law-2018-007/` | CUSTODY IN THE BEST INTEREST OF THE CHILDREN | 1 | As enacted |
+| `session-law-2018-008/` | PURPLE HEART DAY AND STATE | 1 | As enacted |
+| `session-law-2018-009/` | GAME ANIMAL LICENSES-LIMITATIONS | 1 | As enacted |
+| `session-law-2018-010/` | ANTELOPE HUNT LICENSES | 1 | As enacted |
+| `session-law-2018-012/` | ORPHAN SITE REMEDIATION FUNDING | 1 | As enacted |
+| `session-law-2018-013/` | INSURANCE-CORPORATE GOVERNANCE ANNUAL DISCLOSURE | 1 | As enacted |
+| `session-law-2018-014/` | INSURANCE-AUDITED ANNUAL FINANCIAL REPORTS | 1 | As enacted |
+| `session-law-2018-015/` | MEDICINE LODGE STATE ARCHAEOLOGICAL SITE | 1 | As enacted |
+| `session-law-2018-016/` | SMALL WATER PROJECTS | 1 | As enacted |
+| `session-law-2018-017/` | WATER DEVELOPMENT PROJECT REQUIREMENTS | 1 | As enacted |
+| `session-law-2018-018/` | COURT INFORMATION TECHNOLOGY EQUIPMENT | 1 | As enacted |
+| `session-law-2018-021/` | INSURANCE CODE REVISIONS | 1 | As enacted |
+| `session-law-2018-022/` | REQUIRED REPORTS IN ADOPTIONS | 1 | As enacted |
+| `session-law-2018-023/` | FIRE PROTECTION REVOLVING ACCOUNT | 1 | As enacted |
+| `session-law-2018-025/` | COLLECTION OF STATE FINANCIAL OBLIGATIONS | 1 | As enacted |
+| `session-law-2018-026/` | CORRECTIONS EXCEPTION TO DEFENSE OF HABITATION LAW | 1 | As enacted |
+| `session-law-2018-028/` | INVESTMENT OF STATE FUNDS-AMENDMENTS | 1 | As enacted |
+| `session-law-2018-029/` | OBSOLETE REPORTING-DEPARTMENT OF WORKFORCE SERVICES | 1 | As enacted |
+| `session-law-2018-030/` | STATE PARKS DESIGNATIONS-UPDATES | 1 | As enacted |
+| `session-law-2018-031/` | WYOMING RETIREMENT PLANS-MEMBER ACCOUNTS | 1 | As enacted |
+| `session-law-2018-033/` | MOTOR CLUB SERVICES UPDATES | 1 | As enacted |
+| `session-law-2018-034/` | INSTREAM FLOW CONSULTANT | 1 | As enacted |
+| `session-law-2018-035/` | SCHOOL FINANCE-MAJOR MAINTENANCE FORMULA | 1 | As enacted |
+| `session-law-2018-037/` | DUPLICATE TITLES-MOTOR VEHICLES | 1 | As enacted |
+| `session-law-2018-038/` | WORKER’S COMPENSATION-EXTRATERRITORIAL RECIPROCITY | 1 | As enacted |
+| `session-law-2018-039/` | NONRESIDENT EMPLOYER BONDING | 1 | As enacted |
+| `session-law-2018-041/` | STATE EMERGENCY RESPONSE COMMISSION MEMBERSHIP | 1 | As enacted |
+| `session-law-2018-044/` | OPEN BLOCKCHAIN TOKENS-EXEMPTIONS | 1 | As enacted |
+| `session-law-2018-045/` | PROPERTY TAXATION-DIGITAL CURRENCIES | 1 | As enacted |
+| `session-law-2018-047/` | ELECTRONIC CORPORATE RECORDS | 1 | As enacted |
+| `session-law-2018-048/` | VETERANS’ SKILLED NURSING CENTER | 1 | As enacted |
+| `session-law-2018-049/` | ORGAN DONATION PROMOTION-TASK FORCE | 1 | As enacted |
+| `session-law-2018-050/` | WYOMING LOTTERY REVENUES | 1 | As enacted |
+| `session-law-2018-051/` | ESTELLE REEL | 1 | As enacted |
+| `session-law-2018-052/` | MINER’S HOSPITAL BOARD ACCOUNT | 1 | As enacted |
+| `session-law-2018-053/` | EXCISE TAX AUDITS | 1 | As enacted |
+| `session-law-2018-054/` | GAME AND FISH DEPARTMENT-BUDGET REQUESTS | 1 | As enacted |
+| `session-law-2018-055/` | PUBLIC UTILITY REGULATION-JOINT POWERS ENTITIES | 1 | As enacted |
+| `session-law-2018-057/` | UTILITIES-RATE MAKING | 1 | As enacted |
+| `session-law-2018-058/` | MILITARY SERVICE RELIEF ACT ADDITIONAL PROTECTIONS | 1 | As enacted |
+| `session-law-2018-059/` | WYOMING WOMEN’S SUFFRAGE PATHWAY-HIGHWAY DESIGNATION | 1 | As enacted |
+| `session-law-2018-060/` | 2018 LARGE PROJECT FUNDING | 1 | As enacted |
+| `session-law-2018-061/` | MOTOR VEHICLE REGISTRATION-DEPLOYED MILITARY MEMBERS | 1 | As enacted |
+| `session-law-2018-062/` | INTERFUND LOAN ACCOUNTS AND INTEREST RATES | 1 | As enacted |
+| `session-law-2018-063/` | STALKING REVISIONS | 1 | As enacted |
+| `session-law-2018-064/` | EDUCATION REPORTING-CHILDREN OF MILITARY PERSONNEL | 1 | As enacted |
+| `session-law-2018-065/` | HATHAWAY SCHOLARSHIP APPLICATION DEADLINE-EXTENSION | 1 | As enacted |
+| `session-law-2018-066/` | ROADSIDE WAIVER OF PROPERTY RIGHTS PROHIBITED | 1 | As enacted |
+| `session-law-2018-067/` | MUNICIPAL COURT AUTHORITY-CONDITIONAL SUSPENSION OF FINES | 1 | As enacted |
+| `session-law-2018-068/` | DOMESTIC ABUSE-PHONE NUMBERS | 1 | As enacted |
+| `session-law-2018-069/` | ALTERNATIVE SCHOOL ACCOUNTABILITY | 1 | As enacted |
+| `session-law-2018-070/` | LOCAL GOVERNMENT DISTRIBUTIONS | 1 | As enacted |
+| `session-law-2018-073/` | APPROVAL OF BRIDGE DESIGNS, PLANS AND SPECIFICATIONS | 1 | As enacted |
+| `session-law-2018-074/` | WYOMING CHILDREN’S TRUST FUND-AMENDMENTS | 1 | As enacted |
+| `session-law-2018-075/` | JUSTICE REFORM-GRADUATED SANCTIONS | 1 | As enacted |
+| `session-law-2018-076/` | PRODUCED WATER TREATMENT | 1 | As enacted |
+| `session-law-2018-078/` | COMMON COLLEGE TRANSCRIPTS | 1 | As enacted |
+| `session-law-2018-079/` | MOVE OVER REQUIREMENT | 1 | As enacted |
+| `session-law-2018-081/` | LEGISLATOR COMMUNICATIONS ON RECORDINGS AND BROADCASTS | 1 | As enacted |
+| `session-law-2018-082/` | STATE SONGS | 1 | As enacted |
+| `session-law-2018-083/` | MUNICIPAL JURISDICTION | 1 | As enacted |
+| `session-law-2018-084/` | PRESCRIPTION AND POSSESSION OF FDA APPROVED DRUGS | 1 | As enacted |
+| `session-law-2018-085/` | CONCEALED WEAPONS IN PLACES OF WORSHIP | 1 | As enacted |
+| `session-law-2018-088/` | UNIFORMITY IN DOMESTIC VIOLENCE LAW | 1 | As enacted |
+| `session-law-2018-091/` | NOTICE OF HEARING TO REOPEN AN ESTATE-AMENDMENTS | 1 | As enacted |
+| `session-law-2018-092/` | BOARD OF LAW EXAMINERS APPOINTMENT-SUPREME COURT RULES | 1 | As enacted |
+| `session-law-2018-093/` | BIOLOGICAL PRODUCTS-PHARMACIES | 1 | As enacted |
+| `session-law-2018-096/` | CONTROLLED SUBSTANCE PRESCRIPTION TRACKING | 1 | As enacted |
+| `session-law-2018-097/` | ORDERS OF PROTECTION-REVISIONS | 1 | As enacted |
+| `session-law-2018-098/` | LARGE PROJECT ACCOUNT MODIFICATIONS | 1 | As enacted |
+| `session-law-2018-099/` | AMENDMENTS TO AGENCY PLANS AND NEW PROGRAM REVIEW-2 | 1 | As enacted |
+| `session-law-2018-100/` | SCHOOL FACILITY PROPERTY INSURANCE | 1 | As enacted |
+| `session-law-2018-101/` | ELECTIONS-NOTICES AND RESOLUTIONS | 1 | As enacted |
+| `session-law-2018-102/` | REAL PROPERTY AS A COLLATERAL BOND | 1 | As enacted |
+| `session-law-2018-103/` | SCHOOL FINANCE RECALIBRATION-TRANSPORTATION | 1 | As enacted |
+| `session-law-2018-104/` | VERTICAL TAKEOFF AND LANDING AIRCRAFT-REGULATION | 1 | As enacted |
+| `session-law-2018-105/` | HUNTING COLORS-FLUORESCENT PINK | 1 | As enacted |
+| `session-law-2018-106/` | OPIOID ADDICTION TASK FORCE | 1 | As enacted |
+| `session-law-2018-107/` | PROFESSIONAL LICENSING-APPLICANT CRIMINAL RECORDS | 1 | As enacted |
+| `session-law-2018-109/` | VETERANS TUITION PROGRAM LIMITS | 1 | As enacted |
+| `session-law-2018-110/` | MILITARY SPOUSE UNEMPLOYMENT SUNSET REPEAL | 1 | As enacted |
+| `session-law-2018-112/` | GOVERNMENT EFFICIENCY PROJECT | 1 | As enacted |
+| `session-law-2018-113/` | RESEARCH AND WILDLIFE INFORMATION-CONFIDENTIALITY | 1 | As enacted |
+| `session-law-2018-114/` | PENITENTIARY SAVINGS FUND-AMENDMENTS | 1 | As enacted |
+| `session-law-2018-115/` | PURCHASE OF WATER RIGHTS AND FACILITIES | 1 | As enacted |
+| `session-law-2018-116/` | IMPERSONATION THROUGH ELECTRONIC MEANS-SPOOFING | 1 | As enacted |
+| `session-law-2018-117/` | SPEEDING FINES AMENDMENTS-2 | 1 | As enacted |
+| `session-law-2018-118/` | ELECTION CODE REVISIONS | 1 | As enacted |
+| `session-law-2018-119/` | PUBLIC EMPLOYEE RETIREMENT PLAN-CONTRIBUTIONS | 1 | As enacted |
+| `session-law-2018-120/` | GENETIC INFORMATION PRIVACY | 1 | As enacted |
+| `session-law-2018-121/` | OMNIBUS WATER BILL-CONSTRUCTION | 1 | As enacted |
+| `session-law-2018-122/` | STATE FAIR ENDOWMENT | 1 | As enacted |
+| `session-law-2018-123/` | EDUCATION-COMPUTER SCIENCE AND COMPUTATIONAL THINKING | 1 | As enacted |
+| `session-law-2018-124/` | COMMERCIAL AIR SERVICE IMPROVEMENT | 1 | As enacted |
+| `session-law-2018-125/` | ECONOMIC DIVERSIFICATION AND DEVELOPMENT | 1 | As enacted |
+| `session-law-2018-126/` | ECONOMIC DIVERSIFICATION-BROADBAND SERVICES | 1 | As enacted |
+| `session-law-2018-127/` | KICKSTART WYOMING-ECONOMIC DIVERSIFICATION | 1 | As enacted |
+| `session-law-2018-129/` | GLIDER KIT VEHICLES-TITLE AND REGISTRATION | 1 | As enacted |
+| `session-law-2018-130/` | DRUG DONATION PROGRAM ACT-EXPANSION | 1 | As enacted |
+| `session-law-2018-132/` | RETIREMENT INCOME SECURITY TASK FORCE-2 | 1 | As enacted |
 
 ## Sources
 
@@ -1053,7 +1290,7 @@ Session-law dates come from each included act’s own effective-date clause. Its
 
 ## Limits
 
-The 2021 volume includes the 2020 special session; the 2022 volume includes the 2021 special session. Each special session is recorded separately from the regular session. Session volumes before 2019, resolutions, administrative rules and historical consolidated title texts are not included. Some numbered chapters in the 2019–2026 volumes are not included because their commencement is split or conditional, their approval date is not unambiguous, or their table/text order needs further validation.
+The 2021 volume includes the 2020 special session; the 2022 volume includes the 2021 special session. Each special session is recorded separately from the regular session. Session volumes before 2017, resolutions, administrative rules and historical consolidated title texts are not included. Some numbered chapters in the 2017–2026 volumes are not included because their commencement is split or conditional, their approval date is not unambiguous, or their table/text order needs further validation. Of these, 113 chapters in the 2017–2018 volumes remain held for date, approval or full-text validation.
 
 The session volumes’ frontmatter contains a decorative state emblem, outside the numbered acts. The included acts contain no normative raster images. Textual tables are included only where their order passes independent source comparison.
 
