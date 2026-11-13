@@ -7,7 +7,7 @@
 
 Part of [lexifina/global-law](https://github.com/lexifina/global-law). This repository records Wyoming legislative text issued by the Legislative Service Office.
 
-The record contains the Constitution, all 44 statute-title PDFs linked by the publisher, and 1416 numbered session-law chapters from the 2015–2026 official volumes, including their special sessions.
+The record contains the Constitution, all 44 statute-title PDFs linked by the publisher, and 1458 numbered session-law chapters from the 2013–2026 official volumes, including their special sessions.
 
 The statute-title records contain the publisher’s current-text edition. Numbered session-law records contain the text as enacted, including the publisher’s original deletions and insertions, represented by strikeout and underlining. These records do not reconstruct earlier consolidated versions of the statute titles.
 
@@ -1474,6 +1474,48 @@ The statute-title records contain the publisher’s current-text edition. Number
 | `session-law-2016-111/` | LOCAL GOVERNMENT DISTRIBUTIONS | 1 | As enacted |
 | `session-law-2016-118/` | BUDGET SHORTFALL MEASURES | 1 | As enacted |
 | `session-law-2016-119/` | BOARDS AND COMMISSIONS PARTY AFFILIATION | 1 | As enacted |
+| `session-law-2013-006/` | SUPREME COURT DECISIONS AND SESSION LAWS | 1 | As enacted |
+| `session-law-2013-017/` | MOTOR VEHICLE-LEMON LAW | 1 | As enacted |
+| `session-law-2013-055/` | HUNTING LICENSE RAFFLE | 1 | As enacted |
+| `session-law-2013-060/` | TIPS AND GRATUITIES-SALES TAX | 1 | As enacted |
+| `session-law-2013-062/` | OFFICE OF CONSUMER ADVOCATE-REVISIONS | 1 | As enacted |
+| `session-law-2013-067/` | COLLECTION OF UNPAID WAGES | 1 | As enacted |
+| `session-law-2013-072/` | BIGHORN SHEEP RELOCATION | 1 | As enacted |
+| `session-law-2013-078/` | ILLEGAL POSSESSION OF WILDLIFE PARTS | 1 | As enacted |
+| `session-law-2013-079/` | RECREATION LIABILITY-ACTIVITIES | 1 | As enacted |
+| `session-law-2013-081/` | INTERFERENCE WITH EMERGENCY CALLS | 1 | As enacted |
+| `session-law-2013-087/` | PUBLIC DEFENDER-FEE SCHEDULE AND INDIGENCY STANDARD | 1 | As enacted |
+| `session-law-2013-090/` | UNIFORM TRUST CODE-NOTICE OF CLAIMS | 1 | As enacted |
+| `session-law-2013-094/` | HITCHHIKING | 1 | As enacted |
+| `session-law-2013-104/` | MUNICIPAL JURISDICTION-EXTRATERRITORIAL AUTHORITY | 1 | As enacted |
+| `session-law-2013-106/` | FIREFIGHTERS’ LICENSE PLATES | 1 | As enacted |
+| `session-law-2013-111/` | MEDICAL ASSISTANCE-HOSPICE CARE | 1 | As enacted |
+| `session-law-2013-113/` | WYOMING HEALTH INSURANCE POOL-PREMIUMS | 1 | As enacted |
+| `session-law-2013-119/` | JUVENILE CITATIONS-NOTIFICATION BY LAW ENFORCEMENT | 1 | As enacted |
+| `session-law-2013-126/` | CIRCUIT COURT MAGISTRATES | 1 | As enacted |
+| `session-law-2013-128/` | PARTITION ACTIONS SUBJECT TO SUBDIVISION LAWS | 1 | As enacted |
+| `session-law-2013-163/` | BONDS FOR CERTIFICATES OF TITLE | 1 | As enacted |
+| `session-law-2013-169/` | PROBATE-OBJECTIONS TO APPOINTMENT | 1 | As enacted |
+| `session-law-2013-173/` | OUTDOOR ADVERTISING-FEES | 1 | As enacted |
+| `session-law-2013-174/` | RESTAURANT LIQUOR LICENSEES-DISPENSING ROOMS | 1 | As enacted |
+| `session-law-2013-183/` | HOME ENERGY ASSISTANCE PROGRAM | 1 | As enacted |
+| `session-law-2013-187/` | SURFACE MINING OPERATIONS-EXEMPTIONS | 1 | As enacted |
+| `session-law-2014-001/` | PROBATION AND PAROLE AGENT ARREST AUTHORITY | 1 | As enacted |
+| `session-law-2014-003/` | ENDOWMENT CHALLENGE PROGRAM-STATE FUNDS INVIOLATE | 1 | As enacted |
+| `session-law-2014-004/` | ENDOWMENT CHALLENGE PROGRAM-FEES | 1 | As enacted |
+| `session-law-2014-005/` | SUPERVISED PROBATION OF MISDEMEANANTS | 1 | As enacted |
+| `session-law-2014-015/` | BONDED INDEBTEDNESS MILL LEVY SUPPLEMENT | 1 | As enacted |
+| `session-law-2014-018/` | COURT REPORTER FEE ELIMINATION | 1 | As enacted |
+| `session-law-2014-032/` | REAL ESTATE LOANS-LIMITATIONS | 1 | As enacted |
+| `session-law-2014-034/` | TRANSFER ON DEATH DEED | 1 | As enacted |
+| `session-law-2014-045/` | MEDICAID WAIVER PROGRAMS-CASE MANAGEMENT SYSTEM | 1 | As enacted |
+| `session-law-2014-059/` | CONSTITUENT SERVICE ALLOWANCE | 1 | As enacted |
+| `session-law-2014-087/` | INVOLUNTARY HOSPITALIZATION-EMERGENCY HEARINGS | 1 | As enacted |
+| `session-law-2014-095/` | SCHOOL FINANCE-LOCAL RESOURCES | 1 | As enacted |
+| `session-law-2014-096/` | TEACHERS-NATIONAL CERTIFICATION PAY INCENTIVE | 1 | As enacted |
+| `session-law-2014-114/` | WARRANTLESS SEARCHES-REPEAL | 1 | As enacted |
+| `session-law-2014-124/` | EXPUNGEMENT OF FELONIES | 1 | As enacted |
+| `session-law-2014-128/` | REGISTRATION FEES-HOUSE TRAILERS | 1 | As enacted |
 
 ## Sources
 
@@ -1489,7 +1531,7 @@ Session-law dates come from each included act’s own effective-date clause. Its
 
 ## Limits
 
-The 2021 volume includes the 2020 special session; the 2022 volume includes the 2021 special session. Each special session is recorded separately from the regular session. Session volumes before 2015, resolutions, administrative rules and historical consolidated title texts are not included. Some numbered chapters in the 2015–2026 volumes are not included because their commencement is split or conditional, their approval date is not unambiguous, or their table/text order needs further validation. Of these, 113 chapters in the 2017–2018 volumes and 116 chapters in the 2015–2016 volumes remain held for date, approval or full-text validation.
+The 2021 volume includes the 2020 special session; the 2022 volume includes the 2021 special session. Each special session is recorded separately from the regular session. Session volumes before 2013, resolutions, administrative rules and historical consolidated title texts are not included. Some numbered chapters in the 2013–2026 volumes are not included because their commencement is split or conditional, their approval date is not unambiguous, or their table/text order needs further validation. Of these, 113 chapters in the 2017–2018 volumes, 116 chapters in the 2015–2016 volumes and 290 chapters in the 2013–2014 volumes remain held for date, approval or full-text validation.
 
 The session volumes’ frontmatter contains a decorative state emblem, outside the numbered acts. The included acts contain no normative raster images. Textual tables are included only where their order passes independent source comparison.
 
